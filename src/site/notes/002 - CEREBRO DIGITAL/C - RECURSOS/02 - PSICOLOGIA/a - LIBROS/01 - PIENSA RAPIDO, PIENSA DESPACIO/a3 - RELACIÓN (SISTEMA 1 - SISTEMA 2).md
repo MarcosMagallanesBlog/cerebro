@@ -24,7 +24,7 @@
 
 > . . . (El sistema 1) responde a cuestiones más fáciles que las que se le están planteando, y entiende poco de lógica y estadística.
 
-Esta relación simbiótica es armoniosa la mayor parte del tiempo. También se puede encontrar situaciones donde la relación entre ambos da como resultado un problema. A esto lo denominaremos [[a3a - CONFLICTO\|conflicto]].
+Esta relación simbiótica es armoniosa la mayor parte del tiempo. Pero también se pueden encontrar situaciones donde la relación entre ambos genera errores. A esto lo denominaremos [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a3a - CONFLICTO\|conflicto]].
 
 ---
 links:
