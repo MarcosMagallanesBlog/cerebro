@@ -18,4 +18,4 @@
 
 
 # NOTA
-Esta página está basada en el sistema de toma de notas [[004 - PAGINA/ZETTELKASTEN\|ZETTELKASTEN]]
+Esta página está basada en el sistema de toma de notas [[004 - PAGINA/ZETTELKASTEN\|ZETTELKASTEN]] (haga clic para entender como leerlo correctamente, o diviértase intentándolo).
