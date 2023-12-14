@@ -18,6 +18,6 @@ La forma de evitar este pensamiento podría ser la vigilancia activa, indicada e
 
 
 
->==El Sistema 2 tiene cierta capacidad para cambiar la manera de trabajar del Sistema 1== programando las funciones normalmente automáticas de la atención y la memoria.
+
 
 </div></div>
