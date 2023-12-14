@@ -1,5 +1,5 @@
 ---
-{"nota-permanente":["SOLIDA"],"fuente-literaria":"[[01 - PIENSA RAPIDO, PIENSA DESPACIO]]","dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a-dos-sistemas-de-pensamiento/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a-dos-sistemas-de-pensamiento/"}
 ---
 
 tipo: [[002 - CEREBRO DIGITAL/NOTA PERMANENTE\|NOTA PERMANENTE]]
