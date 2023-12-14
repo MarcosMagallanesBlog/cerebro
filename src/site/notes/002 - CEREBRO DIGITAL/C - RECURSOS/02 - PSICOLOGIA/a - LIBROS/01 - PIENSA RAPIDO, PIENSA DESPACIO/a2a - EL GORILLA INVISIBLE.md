@@ -27,7 +27,7 @@ Si bien el libro no lo señala así, tomaremos esto como una especie de [[002 - 
 
 > ==Ambos sistemas permanecen activos mientras estamos despiertos==. ==El Sistema 1 actúa automáticamente== y ==el Sistema 2 se encuentra en== un confortable ==modo de [[Ley del mínimo esfuerzo\|mínimo esfuerzo]]==, y solo una fracción de su capacidad está ocupada. ==El Sistema 1 hace continuamente sugerencias al Sistema 2==: impresiones, intuiciones, intenciones y sensaciones.  Si cuentan con ==la aprobación del Sistema 2, las impresiones e intuiciones se tornan creencias y los impulsos, acciones voluntarias==. Si todo se desarrolla sin complicaciones, como ocurre la mayor parte del tiempo, ==el Sistema 2 acepta las sugerencias del Sistema 1 con escasa o ninguna modificación==. Generalmente damos crédito a nuestras impresiones y cumplimos nuestros deseos, y eso está bien... por lo común.
 
->  ==Cuando el Sistema 1 encuentra una dificultad, llama al Sistema 2 para que le sugiera un procedimiento más detallado y preciso== que pueda resolver el problema. El Sistema 2 es movilizado cuando surge un problema para el que el Sistema 1 no tiene solución alguna, como probablemente le haya sucedido al lector cuando se ha encontrado con el problema de multiplicar 17 × 24.
+>  ==Cuando el Sistema 1 encuentra una dificultad, llama al Sistema 2 para que le sugiera un procedimiento más detallado y preciso== que pueda resolver el problema. El Sistema 2 es movilizado cuando surge un problema para el que el Sistema 1 no tiene solución alguna, como probablemente le haya sucedido al lector cuando se ha encontrado con el problema de multiplicar [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2#^fe0cc4\|17 x 24]].
 
 ==*El Sistema 2 también se activa cuando aparece un problema que altera el modelo del mundo que tiene el Sistema 1.*== 
 >El experimento del gorila demuestra que ==para recibir estímulos sorprendentes es necesaria cierta atención.
@@ -43,6 +43,10 @@ Si bien el libro no lo señala así, tomaremos esto como una especie de [[002 - 
 
 Esta relación simbiótica es armoniosa la mayor parte del tiempo. También se puede encontrar situaciones donde la relación entre ambos da como resultado un problema. A esto lo denominaremos [[a3a - CONFLICTO\|conflicto]].
 
+---
+links:
+[[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a1 - SISTEMA 1\|a1 - SISTEMA 1]]
+[[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|a2 - SISTEMA 2]]
 
 </div></div>
 
@@ -57,5 +61,6 @@ Esta relación simbiótica es armoniosa la mayor parte del tiempo. También se p
 </div></div>
 
 
+---
 links:
 [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2a1 - EL GORILLA INVISIBLE EN EL TRADING\|a2a1 - EL GORILLA INVISIBLE EN EL TRADING]]
