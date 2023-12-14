@@ -5,11 +5,9 @@
 #ilusion-cognitiva 
 
 ---
-Nota: Mirar el video antes de continuar leyendo.
+==Nota: Mirar el video antes de continuar leyendo.==
 # VIDEO
 https://www.youtube.com/watch?v=hWqWL9SH09o
-Nota: Mirar el video antes de continuar leyendo.
-# FÉNOMENO
 
 >El gorila invisible. Ambos grabaron un breve vídeo de dos equipos de baloncesto encestando la pelota, de los cuales uno vestía camisetas blancas y el otro negras. Se pidió a los espectadores del vídeo que contaran el número de pases hechos por el equipo blanco, ignorando a los jugadores de negro. ==La tarea es difícil y muy absorbente==. ==En la mitad del vídeo apareció una mujer disfrazada de gorila que cruzó el campo==, se golpeó el pecho y desapareció. ==El gorila se ve durante nueve segundos==. Muchos miles de personas han visto el vídeo, y alrededor de la mitad no notaron nada extraño. ==La tarea que continuamente debían realizar== —y especialmente si una de las instrucciones era la de ignorar a uno de los equipos— ==las volvió ciegas==. ==A nadie que viera el vídeo sin tener que realizar aquella tarea se le hubiera escapado la presencia del gorila==.
 
@@ -41,7 +39,7 @@ Si bien el libro no lo señala así, tomaremos esto como una especie de [[002 - 
 
 > . . . (El sistema 1) responde a cuestiones más fáciles que las que se le están planteando, y entiende poco de lógica y estadística.
 
-Esta relación simbiótica es armoniosa la mayor parte del tiempo. También se puede encontrar situaciones donde la relación entre ambos da como resultado un problema. A esto lo denominaremos [[a3a - CONFLICTO\|conflicto]].
+Esta relación simbiótica es armoniosa la mayor parte del tiempo. Pero también se pueden encontrar situaciones donde la relación entre ambos genera errores. A esto lo denominaremos [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a3a - CONFLICTO\|conflicto]].
 
 ---
 links:
