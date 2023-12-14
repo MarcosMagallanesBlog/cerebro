@@ -51,6 +51,8 @@ Esto queda en evidencia con el experimento del [[002 - CEREBRO DIGITAL/C - RECUR
 ## EJEMPLO DE OPERACIÓN DEL SISTEMA 2
 
 ==**17 × 24**==
+{ #fe0cc4}
+
 
 >Inmediatamente se habrá dado cuenta de que se trata de una multiplicación, y probablemente de que podría hacerla con papel y lápiz o mentalmente. Tiene algún vago conocimiento intuitivo del rango de posibles resultados. Nada le habría costado reconocer que, por ejemplo, 12.609 y 123 no son soluciones. Pero no hubiera necesitado más tiempo para estar seguro de que la respuesta no es 568.No le viene a la mente una solución, y siente que puede elegir entre hacer o no hacer el cálculo. Si no lo ha hecho aún, debería intentar resolver ahora la multiplicación, o al menos una parte de ella.
 
