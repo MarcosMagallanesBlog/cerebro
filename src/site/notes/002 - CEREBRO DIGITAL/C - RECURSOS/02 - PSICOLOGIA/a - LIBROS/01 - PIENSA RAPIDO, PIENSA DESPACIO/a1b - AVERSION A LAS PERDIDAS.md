@@ -14,5 +14,6 @@ Entender que con "importante", ya que hablamos de cuestiones evolutivas, nos ref
 
 También nos sentimos mal ante las pérdidas de terceros, siempre y cuando la relación que tengamos con ellos sea de neutra a positiva, o tengamos un grado de empatía muy elevado (en caso de terceros con relación neutra y negativa)
 
+---
 Links:
 [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a1b1 - AVERSIÓN A LAS PÉRDIDAS EN EL TRADING\|a1b1 - AVERSIÓN A LAS PÉRDIDAS EN EL TRADING]]
