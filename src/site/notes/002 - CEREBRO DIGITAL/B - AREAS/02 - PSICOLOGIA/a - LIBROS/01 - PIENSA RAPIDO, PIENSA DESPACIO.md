@@ -28,3 +28,14 @@ _El Economista_
 
 https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1989599
 ## Comentarios
+
+
+
+
+
+
+
+
+
+
+
