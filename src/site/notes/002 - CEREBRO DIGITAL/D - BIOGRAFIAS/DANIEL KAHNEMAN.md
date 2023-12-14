@@ -1,5 +1,5 @@
 ---
-{"fuente":"https://www.buscabiografias.com/biografia/verDetalle/9918/Daniel%20Kahneman","dg-publish":true,"permalink":"/002-cerebro-digital/d-biografias/daniel-kahneman/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/002-cerebro-digital/d-biografias/daniel-kahneman/"}
 ---
 
 
