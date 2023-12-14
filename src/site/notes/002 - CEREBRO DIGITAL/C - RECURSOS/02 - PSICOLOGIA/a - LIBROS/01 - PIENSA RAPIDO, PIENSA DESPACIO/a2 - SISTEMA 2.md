@@ -42,10 +42,13 @@ El Sistema 2 ==centra la atención== en las ==actividades mentales esforzadas qu
 
 >Todo el mundo tiene alguna conciencia de que ==la capacidad de atención es limitada==, y nuestro comportamiento social tiene bien en cuenta estas limitaciones. Cuando el conductor de un coche está adelantando a un camión en una carretera angosta, por ejemplo, los pasajeros adultos dejan muy sensatamente de hablar. ==Saben que no es una buena idea distraer al conductor, y también sospechan que este se ha vuelto momentáneamente sordo porque no quiere oír lo que le dicen.==
 
-Esto queda en evidencia con el experimento del [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2a - EL GORILLA INVISIBLE\|el gorilla invisibe]]
+Esto queda en evidencia con el experimento titulado [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2a - EL GORILLA INVISIBLE\|el gorilla invisibe]]
 
 >==El Sistema 2 tiene cierta capacidad para cambiar la manera de trabajar del Sistema 1== programando las funciones normalmente automáticas de la atención y la memoria.
 { #2b8863}
+
+> Una de las tareas del Sistema 2 es vencer los impulsos del Sistema 1. En otras palabras, el Sistema 2 es el encargado del [[autocontrol\|autocontrol]]
+{ #158df0}
 
 
 ## EJEMPLO DE OPERACIÓN DEL SISTEMA 2
