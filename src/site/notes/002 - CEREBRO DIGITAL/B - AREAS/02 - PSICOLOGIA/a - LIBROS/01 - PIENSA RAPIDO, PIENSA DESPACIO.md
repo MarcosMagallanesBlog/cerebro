@@ -1,5 +1,5 @@
 ---
-{"nombre":"PIENSA RAPIDO, PIENSA DESPACIO","area":"PSICOLOGIA","autor":"DANIEL KAHNEMAN","formato":["LIBRO"],"annotation-target":"![[PIENSA RAPIDO, PIENSA DESPACIO (DANIEL KAHNEMAN).pdf]]","inicio":"2023-12-11","finalizado":null,"dg-publish":true,"permalink":"/002-cerebro-digital/b-areas/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/002-cerebro-digital/b-areas/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/"}
 ---
 
 tipo: [[002 - CEREBRO DIGITAL/NOTA LITERARIA\|NOTA LITERARIA]]
