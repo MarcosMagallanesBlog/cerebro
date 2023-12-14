@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a1b-aversion-a-las-perdidas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a1b-aversion-a-las-perdidas/"}
 ---
 
 #reflexion
