@@ -6,7 +6,7 @@
 ---
 # SISTEMA 1
 
->Describo el Sistema 1 como elque sin esfuerzo genera impresiones y sentimientos que son las fuentesprincipales de las creencias explícitas y las elecciones deliberadas del Sistema 2.
+>Describo el Sistema 1 como el que sin esfuerzo genera impresiones y sentimientos que son las fuentes principales de las creencias explícitas y las elecciones deliberadas del Sistema 2.
 { #71f24c}
 
 
