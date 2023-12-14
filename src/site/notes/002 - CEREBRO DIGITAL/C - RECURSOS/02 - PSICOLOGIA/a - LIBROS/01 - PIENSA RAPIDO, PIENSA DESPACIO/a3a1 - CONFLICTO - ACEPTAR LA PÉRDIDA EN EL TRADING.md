@@ -36,4 +36,4 @@ Lista de soluciones
 > Una de las tareas del Sistema 2 es vencer los impulsos del Sistema 1. En otras palabras, el Sistema 2 es el encargado del [[autocontrol\|autocontrol]]
 
 </div></div>
- ... hacernos cumplir con el trading plan pautado a pesar del miedo, y jurarnos cumplirlo, esto con la finalidad de que a la larga, el balance evidentemente se manifieste a nuestra favor, y esa [[cambio de identidad\|"evidencia"]] nueva, cambie nuestro Marco de Referencia al respecto. 
+ … hacernos cumplir con el trading plan pautado a pesar del miedo, y jurarnos cumplirlo, esto con la finalidad de que a la larga, el balance evidentemente se manifieste a nuestra favor, y esa [[cambio de identidad\|"evidencia"]] nueva, cambie nuestro Marco de Referencia al respecto. 
