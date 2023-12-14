@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a1b1-aversion-a-las-perdidas-en-el-trading/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a1b1-aversion-a-las-perdidas-en-el-trading/"}
 ---
 
 #reflexion/TRADING 
