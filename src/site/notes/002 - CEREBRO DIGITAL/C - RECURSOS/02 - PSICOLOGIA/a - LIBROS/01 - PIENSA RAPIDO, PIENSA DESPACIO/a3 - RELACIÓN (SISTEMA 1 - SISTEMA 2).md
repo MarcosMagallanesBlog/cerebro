@@ -20,9 +20,8 @@
 
 ==El Sistema 2 es capaz de controlar continuamente nuestro comportamiento==, y este control se intensifica cuando estamos por cometer un error. Un ejemplo es cuando nos comportamos educadamente a pesar de estar enojados.
 
-> La división del trabajo entre el Sistema 1 y el Sistema 2 es muy eficiente: minimiza el esfuerzo y optimiza la ejecución. Esta disposición funciona bien la mayor parte del tiempo, porque el Sistema 1 es en general muy bueno en lo que hace: sus modelos de situaciones familiares son adecuados, sus predicciones acorto plazo suelen ser también adecuadas, y sus respuestas iniciales a los retos son rápidas y generalmente apropiadas. Sin embargo, en el Sistema 1 hay sesgos, errores sistemáticos que es propenso a cometer en circunstancias específicas.
+> ==La división del trabajo entre el Sistema 1 y el Sistema 2 es muy eficiente==: ==minimiza el esfuerzo y optimiza la ejecución==. Esta disposición ==funciona bien la mayor parte del tiempo, porque el Sistema 1 es en general muy bueno en lo que hace: sus modelos de situaciones familiares son adecuados==, sus predicciones acorto plazo suelen ser también adecuadas, y sus respuestas iniciales a los retos son rápidas y generalmente apropiadas. ==Sin embargo, en el Sistema 1 hay sesgos, errores sistemáticos que es propenso a cometer en circunstancias específicas.==
 
-> . . . responde a cuestiones más fáciles que las que se le están planteando, y entiende poco de lógica y estadística.
-
+> . . . (El sistema 1) responde a cuestiones más fáciles que las que se le están planteando, y entiende poco de lógica y estadística.
 
 Esta relación simbiótica es armoniosa la mayor parte del tiempo. También se puede encontrar situaciones donde la relación entre ambos da como resultado un problema. A esto lo denominaremos [[a3a - CONFLICTO\|conflicto]].
