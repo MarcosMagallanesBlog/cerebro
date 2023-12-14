@@ -46,41 +46,6 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 
 
 
->
->*Se siente aún máscapaz de responder correctamente, pero mantener a raya la respuesta contrariaes un agobio, y hace que la labor sea más lenta*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^0ys1dumuobco\|show annotation]]
->
->
->
->{ #0ys1dumuobco}
 
 
-
->
->*Experimenta un conflicto entreuna tarea que se propone realizar y una respuesta automática que interfiere conella.*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^mmnhde4kx6g\|show annotation]]
->
->
->
->{ #mmnhde4kx6g}
-
-
-
->
->*Una de las tareas del Sistema 2 es vencer los impulsos del Sistema 1. En otraspalabras, el Sistema 2 es el encargado del autocontrol*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^t3fny42nfn\|show annotation]]
->
->
->
->{ #t3fny42nfn}
-
-
-
->
->*muchos conductores recuerdan que su cochepatinaba  fuera  de  control  sobre  el  hielo  y  cuánto  les  costaba  seguir  unasinstrucciones bien estudiadas que descartan lo que ellos naturalmente harían: « Alpatinar, siga  conduciendo  y,  haga  lo  que  haga, no  pise  el  freno» .  Y  cada  serhumano ha tenido la experiencia de no decir a alguien que se vaya al infierno.*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^omzholnw7ds\|show annotation]]
->
->
->
->{ #omzholnw7ds}
 
