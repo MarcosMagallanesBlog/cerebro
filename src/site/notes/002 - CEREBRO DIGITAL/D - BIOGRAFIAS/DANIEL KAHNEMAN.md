@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/d-biografias/daniel-kahneman/"}
 ---
 
+#biografia
 
+---
 ## Daniel Kahneman
 ![Daniel-Kahneman.jpg](/img/user/900%20-%20ANEXO/Daniel-Kahneman.jpg)
 #### (1934/03/05 - Unknown)
@@ -52,4 +54,3 @@ Fue incluido en la lista de 100 pensadores globales más influyentes de la revis
 Su primera esposa fue Irah Kahneman, psicóloga con la que tuvo dos hijos.
 Su segunda esposa fue la psicóloga cognitiva Anne Treisman desde 1978 hasta su muerte en 2018.
 
-#biografia
