@@ -23,7 +23,7 @@ Trader principiante que aprendió un trading plan y una estrategia.
 2) Por falta de experiencia y errores en la percepción del trading (normalmente llamado psicotrading) tendrá problemas para enfocarse en lo importante. (Parámetros de la estrategia, autocontrol, etc.)
 3) Cuando crea ver algo, creerá que eso es lo que debe buscar, cometerá el Error del Gorilla, ya que solamente buscará comprar o ventas, según su sesgo. También, debido a su enfoque limitado no podrá centrarse en todas las variables de su estrategia simultáneamente, por lo que no verá señales ni alarmas tan obvias hasta que sea tarde o haya terminado el tarde, y se dirá "¿por qué compré tan caro?"
 
-Una forma muy buena de evitar estos problemas de principiante es utilizar un sistema de [[b - CALL AND POINTING\|CALL AND POINTING]] detallando lo que hay que observar y el flujo de operación (si pasa "a" => hago "b").
+Una forma muy buena de evitar estos problemas de principiante es utilizar un sistema de [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/b - CALL AND POINTING\|CALL AND POINTING]] detallando lo que hay que observar y el flujo de operación (si pasa "a" => hago "b").
 ### ESCENARIO 2
 Trader con experiencia y madurez psiquica/emocional
 1) Se sentará frente al gráfico buscando "nada" y automáticamente, su Sistema 1, que monitoriza todo y ofrece sugerencias constantes al Sistema 2 para que comprenda su "entorno", le sugerirá lo más probable.
@@ -33,4 +33,4 @@ Trader con experiencia y madurez psiquica/emocional
 
 Nota: este es un escenario al que se accede después de mucho tiempo dependiendo de la capacidad cognitiva y tiempo de aplicación. Una buena forma de acelerar este proceso es hacer "backtesting". Esto cargará tu memoria de escenarios probables, que, con el tiempo, el "Sistema 1" reconocerá automáticamente y sugerirá en forma de intuición, según [[002 - CEREBRO DIGITAL/B - AREAS/01 - TRADING/a - LIBROS/01 - TRADING EN LA ZONA\|Trading en la Zona]]
 
-==Este escenario== hace del trading una actividad más sencilla, puesto que el enfoque necesario para operar es mucho menor y el Sistema 1 facilitará la detección de oportunidades y zonas erróneas. Tiene relación directa, creo yo, con lo que [[MARK DOUGLAS\|MARK DOUGLAS]] menciona como [[a - ENTRAR EN LA ZONA\|ENTRAR EN LA ZONA]].
+==Este escenario== hace del trading una actividad más sencilla, puesto que el enfoque necesario para operar es mucho menor y el Sistema 1 facilitará la detección de oportunidades y zonas erróneas. Tiene relación directa, creo yo, con lo que [[002 - CEREBRO DIGITAL/D - BIOGRAFIAS/MARK DOUGLAS\|MARK DOUGLAS]] menciona como [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/a - ENTRAR EN LA ZONA\|ENTRAR EN LA ZONA]].
