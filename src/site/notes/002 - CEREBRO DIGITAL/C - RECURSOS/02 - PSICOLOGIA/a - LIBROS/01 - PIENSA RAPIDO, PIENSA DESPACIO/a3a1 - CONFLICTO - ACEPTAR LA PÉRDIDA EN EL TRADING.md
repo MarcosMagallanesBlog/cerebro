@@ -27,13 +27,13 @@ Sistema 2, quiere aceptarlas==.
 Las hay, y muchas, dependiendo de la persona algunas tendrán más efectos que las otras. Aquí, lo importante está en darse cuenta que el error está en uno mismo y en su sistema de creencias, y tener la humildad de aceptar el problema por "mea culpa", y buscar cambiar nuestra percepción de la pérdida en el trading.
 
 Lista de soluciones
-1) Se puede usar como referencia la mentalidad de la gente a la que aspiramos a ser, traders ejemplares. (Esta es una técnica vinculada al [[cambio de identidad\|cambio de identidad]] del libro Hábitos Atómicos)
+1) Se puede usar como referencia la mentalidad de la gente a la que aspiramos a ser, traders ejemplares. (Esta es una técnica vinculada al [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/cambio de identidad\|cambio de identidad]] del libro Hábitos Atómicos)
 2) Haciendo uso del Sistema 2, con gran esfuerzo cognitivo... 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a2-sistema-2/#158df0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-> Una de las tareas del Sistema 2 es vencer los impulsos del Sistema 1. En otras palabras, el Sistema 2 es el encargado del [[autocontrol\|autocontrol]]
+> Una de las tareas del Sistema 2 es vencer los impulsos del Sistema 1. En otras palabras, el Sistema 2 es el encargado del [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/d - OTROS/autocontrol\|autocontrol]]
 
 </div></div>
- … hacernos cumplir con el trading plan pautado a pesar del miedo, y jurarnos cumplirlo, esto con la finalidad de que a la larga, el balance evidentemente se manifieste a nuestra favor, y esa [[cambio de identidad\|"evidencia"]] nueva, cambie nuestro Marco de Referencia al respecto. 
+ … hacernos cumplir con el trading plan pautado a pesar del miedo, y jurarnos cumplirlo, esto con la finalidad de que a la larga, el balance evidentemente se manifieste a nuestra favor, y esa [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/cambio de identidad\|"evidencia"]] nueva, cambie nuestro Marco de Referencia al respecto. 
