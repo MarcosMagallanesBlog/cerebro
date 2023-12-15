@@ -47,7 +47,7 @@ Esto queda en evidencia con el experimento titulado [[002 - CEREBRO DIGITAL/C - 
 >==El Sistema 2 tiene cierta capacidad para cambiar la manera de trabajar del Sistema 1== programando las funciones normalmente automáticas de la atención y la memoria.
 { #2b8863}
 
-> Una de las tareas del Sistema 2 es vencer los impulsos del Sistema 1. En otras palabras, el Sistema 2 es el encargado del [[autocontrol\|autocontrol]]
+> Una de las tareas del Sistema 2 es vencer los impulsos del Sistema 1. En otras palabras, el Sistema 2 es el encargado del [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/d - OTROS/autocontrol\|autocontrol]]
 { #158df0}
 
 
