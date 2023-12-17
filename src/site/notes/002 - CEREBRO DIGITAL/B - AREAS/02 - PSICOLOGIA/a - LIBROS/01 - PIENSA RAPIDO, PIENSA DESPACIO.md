@@ -106,43 +106,7 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 
 
 
->
->*El Sistema 2 y los circuitos eléctricos de nuestras casas tienen una capacidad*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^it6y5c3m0fb\|show annotation]]
->
->
->
->{ #it6y5c3m0fb}
 
-
-
->
->*limitada,  pero  responden  de  diferente  manera  a  una  sobrecarga  peligrosa*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^eno4dzi9yq8\|show annotation]]
->
->
->
->{ #eno4dzi9yq8}
-
-
-
->
->*Elinterruptor  automático  salta  cuando  la  demanda  de  corriente  es  excesiva,haciendo que todos los dispositivos de este circuito dejen de funcionar al instante.*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^0tctox65f4ar\|show annotation]]
->
->
->
->{ #0tctox65f4ar}
-
-
-
->
->*En  contraste  con  lo  que  sucede  en  la  instalación  eléctrica,  la  respuesta  a  lasobrecarga mental es selectiva y precisa: el Sistema 2 protege la actividad másimportante,  de  modo  que  esta  recibe  la  atención  que  necesita;  la  « capacidadsobrante»   se  asigna  segundo  a  segundo  a  otras  tareas*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^qfg54jr6djg\|show annotation]]
->
->
->
->{ #qfg54jr6djg}
 
 
 
@@ -256,33 +220,6 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 
 
 
->
->*Supongamos ahora que al final de esta página el lector encuentra una nuevainstrucción: contar todas las comas de la página siguiente. Esto le resultará másdifícil,  porque  tendrá  que  vencer  la  tendencia  recién  adquirida  a  centrar  laatención en la letra f.*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^80sjiak2swy\|show annotation]]
->
->
->
->{ #80sjiak2swy}
-
-
-
->
->*Uno de los descubrimientos más notables que los psicólogoscognitivos han hecho en las últimas décadas es que pasar de una tarea a otrarequiere esfuerzo, especialmente cuando el tiempo apremia*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^6d0js99t8u\|show annotation]]
->
->
->
->{ #6d0js99t8u}
-
-
-
->
->*La  necesidaddel  cambio  rápido  es  una  de  las  razones  de  que  Suma-3  y  la  multiplicaciónmental sean tan difíciles. Para llevar a cabo la tarea Suma-3, es preciso reteneral  mismo  tiempo  varios  dígitos  en  la  memoria  operativa,[32]  asociando  cadadígito  a  una  operación  particular:  algunos  dígitos  están  en  la  cola  para  sertransformados,  uno  se  halla  en  proceso  de  transformación,  y  otros,  yatransformados, son retenidos para informar de los resultados*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^yr3jqrundms\|show annotation]]
->
->
->
->{ #yr3jqrundms}
 
 
 
@@ -305,24 +242,6 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 >{ #zgdd905bnya}
 
 
-
->
->*Amenos  que  tengamos  la  suerte  de  poseer  una  memoria  operativa  de  grancapacidad, nos veremos obligados a trabajar de manera incómoda*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^qhyam9vmn2q\|show annotation]]
->
->
->
->{ #qhyam9vmn2q}
-
-
-
->
->*El lector habrá observado al hacer el ejercicio Suma-3 lo inhabitual que espara su mente trabajar tan duramente. Incluso si pensamos en la vida cotidiana,pocas  de  las  tareas  mentales  en  las  que  nos  embarcamos  durante  un  día  detrabajo son tan exigentes como Suma-3*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^yr5bzcn729o\|show annotation]]
->
->
->
->{ #yr5bzcn729o}
 
 
 
