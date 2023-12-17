@@ -5,7 +5,7 @@
 #ejercicio/mental
 
 ---
-# CONCEPTO
+# SUMA -1 SUMA -3 CONCEPTO
 
 ==Es un ejercicio mental que involucra intensamente al [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|Sistema 2]]
 
