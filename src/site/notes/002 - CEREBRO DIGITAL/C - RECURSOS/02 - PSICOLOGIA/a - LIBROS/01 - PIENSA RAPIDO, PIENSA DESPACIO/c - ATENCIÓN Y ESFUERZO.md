@@ -16,7 +16,7 @@ Como ya se mencionó antes, ==el Sistema 2 puede ser instruido para regular un c
 
 >Amenos que tengamos la suerte de poseer una memoria operativa de gran capacidad, ==nos veremos obligados a trabajar de manera incómoda.==
 
-==Llevar el Sistema 2 al límite de su capacidad de atención==, y por ende, al sobreesfuerzo, durante un tiempo significativo, al igual que el cable de un tendido electico recorrido por una corriente superior a la que tolera, ==llevará al Sistema 2 a desistir en la tarea. Eso nos hará perder la capacidad de enfoque durante un período corto de tiempo.==
+==Llevar el Sistema 2 al límite de su capacidad de atención==, y por ende, al sobreesfuerzo, durante un tiempo significativo, al igual que el cable de un tendido electico recorrido por una corriente superior a la que tolera, ==llevará al Sistema 2 al colapso y finalmente a desistir en la tarea. Eso nos hará perder la capacidad de enfoque durante un período corto de tiempo.==
 { #1abfbb}
 
 
