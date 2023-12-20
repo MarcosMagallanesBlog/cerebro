@@ -20,4 +20,4 @@
 
 Han demostrado concluyentemente que todas las variantes de esfuerzo voluntario —cognitivo, emocional o físico— hacen uso, al menos en parte, de un fondo compartido de energía mental. ==El esfuerzo de la voluntad o autocontrol es fatigoso==; si hemos de forzarnos a hacer algo, estamos menos dispuestos, o somos menos capaces, de ejercer el autocontrol si el próximo reto está cerca. > se ha denominado a esto [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2c1 - AGOTAMIENTO DEL EGO\|agotamiento del ego]].
 
-También, se han encontrado evidencias que sugieren que el [[a2c2 - SISTEMA 2 AUTOCONTROL E INTELIGENCIA\|control de la atención es un indicio de inteligencia, y que puede adiestrarse.]]
+También, se han encontrado evidencias que sugieren que el [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2c3 - SISTEMA 2 - AUTOCONTROL E INTELIGENCIA\|control de la atención es un indicio de inteligencia, y que puede adiestrarse.]]
