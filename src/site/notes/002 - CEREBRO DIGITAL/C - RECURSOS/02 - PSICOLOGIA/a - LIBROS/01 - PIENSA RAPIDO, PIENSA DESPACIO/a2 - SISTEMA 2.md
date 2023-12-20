@@ -46,11 +46,11 @@ El Sistema 2 ==centra la atención== en las ==actividades mentales esforzadas qu
 
 Esto queda en evidencia con el experimento titulado [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2a - EL GORILLA INVISIBLE\|el gorilla invisibe]]
 
->==El Sistema 2 tiene cierta capacidad para cambiar la manera de trabajar del Sistema 1== programando las funciones normalmente automáticas de la atención y la memoria.
-{ #2b8863}
+>==El Sistema 2 tiene cierta capacidad para cambiar la manera de trabajar del Sistema 1== programando las funciones normalmente automáticas de la atención y la memoria.{ #2b8863}
 
-> Una de las tareas del Sistema 2 es vencer los impulsos del Sistema 1. En otras palabras, el Sistema 2 es el encargado del [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/d - OTROS/autocontrol\|autocontrol]]
-{ #158df0}
+
+> Una de las tareas del Sistema 2 es vencer los impulsos del Sistema 1. En otras palabras, el Sistema 2 es el encargado del [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/d - OTROS/autocontrol\|autocontrol]]{ #158df0}
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a2b-sistema-2-y-su-frecuencia/#e25e22" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
