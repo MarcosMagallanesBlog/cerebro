@@ -21,5 +21,5 @@ El Sistema 2 también tiene su ==velocidad natural==. ==Una velocidad donde se u
 >Cuando aprieto el paso, mi atención es desviada cada vez con más frecuencia a la experiencia de caminar y al mantenimiento deliberado de un paso más rápido. . .
 >Además, el esfuerzo físico de mover mi cuerpo rápidamente por el camino necesita de un esfuerzo mental de autocontrol para resistir la necesidad de disminuir la velocidad. . .
 
->==El autocontrol y el pensamiento deliberado aparentemente hacen uso del mismo presupuesto limitado de esfuerzo.== [[a2c - RELACION (SISTEMA 2 - AUTOCONTROL\|RELACION (SISTEMA 2 - AUTOCONTROL)]]
+>==El autocontrol y el pensamiento deliberado aparentemente hacen uso del mismo presupuesto limitado de esfuerzo.== [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2c - RELACION (SISTEMA 2 - AUTOCONTROL)\|RELACION (SISTEMA 2 - AUTOCONTROL)]]
 
