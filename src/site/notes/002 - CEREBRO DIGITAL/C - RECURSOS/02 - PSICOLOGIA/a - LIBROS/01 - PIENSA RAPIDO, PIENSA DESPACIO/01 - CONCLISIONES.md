@@ -20,6 +20,11 @@ PD: Estas conclusiones son extraídas literalmente del libro.
 « Lo que me vino rápidamente a la mente era una intuición del Sistema 1.  
 Tendré que volver a empezar y buscar en mi memoria deliberadamente.»
 
+>HABLANDO DE CONTROL
+>« Ella no tuvo que esforzarse para permanecer cuatro horas dedicada a su tarea. Se encontraba en un estado de fluir.»
+>« Su ego estaba agotado después de un largo día de reuniones. Por eso volvió a usar los modos de operar convencionales en vez de estudiar detenidamente e problema.»
+>« No se molestó en pensar si lo que decía tenía algún sentido. ¿Tenía un Sistema 2 perezoso o estaba demasiado fatigado?»
+>« Desafortunadamente, tiende a decir lo primero que se le ocurre. Es probable que no soporte la demora de la gratificación. Débil Sistema 2.»
 
 ---
 Links: [[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO\|01 - PIENSA RAPIDO, PIENSA DESPACIO]]
