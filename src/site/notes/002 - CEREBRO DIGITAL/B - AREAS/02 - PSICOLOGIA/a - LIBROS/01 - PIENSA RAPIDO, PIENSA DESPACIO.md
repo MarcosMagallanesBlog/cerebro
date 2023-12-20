@@ -87,81 +87,59 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 
 
 
->
->*El controlador perezoso*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^vltbh0zaf4\|show annotation]]
->
->
->
->{ #vltbh0zaf4}
 
 
 
->
->*El Sistema 2 también tiene su velocidad natural.*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^quvfpofr0fn\|show annotation]]
->
->
->
->{ #quvfpofr0fn}
 
 
 
->
->*Tomamos muchas pequeñas decisiones cuandoconducimos,  absorbemos  alguna  información  cuando  leemos  el  periódico  eintercambiamos cumplidos rutinarios con la esposa o con un colega, todo esto conpoco esfuerzo y sin tensión alguna. Justo como en un paseo.*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^j9013nktn4o\|show annotation]]
->
->
->
->{ #j9013nktn4o}
 
 
 
->
->*Normalmente es fácil y realmente muy agradable pasear y pensar al mismotiempo,  pero  llevadas  al  extremo,  estas  actividades  parecen  competir  por  losrecursos limitados del Sistema 2.*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^36ogqxvnu7y\|show annotation]]
->
->
->
->{ #36ogqxvnu7y}
 
 
 
->
->*Mientras pasea cómodamente con un amigo, pídale quecalcule 23 × 78 mentalmente, y que lo haga inmediatamente. Es casi seguro quese pare en seco*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^ktc9prl0ft\|show annotation]]
->
->
->
->{ #ktc9prl0ft}
 
 
 
->
->*Además,  el  esfuerzo  físico  demover mi cuerpo rápidamente por el camino necesita de un esfuerzo mental deautocontrol para resistir la necesidad de disminuir la velocidad*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^vksfcr9ycqs\|show annotation]]
->
->
->
->{ #vksfcr9ycqs}
 
 
 
->
->*Cuando aprieto el paso, mi atención esdesviada  cada  vez  con  más  frecuencia  a  la  experiencia  de  caminar  y  almantenimiento deliberado de un paso más rápido*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^u7yhtqvhou\|show annotation]]
->
->
->
->{ #u7yhtqvhou}
 
 
 
->
->*El autocontrol yel  pensamiento  deliberado  aparentemente  hacen  uso  del  mismo  presupuestolimitado de esfuerzo.*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^z0uw6zpjw4n\|show annotation]]
->
->
->
->{ #z0uw6zpjw4n}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
