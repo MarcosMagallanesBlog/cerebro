@@ -18,11 +18,17 @@
 >Otra investigación realizada por el mismo grupo identificó genes específicos que estaban implicados en el control de la atención, y mostró que los métodos de crianza también afectaban a esta capacidad, además de una estrecha relación entre la capacidad de los niños para controlar la atención y su capacidad para controlar las emociones.
 
 Aquellos niños que tomaban la galleta, se encontró que:
+{ #d3e551}
+
 >la función supervisora del Sistema 2 era débil en ellos. . .
 >no estaban dispuestos a hacer el esfuerzo necesario para comprobar sus intuiciones. . .
 >Son particularmente impulsivos, impacientes y deseosos de recibir ==una gratificación inmediata==. . .
+{ #b7d8e4}
+
 
 >El Sistema 1 es impulsivo e intuitivo, y el Sistema 2 tiene capacidad de razonamiento y es prudente, pero al menos en algunas personas es también perezoso. . . Reconocemos diferencias significativas entre individuos: unos están más cerca de su Sistema 2, y otros están más cerca de su Sistema 1. . .
+{ #8d53a9}
+
 
 O como me gusta decir, aunque mal suene: ==sabiendo que la capacidad racional es meramente humana, hay quienes son más animales que humanos.==
 
