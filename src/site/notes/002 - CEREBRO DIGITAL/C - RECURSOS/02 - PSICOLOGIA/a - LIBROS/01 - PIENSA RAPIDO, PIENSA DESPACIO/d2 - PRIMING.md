@@ -50,4 +50,4 @@ La gente normalmente, de primeras, se rehúsa a aceptar la posibilidad de no ten
 > ==Si a cualquiera de nosotros nos muestran un salvapantallas de billetes de dólar flotantes, probablemente también habríamos recogido menos lápices== para ayudar a un torpe desconocido. Nos cuesta creer que estos resultados sean aplicables a nosotros porque no corresponden a nada que encontremos en nuestra experiencia subjetiva. ==Pero nuestra experiencia subjetiva consiste en gran medida en la historia que el Sistema 2== nos cuenta sobre las cosas que nos acontecen. Los fenómenos de priming brotan de nuestro Sistema 1, al cual no tenemos acceso consciente.
 
 ---
-[[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2d - APLICACION DEL EFECTO PRIMING\|d2d - APLICACION DEL EFECTO PRIMING]]
+[[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2e - APLICACION DEL EFECTO PRIMING\|d2e - APLICACION DEL EFECTO PRIMING]]
