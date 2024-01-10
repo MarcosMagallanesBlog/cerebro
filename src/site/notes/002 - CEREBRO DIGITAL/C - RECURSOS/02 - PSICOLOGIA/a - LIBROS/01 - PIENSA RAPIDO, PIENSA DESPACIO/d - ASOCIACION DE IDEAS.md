@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/d-asociacion-de-ideas/"}
 ---
 
+tipo: [[002 - CEREBRO DIGITAL/NOTA PERMANENTE\|NOTA PERMANENTE]]
+
 ---
 # ASOCIACIÓN DE IDEAS
 
