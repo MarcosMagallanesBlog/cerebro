@@ -36,3 +36,74 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
+>*a una universidad británica.[66] ==Durante muchos años, el personal de esta oficina había pagado por el té o el caféque él mismo se servía durante el día dejando el dinero en una caja== u honestybox. Se había colocado*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^7q7xvgbgffp\|show annotation]]
+>
+>
+>
+>{ #7q7xvgbgffp}
+
+
+
+>
+>*sta con sugerencias de precios. ==Un día se colocó sinaviso  ni  explicación,  justo  encima  de  la  lista  de  precios== ,  un  póster  alargado.Durante*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^67erccxsm8a\|show annotation]]
+>
+>
+>
+>{ #67erccxsm8a}
+
+
+
+>
+>*alargado.Durante diez semanas, ==el póster presentaba cada semana una imagen nueva, deflores o de ojos que parecían mirar directamente al observador== . Nadie comentóestas  nuevas  de*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^30uzjbqew0k\|show annotation]]
+>
+>
+>
+>{ #30uzjbqew0k}
+
+
+
+>
+>*unque  raramente  lo  vislumbre. ==El  Sistema  1  le  creaimpresiones  que  a  menudo  se  introducen  en  sus  creencias  y  es  fuente  de  losimpulsos que frecuentemente determinan sus elecciones y sus actos== . Ofrece unainterpretación  táci*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^5uneaxwa8f7\|show annotation]]
+>
+>
+>
+>{ #5uneaxwa8f7}
+
