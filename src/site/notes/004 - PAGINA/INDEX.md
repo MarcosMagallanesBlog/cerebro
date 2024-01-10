@@ -48,6 +48,7 @@
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2c - PRIMING Y EL DINERO\|d2c - PRIMING Y EL DINERO]]                                                             | true   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2d - IMPULSO ASOCIATIVO\|d2d - IMPULSO ASOCIATIVO]]                                                               | true   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2e - APLICACION DEL EFECTO PRIMING\|d2e - APLICACION DEL EFECTO PRIMING]]                                         | true   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2f - PRIMING EN EL TRADING\|d2f - PRIMING EN EL TRADING]]                                                         | true   |
 
 { .block-language-dataview}
 # NOTA
