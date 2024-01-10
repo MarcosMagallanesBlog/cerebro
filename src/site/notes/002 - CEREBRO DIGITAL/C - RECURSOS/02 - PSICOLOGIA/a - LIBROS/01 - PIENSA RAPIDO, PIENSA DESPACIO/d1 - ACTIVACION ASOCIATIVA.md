@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/d1-activacion-asociativa/"}
 ---
 
-
+---
 # ACTIVACIÓN ASOCIATIVA
 
 >. . . ==ideas que han sido evocadas suscitan muchas otras en toda una cascada de actividad en su cerebro==. La ==característica esencial de este complejo de aconteceres mentales es su coherencia==. Cada elemento está conectado, y sustenta y fortalece a los demás. ==La palabra evoca recuerdos que provocan emociones que a su vez provocan expresiones faciales y otras reacciones==, como ponerse tenso y hacer gestos de rechazo. La ==expresión facial y el gesto de rechazo intensifican las sensaciones a las que están vinculados, y estas sensaciones refuerzan ideas compatibles==. Todo esto sucede con rapidez, y todo ala vez, mostrando un patrón de autor refuerzo de respuestas cognitivas, emocionales y físicas que integra una diversidad; se lo ha calificado de asociativamente coherente
