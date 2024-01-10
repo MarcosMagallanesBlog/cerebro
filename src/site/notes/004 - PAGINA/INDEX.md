@@ -46,8 +46,8 @@
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2b - VINCULO IDEOMOTOR\|d2b - VINCULO IDEOMOTOR]]                                                                 | true   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2b1 - EFECTO FLORIDA\|d2b1 - EFECTO FLORIDA]]                                                                     | true   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2c - PRIMING Y EL DINERO\|d2c - PRIMING Y EL DINERO]]                                                             | true   |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2d - APLICACION DEL EFECTO PRIMING\|d2d - APLICACION DEL EFECTO PRIMING]]                                         | true   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2d - IMPULSO ASOCIATIVO\|d2d - IMPULSO ASOCIATIVO]]                                                               | true   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2e - APLICACION DEL EFECTO PRIMING\|d2e - APLICACION DEL EFECTO PRIMING]]                                         | false  |
 
 { .block-language-dataview}
 # NOTA
