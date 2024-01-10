@@ -20,4 +20,4 @@ Este fenómeno, donde una idea prima una conducta, se llama [[002 - CEREBRO DIGI
 Como ven, una acción asociada a idea de la ancianidad (caminar lento) prima ideas vinculadas a esa misma.
 
 Nota:
-Si el investigado tiene repudio al concepto de ancianidad, los efectos son opuestos, es decir, en vez de caminar rápido, caminará más a prisa.
+Si el investigado tiene repudio al concepto de ancianidad, los efectos son opuestos, es decir, en vez de caminar lento, caminará más a prisa.
