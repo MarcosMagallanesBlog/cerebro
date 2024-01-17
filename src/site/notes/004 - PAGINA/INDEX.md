@@ -49,6 +49,9 @@
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2d - IMPULSO ASOCIATIVO\|d2d - IMPULSO ASOCIATIVO]]                                                               | true   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2e - APLICACION DEL EFECTO PRIMING\|d2e - APLICACION DEL EFECTO PRIMING]]                                         | true   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2f - PRIMING EN EL TRADING\|d2f - PRIMING EN EL TRADING]]                                                         | true   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/e - FACILIDAD COGNITIVA\|e - FACILIDAD COGNITIVA]]                                                                 | true   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/e1 - TENSION COGNITIVA\|e1 - TENSION COGNITIVA]]                                                                   | true   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/e3 - FACILIDAD Y TENSIÓN COGNITIVA EN EL TRADING\|e3 - FACILIDAD Y TENSIÓN COGNITIVA EN EL TRADING]]               | \-     |
 
 { .block-language-dataview}
 # NOTA
