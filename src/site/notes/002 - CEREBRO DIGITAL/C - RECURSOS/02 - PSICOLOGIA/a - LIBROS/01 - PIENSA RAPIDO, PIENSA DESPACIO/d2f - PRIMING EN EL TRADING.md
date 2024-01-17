@@ -18,7 +18,7 @@ Esta es la forma en la que pueden primar un comportamiento en nosotros: movimien
 Acá unos ejemplos sobre manipulación:
 https://www.youtube.com/shorts/YWJwUHHlqqU
 
-Con la aparente aprobación del ETF, bitcoin debería "subir" su valor. Ellos necesitan comprar, entonces, para que haya liquidez alguien tiene que vender. Primero "se cae" y mientras todos venden, ellos compran y se posicionan en un buen precio (abajo) esperando el rally alocista. 
+Con la aparente aprobación del ETF, bitcoin debería "subir" su valor. Ellos necesitan comprar, entonces, para que haya liquidez alguien tiene que vender. Primero "se cae" induciendo ventas, mientras todos venden, los institucionales compran y se posicionan en un buen precio (abajo) esperando los futuros precios alcistas. 
 
 https://youtube.com/shorts/EeHlinAGKZs?si=BXHmw0BByBmCZvJI
 
