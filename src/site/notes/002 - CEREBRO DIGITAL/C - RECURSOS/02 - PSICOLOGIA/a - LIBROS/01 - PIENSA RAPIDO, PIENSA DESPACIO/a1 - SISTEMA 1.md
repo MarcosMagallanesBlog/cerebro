@@ -47,3 +47,5 @@ Esto nos vuelve susceptibles de cometer grandes errores de juicio, tales como [[
 Esto es un ejemplo de lo que se conoce como pensamiento intuitivo, tan pronto como notamos que el pelo de ella es negro, ==inmediatamente== tenemos la ==intuición== de que ella está enojada. De forma automática, sin esfuerzo alguno, habrá tenido una premonición de lo que ella hará.
 
 ==No nos proponemos evaluar su humor o anticipar lo que ella hará==, y ==la sensación== que tenemos a la vista de la foto es de ==no estar haciendo algo==. Es algo que le ocurre. Es un ejemplo de pensamiento rápido del sistema 1.
+
+> El Sistema 1 le crea impresiones que a menudo se introducen en sus creencias y es fuente de los impulsos que frecuentemente determinan sus elecciones y sus actos.
