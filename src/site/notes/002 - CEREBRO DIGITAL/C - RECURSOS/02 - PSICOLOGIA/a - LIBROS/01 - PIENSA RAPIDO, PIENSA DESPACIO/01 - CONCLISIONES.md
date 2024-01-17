@@ -32,5 +32,14 @@ Tendré que volver a empezar y buscar en mi memoria deliberadamente.»
 « Fueron preparados para encontrar defectos, y eso es exactamente lo que encontraron.»  
 « Su Sistema 1 construyó una historia, y su Sistema 2 se la creyó. Esto nos ocurre a todos.»  
 « El lápiz me hacía sonreír, y de hecho me siento mejor.»
+
+>==HABLANDO DE LA FACILIDAD COGNITIVA==  
+« No rechacéis sus planes comerciales solo porque la letra sea difícil de leer.»  
+« Tendremos que creerlo, pues lo han repetido muchas veces, pero debemos pensarlo bien.»  
+« La familiaridad crea vínculos. Es un efecto de mera exposición.»  
+« Hoy estoy de muy buen humor, y mi Sistema 2 está más flojo que de costumbre. Hoy debo ser especialmente cuidadoso.»
+
+
+
 ---
 Links: [[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO\|01 - PIENSA RAPIDO, PIENSA DESPACIO]]
