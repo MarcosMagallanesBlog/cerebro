@@ -26,6 +26,6 @@ El indicador tiene dos extremos.
 
 >==En un estado de facilidad cognitiva es probable que nos encontremos de buen humor, nos guste lo que vemos, creamos lo que oímos, confiemos en nuestras intuiciones==<sup>1</sup> y sintamos que la situación actual es cómoda y familiar. También es probable que nuestros pensamientos sean relativamente informales y superficiales. ==Pero cuando nuestro estado es de tensión, es más probable que estemos alerta==<sup>2</sup> y seamos suspicaces, que ==dediquemos más esfuerzos a lo que estamos haciendo==, nos sintamos menos cómodos y cometamos menos errores, pero ==también que seamos menos intuitivos y menos creativos de lo normal==<sup>3</sup>.
 
-1 - [[e2 - ILUSIONES POR FACILIDAD COGNITIVA\|e2 - ILUSIONES POR FACILIDAD COGNITIVA]]
+1 - [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/e2 - ILUSIONES POR FACILIDAD COGNITIVA\|e2 - ILUSIONES POR FACILIDAD COGNITIVA]]
 2 - [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/e1 - TENSION COGNITIVA\|e1 - TENSION COGNITIVA]]
 3 - [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/e3 - FACILIDAD Y TENSIÓN COGNITIVA EN EL TRADING\|e3 - FACILIDAD Y TENSIÓN COGNITIVA EN EL TRADING]]
