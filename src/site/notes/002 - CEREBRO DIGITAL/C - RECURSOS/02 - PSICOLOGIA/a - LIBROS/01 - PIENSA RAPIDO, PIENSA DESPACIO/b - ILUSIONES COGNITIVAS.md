@@ -10,6 +10,7 @@ tipo: [[002 - CEREBRO DIGITAL/NOTA PERMANENTE\|NOTA PERMANENTE]]
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2a - EL GORILLA INVISIBLE\|a2a - EL GORILLA INVISIBLE]]     |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a1a - ILUSION DE MULLER LYER\|a1a - ILUSION DE MULLER LYER]] |
+| [[e2 - ILUSIONES POR FACILIDAD COGNITIVA\|e2 - ILUSIONES POR FACILIDAD COGNITIVA]]                                                                               |
 
 { .block-language-dataview}
 
