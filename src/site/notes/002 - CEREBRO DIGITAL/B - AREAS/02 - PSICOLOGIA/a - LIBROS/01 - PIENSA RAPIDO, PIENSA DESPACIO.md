@@ -328,81 +328,10 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 
 
 
->
->*más generalmenteel pensamiento. ==David Stenbill, Monica Bigoutski, Shana Tirana. Acabo de inventarme estosnombres. Si el lector encuentra alguno de ellos en los próximos cinco minutos,probablemente recordará dónde los ha leído. Sabe y sabrá durante unos minutosque  no  son  nombres  de  celebridades  menores.  Pero  suponga  que  pocos  díasdespués  se  le  muestra  una  larga  lista  de  nombres  que  incluye  los  de  algunascelebridades menores y nombres « nuevos»  de personas de las que nunca haoído hablar; se pondrá a comprobar los nombres de las celebridades que hay enla  lista.  Existe  una  probabilidad  nada  desdeñable  de  que  identifique  a  DavidStenbill como una persona conocida, aunque no sabrá (por supuesto) si encontrósu nombre en un contexto cinematográfico, deportivo o político== . Larry Jacoby, elprimer psicólo*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^apbpsss6c4w\|show annotation]]
->
->
->
->{ #apbpsss6c4w}
 
 
 
->
->*ecoming Famous Overnight» .[70] ==¿Cómo sucede esto?Empiece  el  lector  preguntándose  cómo  sabe  si  alguien  es  o  no  famoso== .  Enalgunos casos de personas r*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^nrkl8ep92l\|show annotation]]
->
->
->
->{ #nrkl8ep92l}
 
 
 
->
->*sunombre dentro de unos días. ==Todo lo que tendrá es una sensación de familiaridad:ha visto ese nombre en alguna parte.== Jacoby formuló el problema con i*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^qvz6l93m03m\|show annotation]]
->
->
->
->{ #qvz6l93m03m}
-
-
-
->
->*e precisión: « La experiencia de ==familiaridad== tiene la cualidad simple, pero p*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^ui18zn614yd\|show annotation]]
->
->
->
->{ #ui18zn614yd}
-
-
-
->
->*una experiencia anterior» .[71] ==Estacualidad de algo pasado es una ilusión. La verdad es que, como Jacoby y muchosseguidores  suyos  han  demostrado,  el  nombre  de  David  Stenbill  nos  pareceráfamiliar si lo vemos porque lo veremos más claramente== . Las palabras que ha vistoantes*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^t4fs2aukez\|show annotation]]
->
->
->
->{ #t4fs2aukez}
-
-
-
->
->*rque lo veremos más claramente. ==Las palabras que ha vistoantes se vuelven más fáciles de ver de nuevo== ; podemos identificarlas mejor q*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^cmubptb9t0w\|show annotation]]
->
->
->
->{ #cmubptb9t0w}
-
-
-
->
->*segundo)  que  otraspalabras. ==En suma, experimentamos mayor facilidad cognitiva para percibir unapalabra que hemos visto con anterioridad, y es esta sensación de facilidad la quenos deja la impresión de familiaridad.== [72]La  figura  5  sugiere  una*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^hohwrqi4x6\|show annotation]]
->
->
->
->{ #hohwrqi4x6}
-
-
-
->
->*manera  de  comprobar  esto. ==Elegir  una  palabracompletamente  nueva,  la  hace  más  fácil  de  ver,  y  será  más  probablementereconocida como familiar si es inconscientemente primada mostrándola duranteunos milisegundos poco antes del test, o si se la muestra destacándola mucho másque  algunas  otras  palabras  de  la  lista.  Este  vínculo  también  opera  en  la  otradirección. Imaginemos que se nos muestra una lista de palabras más o menosdesenfocadas.  Unas  se  ven  muy  borrosas,  y  otras  menos,  y  nuestra  tarea  esidentificar las palabras que se ven con más claridad. Una palabra que hayamosvisto recientemente nos parecerá más clara que otras palabras que no nos sonfamiliares. Como indica la figura 5, los diversos modos de inducir facilidad otensión cognitivas son intercambiables; no podemos saber con exactitud qué es loque hace a las cosas cognitivamente fáciles o difíciles. Así es como se produce lailusión de familiaridad== .ILUSIONES DE VERDAD« Nueva York*
->[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^wxzg8a29mke\|show annotation]]
->
->
->
->{ #wxzg8a29mke}
 
