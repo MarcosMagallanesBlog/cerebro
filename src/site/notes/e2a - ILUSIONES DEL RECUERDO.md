@@ -19,7 +19,7 @@ El nombre de ==David Stenbill nos parecerá familiar si lo vemos porque "lo vemo
 >
 >> ==Elegir una palabra completamente nueva, la hace más fácil de ver, y será más probablemente reconocida como familiar si es inconscientemente primada mostrándola durante unos milisegundos poco antes del test, o si se la muestra destacándola mucho más que algunas otras palabras de la lista==. Este vínculo también opera en la otra dirección. Imaginemos que se nos muestra una lista de palabras más o menos desenfocadas. Unas se ven muy borrosas, y otras menos, y nuestra tarea es identificar las palabras que se ven con más claridad. Una palabra que hayamos visto recientemente nos parecerá más clara que otras palabras que no nos son familiares. Como indica la figura 5, los diversos modos de inducir facilidad o tensión cognitivas son intercambiables; no podemos saber con exactitud qué es lo que hace a las cosas cognitivamente fáciles o difíciles. Así es como se produce la ilusión de familiaridad.
 
-Acá hay un claro ejemplo de "Familiaridad" por una idea primada. Es una escena de la película focus.
+==Acá hay un claro ejemplo de "Familiaridad" por una idea primada. Es una escena de la película focus==.
 https://www.youtube.com/watch?v=8xOCo3wnAvo
 
 Acá se muestra como hacen que la "Víctima" elija el número que precisamente ellos quieren, y así caiga en la estafa, primando la idea en varias ocasiones a lo largo del día.
