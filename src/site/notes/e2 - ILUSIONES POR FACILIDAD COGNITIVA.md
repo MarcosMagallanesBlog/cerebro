@@ -8,7 +8,7 @@
 # ILUSIONES POR FACILIDAD COGNITIVA
 >La palabra ilusión nos trae a la mente ilusiones visuales, pues todos estamos familiarizados con imágenes que engañan. ==Pero la visión no es el único dominio de las ilusiones==; ==también la memoria es susceptible de ellas, y más general mente el pensamiento.==
 
-A nuestro cerebro le encantan las cosas fáciles, y si no se siente amenazado ni fuera de confort, suele simplificar ciertas obviedades mediante este mecanismo de tensión y facilidad.
+A nuestro cerebro le encantan las cosas fáciles, esto significa que estamos en un entorno controlado y por lo tanto, no se siente amenazado ni fuera de confort; nuestro cerebro suele simplificar ciertas obviedades mediante este mecanismo de tensión y facilidad, haciéndonos incurrir en diversas ilusiones.
 
 ## ALGUNAS ILUSIONES COGNITIVAS
 [[e2a - ILUSIONES DEL RECUERDO\|e2a - ILUSIONES DEL RECUERDO]]
