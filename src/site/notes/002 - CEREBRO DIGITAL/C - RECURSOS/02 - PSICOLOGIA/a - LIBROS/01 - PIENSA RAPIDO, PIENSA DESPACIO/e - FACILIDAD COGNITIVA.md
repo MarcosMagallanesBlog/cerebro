@@ -12,6 +12,8 @@ tipo: [[002 - CEREBRO DIGITAL/NOTA PERMANENTE\|NOTA PERMANENTE]]
 
 Esto, según opera el Sistema 1, ==se realiza sin que seamos consientes y de forma automática. El sistema uno tiene un "indicador" para determinar si el [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|a2 - SISTEMA 2]] exige esfuerzo extra==. Esto es la "facilidad cognitiva". 
 
+Al momento de resolver ciertas preguntas, la impresión de familiaridad la da el Sistema 1 y el Sistema 2 se basa en esta impresión para emitir un juicio (verdadero/falso).
+
 El indicador tiene dos extremos.
 [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/e - FACILIDAD COGNITIVA\|e - FACILIDAD COGNITIVA]] y [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/e1 - TENSION COGNITIVA\|e1 - TENSION COGNITIVA]].
 
