@@ -343,3 +343,21 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 
 
 
+
+
+
+
+
+
+
+
+
+>
+>*orme de Artan que al de Taahhut. ==Recuerde que el Sistema 2 es perezoso, y el esfuerzo mental causa aversión. Losreceptores de su mensaje preferirán estar a ser posible lejos de todo lo que lessugiera esfuerzo, incluida una fuente de nombre complicado== .Todos  estos  son  buenos  cons*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^rpvjwxna9nf\|show annotation]]
+>
+>
+>
+>{ #rpvjwxna9nf}
+
+
