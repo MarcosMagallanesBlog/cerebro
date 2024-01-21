@@ -4,7 +4,7 @@
 
 
 ---
-# HABITO ATOMICO - LA RAÍZ
+# HÁBITO ATÓMICO - LA RAÍZ "ETIMOLÓGICA"
 
 ### atómico  
 1. ==una cantidad extremadamente pequeña de una cosa, la unidad más pequeña== e  
