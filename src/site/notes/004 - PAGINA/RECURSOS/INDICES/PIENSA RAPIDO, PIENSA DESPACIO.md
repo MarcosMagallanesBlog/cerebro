@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/004-pagina/recursos/indices/piensa-rapido-piensa-despacio/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/004-pagina/recursos/indices/piensa-rapido-piensa-despacio/"}
 ---
 
 #index
