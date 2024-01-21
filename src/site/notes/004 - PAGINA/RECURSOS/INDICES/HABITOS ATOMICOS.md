@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/004-pagina/recursos/indices/habitos-atomicos/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/004-pagina/recursos/indices/habitos-atomicos/"}
 ---
 
 #index
