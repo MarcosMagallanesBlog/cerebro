@@ -8,8 +8,9 @@
 # NOTA LITERARIA
 [[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS\|01 - HABITOS ATOMICOS]]
 # APUNTES
-| ARCHIVO | ACCESO |
-| ------- | ------ |
+| ARCHIVO                                                                                                                                              | ACCESO |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/A - HABITO ATOMICO\|A - HABITO ATOMICO]] | true   |
 
 { .block-language-dataview}
 # NOTA
