@@ -361,3 +361,143 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 >{ #rpvjwxna9nf}
 
 
+
+
+>
+>*minante en ladiscusión  de  la ==coherencia  asociativa.== Como  hemos  visto  anteriorme*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^bdm4cwfk1b7\|show annotation]]
+>
+>
+>
+>{ #bdm4cwfk1b7}
+
+
+
+>
+>*Y ESFUERZOLa simetría de muchas ==conexiones asociativas== ha sido un tema dominante en la*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^fv6sphrhifj\|show annotation]]
+>
+>
+>
+>{ #fv6sphrhifj}
+
+
+
+>
+>*hemos  visto  anteriormente, ==laspersonas que « sonríen»  o « fruncen el ceño»  colocándose un lápiz en la boca osujetando  una  bolita  entre  sus  cejas  están  predispuestas  a  experimentar  lasemociones que el ceño fruncido y la sonrisa normalmente expresan== . La mismareciprocidad  autorref*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^wb2gfzogrc\|show annotation]]
+>
+>
+>
+>{ #wb2gfzogrc}
+
+
+
+>
+>*udios  de  facilidad  cognitiva. ==Por  un  lado  se  experimenta  tensión  cognitiva  cuando  se  ejecutan  operacionesesforzadas  del  Sistema  2.  Por  otro  lado,  la  sensación  de  tensión  cognitiva,cualquiera que sea su origen, tiende a movilizar al Sistema 2, haciendo que elindividuo deje de abordar los problemas de un modo intuitivo y despreocupado ylo haga de otro más implicado y analítico.== [77]Antes se ha mencionado el pr*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^fij7f51tge8\|show annotation]]
+>
+>
+>
+>{ #fij7f51tge8}
+
+
+
+>
+>*Los otros dos ítemsdel test son: ==Si 5 máquinas tardan 5 minutos en hacer 5 cacharros, ¿cuánto tardarían100 máquinas en hacer 100 cacharros?100 minutos o 5 minutos== En un lago hay una zona con nenú*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^1kiyxe89zxg\|show annotation]]
+>
+>
+>
+>{ #1kiyxe89zxg}
+
+
+
+>
+>*acharros?100 minutos o 5 minutos ==En un lago hay una zona con nenúfares. Todos los días la zona duplica sutamaño. Si la zona tarda 48 días en cubrir todo el lago, ¿cuánto tardaría encubrir la mitad del lago?24 días o 47 días== Las respuestas correctas a ambos*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^ks3nppjtmir\|show annotation]]
+>
+>
+>
+>{ #ks3nppjtmir}
+
+
+
+>
+>*reflexión  cognitiva  (TRC). ==La  mitad  de  ellos  leyó  losproblemas  en  una  letra  pequeña  y  una  impresión  gris  y  desdibujada.  Eranlegibles,  pero  la  letra  provocaba  tensión  cognitiva.  Los  resultados  fueroninequívocos:  el  90  por  ciento  de  los  estudiantes  que  leyeron  el  TRC  con  letranormal cometieron al menos un error en el test, pero el porcentaje bajó al 35 porciento cuando la letra era apenas legible. Ha leído bien el lector: el resultado fuemejor  con  la  letra  mala.  La  tensión  cognitiva,  cualquiera  que  sea  su  origen,moviliza al Sistema 2, que es más probable que rechace la respuesta intuitivasugerida por el Sistema 1.== EL PLACER DE LA FACILIDAD COGNIT*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^htkrl9zhkzc\|show annotation]]
+>
+>
+>
+>{ #htkrl9zhkzc}
+
+
+
+>
+>*ornos  nunca  se  percibieron. ==Las  reaccionesemocionales se midieron registrando impulsos eléctricos de músculos faciales,registrando, por tanto, cambios de expresión que eran demasiado leves y brevespara ser detectables por los observadores== . Como se esperaba, los particip*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^zxur2tevpf\|show annotation]]
+>
+>
+>
+>{ #zxur2tevpf}
+
+
+
+>
+>*antes unas fotos deobjetos.[78] ==Se hizo que algunas de estas fotos resultasen fáciles de reconocermostrando los contornos del objeto justo antes de mostrar la imagen entera, perotan  brevemente  que  dichos  contornos  nunca  se  percibieron== .  Las  reaccionesemocionales se*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^hemfy69tk6f\|show annotation]]
+>
+>
+>
+>{ #hemfy69tk6f}
+
+
+
+>
+>*do las fotos era fáciles dever. ==Que la facilidad cognitiva se asocie a sensaciones buenas parece ser un rasgocaracterístico del Sistema 1.== Como era de esperar, las palabra*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^m5q930ctm5n\|show annotation]]
+>
+>
+>
+>{ #m5q930ctm5n}
+
+
+
+>
+>*sgocaracterístico del Sistema 1. ==Como era de esperar, las palabras fácilmente pronunciables provocaban unaactitud favorable. A las compañías con nombres pronunciables les va mejor quea  otras  la  primera  semana  después  de  emitir  sus  acciones,  aunque  el  efectodesaparece  con  el  tiempo.  Acciones  con  símbolos  comerciales  pronunciables(como KAR o LUNMOO) sobrepasan a aquellas con nombres incómodos, comoPXG o RDO, y parecen tener una pequeña ventaja durante cierto tiempo.== [79]Un estudio realizado en Suiz*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^pp9ac72zxy\|show annotation]]
+>
+>
+>
+>{ #pp9ac72zxy}
+
+
+
+>
+>*omo hemos visto en la figura 5, ==la repetición induce facilidad cognitiva yuna  cómoda  sensación  de  familiaridad.  El  famoso  psicólogo  Robert  Zajoncdedicó buena parte de su carrera al estudio de la relación entre la repetición deun  estímulo  arbitrario  y  el  ligero  afecto  que  los  individuos  acaban  tomándole.Zajonc la llamó efecto de mera exposición== .[81] Una demostración que se ll*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^9qsxv6euf6b\|show annotation]]
+>
+>
+>
+>{ #9qsxv6euf6b}
+
+
+
+>
+>*Universidad de Michigan y de la ==Universidad del Estado de Michigan es uno de mis experimentos favoritos.[82]Durante varias semanas apareció en la portada del periódico un recuadro quecontenía una de las siguientes palabras turcas (o que suenan a turco): kadirga,saricik, biwonjni, nansoma e iktitaf. La frecuencia con que las palabras se repetíanvariaba: una de ellas se mostró una sola vez, y las demás aparecieron en dos,cinco, diez o veinticinco ocasiones separadas. (Las palabras que aparecían más amenudo en uno de los periódicos universitarios eran las que menos aparecían enel  otro.)  No  se  dio  ninguna  explicación,  y  a  las  preguntas  de  los  lectores  serespondió diciendo que « la persona que utiliza el recuadro desea permanecer enel anonimato» .Cuando  la  misteriosa  serie  de  palabras  cesó,  los  investigadores  enviaroncuestionarios a las comunidades universitarias preguntando por las impresionesque  producía  cada  palabra:  si  « significa  algo  “bueno”  o  algo  “malo”» .  Losresultados  fueron  espectaculares:  las  palabras  que  aparecieron  con  másfrecuencia fueron acogidas mucho más favorablemente que las que aparecieronuna  vez  o  dos.  Esta  conclusión  ha  sido  confirmada  por  muchos  otrosexperimentos,  en  los  que  se  utilizaron  ideogramas  chinos,  caras  y  polígonosconstruidos aleatoriamente.El  efecto  de  mera  exposición  no  depende  de  la  experiencia  consciente  defamiliaridad.  De  hecho,  no  depende  en  absoluto  de  la  conciencia:  se  producecuando las palabras o las fotos que se repiten son mostradas con tanta rapidez quelos  observadores  nunca  son  conscientes  de  haberlas  visto.== Estos  terminanrelacionando las*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^5idkxtze64j\|show annotation]]
+>
+>
+>
+>{ #5idkxtze64j}
+
+
+
+>
+>*s mostradas más frecuentemente. ==Ha quedadoclaro que el Sistema 1 puede responder a impresiones de aconteceres de los que== el  Sistema  2  no  es  conscien*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^4nx5ph11lqi\|show annotation]]
+>
+>
+>
+>{ #4nx5ph11lqi}
+
