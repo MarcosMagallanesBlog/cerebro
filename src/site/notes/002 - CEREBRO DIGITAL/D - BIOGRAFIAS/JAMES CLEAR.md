@@ -6,16 +6,12 @@
 
 ---
 ## JAMES CLEAR
-![Pasted image 20240121153634.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240121153634.png)
-#### (1986/01/22 - Unknown)
+![Pasted image 20240122171320.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240122171320.png)
+#### (1986/1/22 - Unknown)
 
 El autor James Clear, nacido y criado en Hamilton, Ohio, es un empresario cuyo trabajo se centra en formar a la gente para que adquiera hábitos de larga duración, conocimiento que queda reflejado en su libro de autoayuda Hábitos atómicos.  
   
-Estudió Biomecánica en Denison y, tras graduarse, decidió que escribiría para ayudar a los demás en la consecución de una vida más plena. Sus textos, basados en los estudios de ciencias como la biología, la neurociencia, la psicología o la filosofía, exploran cómo crear buenos hábitos y tomar decisiones adecuadas para mejorar la calidad de vida.  
-  
-Clear ofrece un curso online, Habits Academy, en su página web, donde recibe millones de visitas mensuales. También imparte conferencias en universidades, además de ejercer como consultor para diferentes empresas y ser orador de Fortune 500. Colabora con medios como Entrepeneur, Business Insider o Time.
-
----
+Estudió Biomecánica en Denison y, tras graduarse, decidió que escribiría para ayudar a los demás en la consecución de una vida más plena. Sus textos, basados en los estudios de ciencias como la biología, la neurociencia, la psicología o la filosofía, exploran cómo crear buenos hábitos y tomar decisiones adecuadas
 
 ## Qué le pasó a James Clear
 
@@ -42,6 +38,7 @@ Desde luego, no fue nada fácil. Pero **lo consiguió gracias a los hábitos at�
 En aquel momento, no los llamó así. Lo que hizo James Clear es definir una serie de **rutinas estrictas**: "Mientras mis compañeros se desvelaban jugando a videojuegos, yo desarrollé buenos hábitos de sueño y todas las noches me iba a dormir temprano. En el desordenado mundo del dormitorio universitario, yo me propuse mantener mi habitación  
 limpia y ordenada", nos cuenta. 
 
-Tal y como nos explica el mismo autor, “**un hábito es una rutina que se practica con regularidad** y en muchos casos, de manera automática”. Para Clear, ir a dormir pronto o ordenar la habitación se convirtieron en hábitos importantes. "Estas mejoras no eran muy significativas, pero me hacían sentir que tenía control sobre mi vida. Comencé a sentirme seguro nuevamente y a creer en mí", explica en el prólogo de su libro. 
+Tal y como nos explica el mismo autor, “**un hábito es una rutina que se practica con regularidad** y en muchos casos, de manera automática”. Para Clear, ir a dormir pronto o ordenar la habitación se convirtieron en hábitos importantes. "Estas mejoras no eran muy significativas, pero me hacían sentir que tenía control sobre mi vida. Comencé a sentirme seguro nuevamente y a creer en mí", explica en el prólogo de su libro.
 
-https://www.planetadelibros.com/blog/actualidad/15/articulo/historia-superacion-autor-libro-habitos-atomicos/592
+---
+[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS\|01 - HABITOS ATOMICOS]]
