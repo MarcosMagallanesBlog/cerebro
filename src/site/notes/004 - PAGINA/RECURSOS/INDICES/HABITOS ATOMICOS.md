@@ -10,9 +10,9 @@
 [[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS\|01 - HABITOS ATOMICOS]]
 
 # APUNTES
-| ARCHIVO                                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a - HABITO ATOMICO\|a - HABITO ATOMICO]] |
+| ARCHIVO                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a - HABITOS ATOMICOS\|a - HABITOS ATOMICOS]] |
 
 { .block-language-dataview}
 
