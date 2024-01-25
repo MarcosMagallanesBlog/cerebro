@@ -18,24 +18,6 @@ Clear llama a estas decisiones “hábitos atómicos”: tan pequeños como una 
 https://www.planetadelibros.com/libro-habitos-atomicos/310441
 ## Comentarios
 
->
->*OS GENERAN UNA GRAN DIFERENCIA16 ==Es  muy  común  sobrestimar  la  importancia  de  los  grandes  momentos  definitorios  yrestarle  valor  a  la  realización  de  pequeñas  mejoras  cotidianas== .  Con  frecuencia,  nosconvence*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^bo6p2l5bw8d\|show annotation]]
->
->
->
->{ #bo6p2l5bw8d}
-
-
-
->
->*cotidianas.  Con  frecuencia, ==nosconvencemos a nosotros mismos de que un enorme éxito requiere una acción igual derelevante. Ya sea que se trate de perder peso, de establecer un negocio, de escribir unlibro, de ganar un campeonato o de alcanzar cualquier otra meta, nos presionamos pararealizar una mejora que sea digna de convulsionar al planeta y de la que todo el mundohablará.== Por otra parte, las pequeñas mej*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^ahg98lssy58\|show annotation]]
->
->
->
->{ #ahg98lssy58}
-
 
 
 >
@@ -58,43 +40,7 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*veces mejor al finalizar el año. ==Los hábitos son el interés compuesto== de la superación personal.13 De*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^844jloh50wp\|show annotation]]
->
->
->
->{ #844jloh50wp}
 
-
-
->
->*rencia en un día determinado y, ==sin embargo, el impacto que producen conformepasan los meses y los años puede resultar enorme== . Solamente cuando nos damos vue*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^fw4y0oi4xej\|show annotation]]
->
->
->
->{ #fw4y0oi4xej}
-
-
-
->
->*o negativo de los malos hábitos. ==Esto puede ser un concepto difícil de apreciar en la vida cotidiana. Frecuentementedescartamos los pequeños cambios porque no parecen importar mucho en un momentodado.  Si  ahorras  un  poco  de  dinero  ahora,  no  te  conviertes  en  millonario.  Si  vas  algimnasio tres días consecutivos, no te vas a poner en forma. Si estudias chino mandarínuna  hora  por  la  noche,  no  habrás  aprendido  un  nuevo  idioma.  Hacemos  pequeñoscambios, pero los resultados nunca se dan de manera inmediata; eso nos descorazona ynos lleva de vuelta a nuestras viejas rutinas.== Desafortunadamente, el lento rit*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^ufx2ncm8z3j\|show annotation]]
->
->
->
->{ #ufx2ncm8z3j}
-
-
-
->
->*uelta a nuestras viejas rutinas. ==Desafortunadamente, el lento ritmo de la transformación también hace que sea muyfácil permitir el retorno de los malos hábitos== . Si comes un alimento poco salu*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^4fmhvd3bhqk\|show annotation]]
->
->
->
->{ #4fmhvd3bhqk}
 
 
 
@@ -225,4 +171,154 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 >
 >
 >{ #whqm2g9zlj}
+
+
+
+>
+>*de meses,acaba con el cuerpo.18 ==El bambú apenas se alcanza a ver durante los primeros cinco años.Durante ese tiempo desarrolla un complejo sistema de raíces que, una vez maduro, lepermite crecer más de 2 m en menos de seis semanas== .De manera similar, los hábitos*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^h8d23b60fcc\|show annotation]]
+>
+>
+>
+>{ #h8d23b60fcc}
+
+
+
+>
+>*de 2 m en menos de seis semanas. ==De manera similar, los hábitos con frecuencia no parecen provocar ningún cambiohasta que se alcanza un punto crítico, un umbral que desencadena un nivel superior dedesempeño.== En  las  etapas  tempranas  y*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^sb9s5xgcbt7\|show annotation]]
+>
+>
+>
+>{ #sb9s5xgcbt7}
+
+
+
+>
+>*er  empresa,  suele  haber  un20 ==abismo  de  desilusión== .  Uno  siempre  espera  realiza*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^gj5e3oj1lrl\|show annotation]]
+>
+>
+>
+>{ #gj5e3oj1lrl}
+
+
+
+>
+>*os tomansu tiempo y se retrasan. ==Esta es una de las razones por las que es tan difícil desarrollar hábitos que perduren.La  gente  hace  pequeños  cambios  de  conducta,  no  ve  resultados  tangibles  y  toma  ladecisión de detenerse. Podrías pensar: «He estado corriendo diariamente durante un mesy no logro ver ningún cambio en mi cuerpo». Una vez que este tipo de pensamiento seapodera  de  ti,  es  fácil  abandonar  los  buenos  hábitos== .  Para  que  los  hábitos  real*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^g3bsdpmhoyw\|show annotation]]
+>
+>
+>
+>{ #g3bsdpmhoyw}
+
+
+
+>
+>*andonar  los  buenos  hábitos. ==Para  que  los  hábitos  realmentegeneren un cambio, deben subsistir lo suficiente como para rebasar una meseta donde nose producen cambios perceptibles. Yo la llamo meseta de potencial latente== .Si te está costando demasiado e*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^rk1y9m1rt2g\|show annotation]]
+>
+>
+>
+>{ #rk1y9m1rt2g}
+
+
+
+>
+>*meseta  de  potencial  latente. ==Cuando  uno  se  queja  de  no  estar  alcanzando  resultados  exitosos  a  pesar  de  estaresforzándose, es como si se quejara de que el hielo no se derrite cuando la habitaciónpasa de cuatro a tres grados bajo cero.== El trabajo no se desperdicia, s*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^5avlxe64s7j\|show annotation]]
+>
+>
+>
+>{ #5avlxe64s7j}
+
+
+
+>
+>*cuatro a tres grados bajo cero. ==El trabajo no se desperdicia, solo se acumula.== Recuerda  que  toda  la  acción*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^65i8xyr4oxb\|show annotation]]
+>
+>
+>
+>{ #65i8xyr4oxb}
+
+
+
+>
+>*atura  alcanza  los  cerogrados. ==Cuando al fin logras ir más allá de la meseta del potencial latente, la gente consideraque el hecho es un éxito conseguido de la noche a la mañana. El común de la gente solopercibe los eventos más llamativos y no se detiene a ver todo el trabajo y el esfuerzo quetienen detrás. Pero tú sabes que todo el trabajo que has invertido durante mucho tiempo,cuando  parecía  que  no  estabas  haciendo  ningún  progreso,  es  lo  que  realmente  hizoposible el cambio.== Es  el  equivalente  humano  de*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^hi9ecy26l6p\|show annotation]]
+>
+>
+>
+>{ #hi9ecy26l6p}
+
+
+
+>
+>*de manera intensaen un instante. ==La maestría requiere paciencia== . Las Espuelas de San Antonio, u*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^99hex2hh91f\|show annotation]]
+>
+>
+>
+>{ #99hex2hh91f}
+
+
+
+>
+>*cita del reformador Jacob Riis: ==«Cuando nada parece irbien, visito al cantero. Este hombre golpea la roca con su cincel y su martillo quizá hastaun centenar de veces sin hacerle siquiera una grieta. Sin embargo, al dar el siguientegolpe, la roca se parte en dos. Sé que ese no fue el golpe que rompió la roca, fue la sumade todos los golpes que dio anteriormente»== .19LA MESETA DE POTENCIAL LATENT*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^k6fbdy0awbs\|show annotation]]
+>
+>
+>
+>{ #k6fbdy0awbs}
+
+
+
+>
+>*del esfuerzo previo es revelado. ==Todas las cosas importantes provienen de comienzos modestos. La semilla de cadahábito es una pequeña decisión== .21 Pero conforme esa decisión s*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^39zpuc78y1e\|show annotation]]
+>
+>
+>
+>{ #39zpuc78y1e}
+
+
+
+>
+>*bito es una pequeña decisión.21 ==Pero conforme esa decisión se repite, un hábito nuevosurge  y  se  va  fortaleciendo== .  Las  raíces  se  afianzan  y*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^c2csvcn2fq\|show annotation]]
+>
+>
+>
+>{ #c2csvcn2fq}
+
+
+
+>
+>*ianzan  y  las  ramas  crecen. ==La  tarea  deeliminar un hábito pernicioso es parecida a arrancar de raíz un poderoso roble que creceen nuestro interior. Y la tarea de desarrollar un buen hábito es equivalente a cultivar unadelicada flor cada día.== Pero, ¿qué es lo que determina q*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^hryhhq0895c\|show annotation]]
+>
+>
+>
+>{ #hryhhq0895c}
+
+
+
+>
+>*tivar unadelicada flor cada día. ==Pero, ¿qué es lo que determina que mantengamos un hábito el tiempo suficiente parasobrevivir la meseta del potencial latente y conseguir llegar al otro lado? ¿Qué es lo queprovoca  que  algunas  personas  regresen  a  sus  malos  hábitos  mientras  otras  consiguendisfrutar de los efectos acumulativos de los hábitos favorables?== OLVIDA LAS METAS Y MEJOR ENFÓCAT*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^ryxp939x22m\|show annotation]]
+>
+>
+>
+>{ #ryxp939x22m}
+
+
+
+>
+>*tivos de los hábitos favorables? ==OLVIDA LAS METAS Y MEJOR ENFÓCATE EN LOS SISTEMAS== La sabiduría prevaleciente afirm*
+>[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^tbd9564xghd\|show annotation]]
+>
+>
+>
+>{ #tbd9564xghd}
 
