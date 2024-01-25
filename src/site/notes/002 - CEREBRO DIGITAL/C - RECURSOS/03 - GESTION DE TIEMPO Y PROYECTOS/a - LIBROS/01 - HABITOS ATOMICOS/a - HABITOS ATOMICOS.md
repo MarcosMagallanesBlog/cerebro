@@ -31,3 +31,24 @@ Sin embargo, subestimamos las pequeñas acciones, las pequeñas mejoras del 1% s
 > Esto puede ser un concepto difícil de apreciar en la vida cotidiana. Frecuentemente descartamos los pequeños cambios porque no parecen importar mucho en un momento dado. Si ahorras un poco de dinero ahora, no te conviertes en millonario. Si vas al gimnasio tres días consecutivos, no te vas a poner en forma. Si estudias chino mandarín una hora por la noche, no habrás aprendido un nuevo idioma. Hacemos pequeños cambios, pero los resultados nunca se dan de manera inmediata; eso nos descorazona y nos lleva de vuelta a nuestras viejas rutinas.
 
 Este lento ritmo de "transformación" hace que seamos propensos a volver a los malos hábitos.
+
+>Sin embargo, cuando repetimos día a día esos errores que representan apenas un 1%, cuando replicamos las malas decisiones y duplicamos los pequeños errores mediante excusas sin importancia, nuestras acciones acaban por producir resultados compuestos que son realmente tóxicos. La acumulación de muchos pasos en falso, un 1% de deterioro aquí y allá, finalmente se convierte en un grave problema.
+
+La acumulación sistemática de conductas indeseadas acaban desencadenando una lenta degradación, similar a una reacción en cadena.
+
+### CAMBIAR DE HABITOS
+> El impacto creado por un cambio en nuestros hábitos es similar al efecto que provoca alterar la ruta de un avión apenas unos cuantos grados. Imagina que estás volando de Los Ángeles a la ciudad de Nueva York. Si el piloto que despega de Los Ángeles ajusta la dirección 3.5 grados al sur, llegaría a Washington, D.C., en lugar de llegar a Nueva York. Ese pequeño cambio apenas se notaría durante el despegue. La punta del avión apenas si se movería un par de metros, pero si la distancia se magnificara durante el vuelo, el avión terminaría en un lugar que está a cientos de kilómetros del destino original.
+
+La moraleja es que el esfuerzo mínimo, mantenido, significa cambiar el destino posible. Puede convertir la persona que somos en la que deberíamos ser.
+
+> Dicho eso, no importa cuán exitoso seas en este preciso momento. Lo que importa es determinar si tus hábitos te están conduciendo hacia el camino del éxito.
+
+>Tu peso actual es un indicador reactivo de tus hábitos alimenticios. Tu conocimiento es un indicador reactivo de tus hábitos de estudio. El aspecto de tu casa es un indicador reactivo de tus hábitos de orden y limpieza. Al final obtienes lo que repites.
+>>Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro.
+
+> Los hábitos son una espada de doble filo. Los malos hábitos pueden dañarte tan fácilmente como los buenos hábitos pueden complementarte.
+
+>El bambú apenas se alcanza a ver durante los primeros cinco años. Durante ese tiempo desarrolla un complejo sistema de raíces que, una vez maduro, le permite crecer más de 2 m en menos de seis semanas
+
+De manera similar, los hábitos con frecuencia no parecen provocar ningún cambio hasta que se alcanza un punto crítico, un umbral que desencadena un nivel superior de desempeño. Pero [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1 - EN QUE CONSISTE EL PROGRESO\|el progreso]] verdadero se ve a veces frustrado por [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1a - EL ABISMO DE LA DESILUCION\|a1a - EL ABISMO DE LA DESILUCION]], lo que nos devuelve a nuestros malos hábitos o nos arrastra a abandonar los nuevos.
+
