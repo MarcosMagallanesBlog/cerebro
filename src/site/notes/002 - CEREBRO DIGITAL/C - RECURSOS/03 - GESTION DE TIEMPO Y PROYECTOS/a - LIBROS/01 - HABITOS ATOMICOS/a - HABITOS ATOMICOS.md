@@ -52,3 +52,12 @@ La moraleja es que el esfuerzo mínimo, mantenido, significa cambiar el destino 
 
 De manera similar, los hábitos con frecuencia no parecen provocar ningún cambio hasta que se alcanza un punto crítico, un umbral que desencadena un nivel superior de desempeño. Pero [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1 - EN QUE CONSISTE EL PROGRESO\|el progreso]] verdadero se ve a veces frustrado por [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1a - EL ABISMO DE LA DESILUCION\|a1a - EL ABISMO DE LA DESILUCION]], lo que nos devuelve a nuestros malos hábitos o nos arrastra a abandonar los nuevos.
 
+### PEQUEÑAS ACCIONES
+
+Todas las cosas importantes tienen un comienzo modesto. "La semilla de cada hábito es una pequeña decisión", pero conforme esa decisión se repite, un hábito nuevo surge y se va fortaleciendo.
+
+> La tarea de eliminar un hábito pernicioso es parecida a arrancar de raíz un poderoso roble que crece en nuestro interior. Y la tarea de desarrollar un buen hábito es equivalente a cultivar una delicada flor cada día.
+
+(Similitud aparente con la metáfora del Clásico Literario "le pettit prince" [[002 - CEREBRO DIGITAL/C - RECURSOS/99 - CULTURA GENERAL/L - PRINCIPITO BAOBABS\|L - PRINCIPITO BAOBABS]])
+
+> Pero, ¿Qué es lo que determina que mantengamos un hábito el tiempo suficiente para sobrevivir la meseta del potencial latente y conseguir llegar al otro lado? ¿Qué es lo que provoca que algunas personas regresen a sus malos hábitos mientras otras consiguen disfrutar de los efectos acumulativos de los hábitos favorables?
