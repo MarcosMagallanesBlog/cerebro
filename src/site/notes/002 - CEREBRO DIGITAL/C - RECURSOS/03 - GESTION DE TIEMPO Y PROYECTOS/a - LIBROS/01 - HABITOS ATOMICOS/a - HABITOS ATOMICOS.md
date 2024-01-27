@@ -58,6 +58,6 @@ Todas las cosas importantes tienen un comienzo modesto. "La semilla de cada háb
 
 > La tarea de eliminar un hábito pernicioso es parecida a arrancar de raíz un poderoso roble que crece en nuestro interior. Y la tarea de desarrollar un buen hábito es equivalente a cultivar una delicada flor cada día.
 
-(Similitud aparente con la metáfora del Clásico Literario "le pettit prince" [[002 - CEREBRO DIGITAL/C - RECURSOS/99 - CULTURA GENERAL/L - PRINCIPITO BAOBABS\|L - PRINCIPITO BAOBABS]])
+(Similitud aparente con la metáfora del Clásico Literario "le pettit prince" [[002 - CEREBRO DIGITAL/C - RECURSOS/99 - CULTURA GENERAL/LITERATURA - PRINCIPITO BAOBABS\|LITERATURA - PRINCIPITO BAOBABS]])
 
 > Pero, ¿Qué es lo que determina que mantengamos un hábito el tiempo suficiente para sobrevivir la meseta del potencial latente y conseguir llegar al otro lado? ¿Qué es lo que provoca que algunas personas regresen a sus malos hábitos mientras otras consiguen disfrutar de los efectos acumulativos de los hábitos favorables?
