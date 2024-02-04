@@ -14,5 +14,5 @@ La gente hace pequeños cambios de conducta (infravalorados en su potencial ató
 
 > Podrías pensar: «He estado corriendo diariamente durante un mes y no logro ver ningún cambio en mi cuerpo». ==Una vez que este tipo de pensamiento se apodera de ti, es fácil abandonar los buenos hábitos.==
 
-Para que los hábitos realmente generen un cambio, deben subsistir lo suficiente como para rebasar una meseta donde no se producen cambios perceptibles. Yo la llamo [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1b - MESETA DE POTENCIAL LATENTE\|a1b - MESETA DE POTENCIAL LATENTE]]
+Para que los hábitos realmente generen un cambio, deben subsistir lo suficiente como para rebasar una meseta donde no se producen cambios perceptibles. Yo la llamo [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1b - MESETA DEL POTENCIAL LATENTE\|a1b - MESETA DEL POTENCIAL LATENTE]]
 
