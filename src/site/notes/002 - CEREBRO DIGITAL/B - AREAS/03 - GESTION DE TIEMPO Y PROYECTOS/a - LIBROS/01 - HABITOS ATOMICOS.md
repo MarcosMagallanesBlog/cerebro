@@ -48,63 +48,6 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*o.UN SISTEMA DE HÁBITOS ATÓMICOS ==Si tienes problemas para cambiar tus hábitos, el problema no eres tú. El problema es tusistema== .  Los  malos  hábitos  se  repi*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^si3mfsd4sz\|show annotation]]
->
->
->
->{ #si3mfsd4sz}
-
-
-
->
->*ra definir la palabra atómico. A ==estas alturas, ya tehabrás dado cuenta de que un hábito atómico se refiere a un cambio pequeño, a unaganancia marginal, a un 1% de mejora. Pero los hábitos atómicos no son los viejos maloshábitos  aunque  estos  sean  menores== .  Los  hábitos  atómicos  son*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^uxmpa3schu\|show annotation]]
->
->
->
->{ #uxmpa3schu}
-
-
-
->
->*aunque  estos  sean  menores. ==Los  hábitos  atómicos  son  pequeños  hábitos  queforman parte de un sistema mayor== . Así como los átomos son los la*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^db5q9gu5wi5\|show annotation]]
->
->
->
->{ #db5q9gu5wi5}
-
-
-
->
->*átomos  de  nuestras  vidas. ==Cada  uno  es  una  unidadfundamental que contribuye a la mejora en general. Al principio estas pequeñas rutinasparecen ser insignificantes, pero pronto se acumulan y se convierten en un combustibleque  genera  ganancias  tan  importantes  que  sobrepasan  con  creces  el  costo  de  lasinversiones iniciales== . Son al mismo tiempo pequeños y*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^vgpwzzt1mb\|show annotation]]
->
->
->
->{ #vgpwzzt1mb}
-
-
-
->
->*mo tiempo pequeños y poderosos. ==Este es el significadode la frase hábitos atómicos, una práctica regular o rutina que no es solamente pequeña yfácil  de  realizar,  también  es  la  fuente  de  un  poder  increíble.  Un  componente  de  unsistema de crecimiento compuesto.== 25RESUMEN DEL CAPÍTULO◆ Los hábi*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^5njfnh6zcbd\|show annotation]]
->
->
->
->{ #5njfnh6zcbd}
-
-
-
->
->*tema de crecimiento compuesto.25 ==RESUMEN DEL CAPÍTULO◆ Los hábitos son el interés compuesto de la superación personal. Trabajar paralograr ser un 1% mejor cada día cuenta mucho a la larga.◆ Los hábitos son una espada de doble filo. Pueden trabajar a tu favor o en contratuya. Por este motivo, entender los detalles es indispensable.◆ Los pequeños cambios con frecuencia parecen no tener ningún efecto hasta quelogras  cruzar  un  umbral  crítico.  Los  resultados  más  poderosos  de  cualquierproceso acumulativo suelen retrasarse. Debes aprender a ser paciente.◆ Un hábito atómico es un pequeño hábito que forma parte de un sistema máscomplejo.  De  la  misma  manera  en  que  los  átomos  son  los  ladrillos  de  lasmoléculas, los hábitos atómicos son los ladrillos de los resultados excepcionales.◆  Si  quieres  mejores  resultados,  olvídate  de  fijar  metas.  En  lugar  de  eso,concéntrate en tu sistema.◆ No te elevas al nivel de tus metas. Desciendes al nivel de tus sistemas.== 26NOTAS1  Matt  Slater,  «How  G*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^bdbs97yg8zb\|show annotation]]
->
->
->
->{ #bdbs97yg8zb}
 
 
 
@@ -116,104 +59,17 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*s se tratan de lo que obtienes. ==Los procesos se tratan de lo que haces== . Laidentidad se trata de lo que*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^6h10tuwotay\|show annotation]]
->
->
->
->{ #6h10tuwotay}
 
 
 
 
->
->*en quién queremos llegar a ser. ==La mayoría de las personas comienzan el proceso de cambiar sus hábitos enfocándoseen aquello que quieren alcanzar== . Esto los conduce a hábitos que*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^sdqntta1spt\|show annotation]]
->
->
->
->{ #sdqntta1spt}
 
 
 
->
->*sados en lasmetas o resultados. ==La alternativa apropiada es construir hábitos basados en cambios deidentidad. Con este planteamiento empezamos por enfocarnos en quién queremos llegara ser.== Imagina a dos personas que están*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^4ty7l3fmqo9\|show annotation]]
->
->
->
->{ #4ty7l3fmqo9}
 
 
 
->
->*s en quién queremos llegara ser. ==Imagina a dos personas que están tratando de dejar de fumar. Cuando se le ofrece uncigarro a la primera persona, dice: «No gracias, estoy tratando de dejar de fumar». Suenacomo una respuesta razonable pero esta persona todavía cree que es un fumador que estátratando de llegar a ser una persona distinta. Está esperando que su conducta cambiemientras sigue manteniendo las mismas creencias.== La segunda persona rechaza el ci*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^bmfdyzmsknw\|show annotation]]
->
->
->
->{ #bmfdyzmsknw}
 
-
-
->
->*anteniendo las mismas creencias. ==La segunda persona rechaza el cigarro diciendo: «No gracias. No soy fumador». Esuna pequeña diferencia, pero esta afirmación indica un cambio en la identidad. Fumarera parte de la vida anterior de la persona, no de su vida actual. Esta segunda persona yano se concibe a sí mismo como fumadora.== La  mayoría  de  las  personas*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^xkl5y8ecid\|show annotation]]
->
->
->
->{ #xkl5y8ecid}
-
-
-
->
->*oncibe a sí mismo como fumadora. ==La  mayoría  de  las  personas  ni  siquiera  consideran  cambiar  su  identidad  cuando  sedeciden a mejorar. Únicamente piensan, «Quiero ser delgado (resultado) y si me apego aesta  dieta,  seré  delgado  (proceso)».== Establecen  metas  y  determin*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^8h51qd7cfnu\|show annotation]]
->
->
->
->{ #8h51qd7cfnu}
-
-
-
->
->*como se conciben a sí mismas, y ==no se dan cuenta de que suvieja identidad puede sabotear sus planes de cambiar.== Detrás  de  cada  sistema  de  a*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^5d5c4djn61\|show annotation]]
->
->
->
->{ #5d5c4djn61}
-
-
-
->
->*sabotear sus planes de cambiar. ==Detrás  de  cada  sistema  de  acciones  hay  un  sistema  de  creencias== .  El  sistemademocrático está f*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^j30vd6g6x5\|show annotation]]
->
->
->
->{ #j30vd6g6x5}
-
-
-
->
->*, organizacioneso  sociedades. ==Siempre  existe  un  sistema  de  creencias  y  suposiciones  que  moldean  elsistema, una identidad detrás de los hábitos== .La conducta que no es congruent*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^7un8guuepo6\|show annotation]]
->
->
->
->{ #7un8guuepo6}
-
-
-
->
->*y descansarmás  que  entrenar. ==Es  muy  difícil  cambiar  tus  hábitos  si  no  cambias  las  creenciassubterráneas que te condujeron a las conductas pasadas que deseas cambiar. Tienes unanueva meta y un nuevo plan, pero no te has transformado a ti mismo.== La historia de Brian Clark, un e*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^k7nlonh13cf\|show annotation]]
->
->
->
->{ #k7nlonh13cf}
 
 
 
@@ -227,103 +83,13 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*parte integral de lo que eres.• ==La meta no es leer un libro, la meta es convertirse en lector.• La meta no es correr un maratón, la meta es convertirse en corredor.== 32• La meta no es aprender a toc*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^s9weiws4wi\|show annotation]]
->
->
->
->{ #s9weiws4wi}
 
 
 
->
->*ta es convertirse en corredor.32 ==• La meta no es aprender a tocar un instrumento, la meta es convertirse en músico== .Tus conductas suelen ser un ref*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^wgycy16i48p\|show annotation]]
->
->
->
->{ #wgycy16i48p}
 
 
 
->
->*a meta es convertirse en músico. ==Tus conductas suelen ser un reflejo de tu identidad== . Lo que haces es un indicador d*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^9yoeddn0eum\|show annotation]]
->
->
->
->{ #9yoeddn0eum}
 
-
-
->
->*ser un reflejo de tu identidad. ==Lo que haces es un indicador deltipo  de  persona  que  crees  que  eres  —independientemente  de  que  esto  se  dé  a  nivelconsciente o inconsciente—.* Las investigaciones han demostrado que una vez que unapersona  cree  en  un  aspecto  particular  de  su  identidad,  es  más  proclive  a  actuar  deacuerdo con esa creencia.== 3 Por ejemplo, las personas que*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^n2tz1z2nxue\|show annotation]]
->
->
->
->{ #n2tz1z2nxue}
-
-
-
->
->*a persona que tú crees que eres. ==Como todos los aspectos de la formación de hábitos, este también es una espada dedos  filos.  Cuando  trabaja  a  tu  favor,  el  cambio  de  identidad  puede  ser  una  poderosafuerza de superación personal. En cambio, cuando trabaja en tu contra, el cambio deidentidad puede ser una maldición== . Una vez que has adoptado una i*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^nzse2wv6mu\|show annotation]]
->
->
->
->{ #nzse2wv6mu}
-
-
-
->
->*a en tu capacidad para cambiar. ==Mucha gente avanza por lavida  en  medio  de  un  adormecimiento  cognitivo,  siguiendo  ciegamente  las  normasasociadas a su identidad.• «Soy pésimo para seguir instrucciones».• «No sirvo para despertarme temprano».• «Soy malísimo para recordar los nombres de las personas».• «Siempre llego tarde».• «Estoy negado para la tecnología».• «Soy pésimo para las matemáticas».... Y miles de variantes más.== Cuando te has repetido a ti mism*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^l8gtka778vr\|show annotation]]
->
->
->
->{ #l8gtka778vr}
-
-
-
->
->*s».... Y miles de variantes más. ==Cuando te has repetido a ti mismo una historia por años, es sencillo que te aferres aestas rutinas mentales y las aceptes como un hecho. Con el tiempo, comienzas a resistirtea realizar ciertas acciones porque crees que no son parte de lo que tú eres. Se desarrollauna presión interna== para mantener intacta la imagen*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^9dpgja31oqf\|show annotation]]
->
->
->
->{ #9dpgja31oqf}
-
-
-
->
->*no sea correcto y te perjudique ==. El conflicto con laidentidad es la mayor barrera que puede enfrentar el cambio positivo a cualquier nivel(individual, grupal o social). Los hábitos positivos pueden tener sentido a nivel racional,pero si entran en conflicto con tu identidad, vas a fracasar cuando intentes ponerlos enpráctica.== Un  día  cualquiera  quizá  te*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^bfsa0t0uqr\|show annotation]]
->
->
->
->{ #bfsa0t0uqr}
-
-
-
->
->*ismo se interpone en el camino. ==Esta es la razón por la cual nopuedes aferrarte a una versión única de identidad. El progreso requiere desaprender loaprendido.== Para  lograr  ser  la  mejor*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^k3gumwxvokj\|show annotation]]
->
->
->
->{ #k3gumwxvokj}
-
-
-
->
->*ualices y expandas tu identidad. ==Lo anterior nos conduce a una pregunta importante: ¿si tus creencias y tu visión delmundo desempeñan un papel tan importante en tu conducta, de dónde surgen en primerlugar? ¿Cómo es que se construye la identidad? Y finalmente, ¿cómo es posible enfatizarlos aspectos de tu identidad que te son útiles mientras que gradualmente eliminas losaspectos que impiden tu desarrollo?== EL PROCESO DE DOS PASOS PARA CAM*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^1hl1fqu8j8p\|show annotation]]
->
->
->
->{ #1hl1fqu8j8p}
 
 
 
