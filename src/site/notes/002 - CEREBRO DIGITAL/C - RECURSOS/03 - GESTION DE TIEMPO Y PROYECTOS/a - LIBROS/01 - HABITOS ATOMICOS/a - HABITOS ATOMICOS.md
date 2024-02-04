@@ -17,6 +17,8 @@ tipo: [[002 - CEREBRO DIGITAL/NOTA PERMANENTE\|NOTA PERMANENTE]]
 
 1.  ==una rutina o práctica que se realiza de manera regular; una respuesta automática a una situación específica.==
 
+>Este es el significado de la frase hábitos atómicos, una práctica regular o rutina que no es solamente pequeña y fácil de realizar, también es la fuente de un poder increíble. Un componente de un sistema de crecimiento compuesto.
+
 # EL PODER DE LOS HÁBITOS ATÓMICOS
 Usualmente se sobrestima los grandes hitos y se le resta valor a las pequeñas acciones.
 Creemos que un enorme éxito es producto de una hazaña igual de enorme, sin importar el ámbito.
