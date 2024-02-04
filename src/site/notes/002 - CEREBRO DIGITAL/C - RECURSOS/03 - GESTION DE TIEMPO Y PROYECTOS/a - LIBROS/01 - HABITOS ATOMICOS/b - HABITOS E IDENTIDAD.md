@@ -25,14 +25,14 @@ Nuestro primer error suele ser intentar cambiar lo que no debemos cambiar. Hay v
 
 (LOS RESULTADOS SE TRATA DE LO QUE OBTIENES. LOS PROCESOS DE LO QUE HACES. LA IDENTIDAD DE LO QUE CREES)
 
-En este sentido los hábitos se pueden intentar abordar de dos formas (la más efectiva suele ser [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]])
+En este sentido los hábitos se pueden intentar abordar de dos formas (la más efectiva suele ser [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]])
 
 ### HABITOS BASADOS EN RESULTADOS
 ![Pasted image 20240203202214.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240203202214.png)
 ### HÁBITOS BASADOS EN IDENTIDAD
 ![Pasted image 20240203202236.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240203202236.png)
 
-La mayoría de personas comienza hábitos basándose en qué quiere alcanzar. La alternativa apropiada es plantear hábitos basándonos en quién queremos ser. Buscando acentuar el [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]] correcto que impulse nuestros comportamientos deseados y repela los indeseados.
+La mayoría de personas comienza hábitos basándose en qué quiere alcanzar. La alternativa apropiada es plantear hábitos basándonos en quién queremos ser. Buscando acentuar el [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]] correcto que impulse nuestros comportamientos deseados y repela los indeseados.
 
 Generalmente se tiene problemas para sostener o suprimir diferentes hábitos. Esto está íntimamente relacionado con nuestra autopercepción consiente o inconsciente.
 
@@ -86,4 +86,4 @@ Las investigaciones demuestran (que independientemente de si es a nivel consient
 
 >Esta es la razón por la cual no puedes aferrarte a una versión única de identidad. El progreso requiere desaprender lo aprendido...
 
-Requiere un [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]] . . .
+Requiere un [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]] . . .
