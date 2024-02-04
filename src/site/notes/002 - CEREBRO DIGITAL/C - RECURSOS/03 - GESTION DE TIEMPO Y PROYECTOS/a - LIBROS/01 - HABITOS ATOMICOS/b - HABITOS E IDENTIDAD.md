@@ -86,4 +86,4 @@ Las investigaciones demuestran (que independientemente de si es a nivel consient
 
 >Esta es la razón por la cual no puedes aferrarte a una versión única de identidad. El progreso requiere desaprender lo aprendido...
 
-Requiere un [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]]
+Requiere un [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]] . . .
