@@ -41,6 +41,8 @@ Actividades que exigen mucho al Sistema 2 requieren autocontrol, y ejercer el au
 Es más que una mera metáfora. El sistema nervioso consume más glucosa que otras muchas partes del cuerpo, y la actividad mental esforzada parece ser especialmente acaparadora de glucosa.
 
 Cuando estamos activamente enfrascados en difíciles razonamientos cognitivos o en una tarea que requiere autocontrol, el nivel de glucosa en la sangre desciende. De igual forma un corredor, que consume la glucosa acumulada en sus músculos.
+{ #e9cca7}
+
 
 La consecuencia más notable de esta idea es que los efectos del agotamiento del ego podrían ser compensados ingiriendo glucosa, y Baumeister y sus colegas han confirmado esta hipótesis en [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2c1a - EXPERIMENTOS GLUCOSA - ATENCIÓN\|varios experimentos]].
 
