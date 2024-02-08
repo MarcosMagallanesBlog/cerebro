@@ -19,6 +19,8 @@
 * Creo yo que esto tiene un sentido; si en nuestro "marco de referencia" no encontramos nada, estamos ante lo desconocido, y por desconocido, potencialmente peligroso. Motivo de alarma. Si, por el contrario, encontramos referencia (de ahí que el Sistema 2 realice dicho análisis), podemos rápidamente descartar una situación de peligro u obrar en función de ella, si lo fuera. Determinar peligros emergentes o formas de evadirlos requiere un pensamiento lógico, campo donde el Sistema 1 flaquea, de ahí la determinante importancia del Sistema 2, ante la sorpresa.
 
 ==El Sistema 2 es capaz de controlar continuamente nuestro comportamiento==, y este control se intensifica cuando estamos por cometer un error. Un ejemplo es cuando nos comportamos educadamente a pesar de estar enojados.
+{ #2a77fc}
+
 
 > ==La división del trabajo entre el Sistema 1 y el Sistema 2 es muy eficiente==: ==minimiza el esfuerzo y optimiza la ejecución==. Esta disposición ==funciona bien la mayor parte del tiempo, porque el Sistema 1 es en general muy bueno en lo que hace: sus modelos de situaciones familiares son adecuados==, sus predicciones acorto plazo suelen ser también adecuadas, y sus respuestas iniciales a los retos son rápidas y generalmente apropiadas. ==Sin embargo, en el Sistema 1 hay sesgos, errores sistemáticos que es propenso a cometer en circunstancias específicas.==
 
