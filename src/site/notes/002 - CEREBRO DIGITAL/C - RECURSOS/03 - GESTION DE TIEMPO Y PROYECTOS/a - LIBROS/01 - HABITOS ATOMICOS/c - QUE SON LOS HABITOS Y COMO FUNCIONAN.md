@@ -69,3 +69,30 @@ En otras palabras, una tarea compleja puede pasar a ser operada mediante el [[00
 
 (Retomando con "Hábitos Atómicos")
 > La actividad neurológica del cerebro es muy alta durante este período.
+>>Estás apropiándote de toneladas de nueva información y tratando de organizarla para que tenga sentido. El cerebro está ocupado aprendiendo cuál es el mejor curso de acción.
+
+>==Ocasionalmente==, como cuando [[c1 - EL GATO DE THORNDIKE\|el gato oprime la palanca]], tú te ==topas con una solución==. ==Te sientes ansioso y descubres que salir a correr un rato te tranquiliza==. Estás mentalmente exhausto debido a un largo día de trabajo y te das cuenta de que jugar videojuegos te relaja. 
+
+(Entendamos que este esfuerzo fue producido por el [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|a2 - SISTEMA 2]] y que conduce lentamente a un estado mental de [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2c1 - AGOTAMIENTO DEL EGO\|a2c1 - AGOTAMIENTO DEL EGO]])
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a2c1-agotamiento-del-ego/#e9cca7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Cuando estamos activamente enfrascados en difíciles razonamientos cognitivos o en una tarea que requiere autocontrol, el nivel de glucosa en la sangre desciende. De igual forma un corredor, que consume la glucosa acumulada en sus músculos. 
+
+</div></div>
+
+
+>==Estás explorando las posibilidades==, explorando, explorando y ==de pronto, ¡BAM!, recibes una recompensa. Después de que te topas con una recompensa inesperada, alteras tu estrategia para la siguiente ocasión==. ==Tu cerebro comienza enseguida a analizar y catalogar los eventos que precedieron la recompensa. «Espera un momento, eso se sintió bien.== ¿Qué fue lo que hice justo antes de tener esa sensación?». ==Este es el circuito de retroalimentación detrás del comportamiento humano: prueba, falla, aprendizaje, prueba nuevamente pero de otra manera==. Con la práctica, los movimientos inútiles se desvanecen y las acciones útiles se refuerzan. Es el proceso deformación de hábitos. ==Siempre que enfrentas un problema de manera frecuente, tu cerebro comienza a automatizar el proceso para resolverlo==. ==**Tus hábitos son justamente una serie de soluciones automáticas que resuelven los problemas y presiones que enfrentas regularmente**==. El científico conductista Jason Hreha escribió: «Los hábitos son, simplemente, soluciones confiables a problemas recurrentes que surgen a nuestro alrededor»
+
+>Conforme se crean los hábitos, el nivel de actividad del cerebro disminuye.
+
+(Creo que de cierta forma, los hábitos son guiados por el [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a1 - SISTEMA 1\|a1 - SISTEMA 1]], que "aprende" esos atajos y los almacena como una suerte de "memoria muscular")
+
+> ==Aprendes a encerrar las señales que predicen el éxito y te desconectas de todo lo demás==. Cuando una situación semejante surge en el futuro, ya sabes exactamente qué tienes que buscar. Ya no hay necesidad de analizar cada ángulo de una situación determinada. Tu cerebro evita el proceso de prueba y error y crea una regla mental: «Si pasa tal cosa, entonces el resultado es aquel».
+
+>Ahora, cuando te sientes estresado, inmediatamente sientes la necesidad de salir a correr. Tan pronto como llegas del trabajo, tomas el control remoto del juego de video. Una decisión que anteriormente requirió un esfuerzo, ahora se ha vuelto automática. Un hábito ha sido creado.
+
+>==Los hábitos son atajos mentales aprendidos gracias a la experiencia==. En cierto sentido, un hábito es simplemente la memorización de los pasos que seguiste previamente para resolver un problema. Siempre que las condiciones sean correctas, puedes hacer uso de esta memoria y aplicar la misma solución de manera automática. ==La principal razón por la cual el cerebro recuerda el pasado es para predecir de mejor manera lo que va a funcionar bien en el futuro.==
+
