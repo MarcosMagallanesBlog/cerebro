@@ -17,6 +17,8 @@ Las capacidades del Sistema 1 incluyen ==destrezas innatas== (rasgos evolutivos)
 Pero no solo las destrezas innatas guían los pensamientos que se originan en el Sistema 1, también ==otras actividades mentales se vuelven rápidas y automáticas con la práctica prolongada== sin importar la complejidad aparente de las mismas. Algunas otras habilidades como ==descubrir buenas jugadas de ajedrez== únicamente las adquieren ==expertos especializados==.
 
 > El conocimiento es almacenado en la memoria y ==se accede a él sin intención ni esfuerzo==.
+{ #c5738b}
+
 
 El Sistema 1 ha aprendido a hacer asociaciones entre ideas (¿la capital de Francia?); también ha adquirido habilidades como la de interpretar y entender matices en situaciones sociales.
 
