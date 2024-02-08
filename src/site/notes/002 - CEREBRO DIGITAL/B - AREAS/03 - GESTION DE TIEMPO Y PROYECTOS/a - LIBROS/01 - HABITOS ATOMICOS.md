@@ -39,63 +39,9 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*para ver cuál es la correcta.La ==actividad neurológica del cerebro es muy alta durante este período== . En este lapsoestás analizando*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^mlkqku75vl\|show annotation]]
->
->
->
->{ #mlkqku75vl}
 
 
 
->
->*conscientes acerca de tusactos. ==Estás apropiándote de toneladas de nueva información y tratando de organizarlapara que tenga sentido. El cerebro está ocupado aprendiendo cuál es el mejor curso deacción.== 4Ocasionalmente, como cuando el*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^4imjkf3r2f8\|show annotation]]
->
->
->
->{ #4imjkf3r2f8}
-
-
-
->
->*uál es el mejor curso deacción.4 ==Ocasionalmente, como cuando el gato oprime la palanca, tú te topas con una solución.Te  sientes  ansioso  y  descubres  que  salir  a  correr  un  rato  te  tranquiliza.  Estásmentalmente exhausto debido a un largo día de trabajo y te das cuenta de que jugarvideojuegos te relaja. Estás explorando las posibilidades, explorando, explorando y depronto, ¡BAM!, recibes una recompensa.Después de que te topas con una recompensa inesperada, alteras tu estrategia para lasiguiente ocasión. Tu cerebro comienza enseguida a analizar y catalogar los eventos queprecedieron la recompensa. «Espera un momento, eso se sintió bien. ¿Qué fue lo quehice justo antes de tener esa sensación?».Este es el circuito de retroalimentación detrás del comportamiento humano: prueba,falla,  aprendizaje,  prueba  nuevamente  pero  de  otra  manera.  Con  la  práctica,  losmovimientos inútiles se desvanecen y las acciones útiles se refuerzan. Es el proceso deformación de hábitos.Siempre  que  enfrentas  un  problema  de  manera  frecuente,  tu  cerebro  comienza  aautomatizar  el  proceso  para  resolverlo.  Tus  hábitos  son  justamente  una  serie  desoluciones  automáticas  que  resuelven  los  problemas  y  presiones  que  enfrentasregularmente.  El  científico  conductista  Jason  Hreha  escribió:  «Los  hábitos  son,simplemente,  soluciones  confiables  a  problemas  recurrentes  que  surgen  a  nuestroalrededor».== 5Conforme se crean los hábitos,*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^4l6f65jyx6\|show annotation]]
->
->
->
->{ #4l6f65jyx6}
-
-
-
->
->*surgen  a  nuestroalrededor».5 ==Conforme se crean los hábitos, el nivel de actividad del cerebro disminuye.6 Aprendesa encerrar las señales que predicen el éxito y te desconectas de todo lo demás. Cuandouna situación semejante surge en el futuro, ya sabes exactamente qué tienes que buscar.Ya no hay necesidad de analizar cada ángulo de una situación determinada. Tu cerebroevita el proceso de prueba y error y crea una regla mental: «Si pasa tal cosa, entonces elresultado es aquel».== Estos guiones mentales pueden s*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^bj7kzmsw976\|show annotation]]
->
->
->
->{ #bj7kzmsw976}
-
-
-
->
->*se  presenta  es  apropiada. ==Ahora,  cuando  te  sientes  estresado,inmediatamente  sientes  la  necesidad  de  salir  a  correr.  Tan  pronto  como  llegas  deltrabajo,  tomas  el  control  remoto  del  juego  de  video.  Una  decisión  que  anteriormenterequirió un esfuerzo, ahora se ha vuelto automática. Un hábito ha sido creado== .Los hábitos son atajos mentales*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^jy4s44o8n0a\|show annotation]]
->
->
->
->{ #jy4s44o8n0a}
-
-
-
->
->*ática. Un hábito ha sido creado. ==Los hábitos son atajos mentales aprendidos gracias a la experiencia. En cierto sentido,un hábito es simplemente la memorización de los pasos que seguiste previamente pararesolver un problema. Siempre que las condiciones sean correctas, puedes hacer uso deesta memoria y aplicar la misma solución de manera automática. La principal razón porla  cual  el  cerebro  recuerda  el  pasado  es  para  predecir  de  mejor  manera  lo  que  va  afuncionar bien en el futuro.== 7La formación de hábitos es incr*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^57fj644uxoj\|show annotation]]
->
->
->
->{ #57fj644uxoj}
 
 
 
