@@ -6,9 +6,9 @@
 ---
 # POR QUÉ NUESTRO CEREBRO DESARROLLA  HÁBITOS
 
-La investigación apunta a que el cerebro es una increíble máquina de resolver problemas, y que también es muy vago, por lo que siempre busca la economía energética al actuar.
+==La investigación apunta a que el cerebro es una increíble máquina de resolver problemas==, y que también es muy vago, por lo que siempre busca la mayor economía al actuar. Esto es lo que se conoce como [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/c1 - LEY DEL MINIMO ESFUERZO\|c1 - LEY DEL MINIMO ESFUERZO]].
 
->Un hábito es una conducta que se ha repetido lo suficiente como para volverse automática. El proceso de formación de hábitos empieza con una secuencia de ensayo y error. Siempre que estás ante una situación nueva en la vida, tu cerebro tiene que tomar una decisión. «¿Cómo debo responder a esta nueva situación?». La primera vez que enfrentas un problema, no estás seguro de cómo resolverlo. Como [[c1 - EL GATO DE THORNDIKE\|el gato de Thorndike]], estás experimentando con varias opciones para ver cuál es la correcta...
+>Un hábito es una conducta que se ha repetido lo suficiente como para volverse automática. El proceso de formación de hábitos empieza con una secuencia de ensayo y error. Siempre que estás ante una situación nueva en la vida, tu cerebro tiene que tomar una decisión. «¿Cómo debo responder a esta nueva situación?». La primera vez que enfrentas un problema, no estás seguro de cómo resolverlo. Como [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c1 - EL GATO DE THORNDIKE\|el gato de Thorndike]], estás experimentando con varias opciones para ver cuál es la correcta...
 
 Imaginemos alguien que tiene que aprender a manejar: inicialmente la cantidad de variables resulta abrumadora. El [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|a2 - SISTEMA 2]] se encuentra sometido a un nivel de tensión máximo (Los cambios, el embriague, el freno, el señalero, los otros autos, la velocidad, etcétera).
 
@@ -71,7 +71,7 @@ En otras palabras, una tarea compleja puede pasar a ser operada mediante el [[00
 > La actividad neurológica del cerebro es muy alta durante este período.
 >>Estás apropiándote de toneladas de nueva información y tratando de organizarla para que tenga sentido. El cerebro está ocupado aprendiendo cuál es el mejor curso de acción.
 
->==Ocasionalmente==, como cuando [[c1 - EL GATO DE THORNDIKE\|el gato oprime la palanca]], tú te ==topas con una solución==. ==Te sientes ansioso y descubres que salir a correr un rato te tranquiliza==. Estás mentalmente exhausto debido a un largo día de trabajo y te das cuenta de que jugar videojuegos te relaja. 
+>==Ocasionalmente==, como cuando [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c1 - EL GATO DE THORNDIKE\|el gato oprime la palanca]], tú te ==topas con una solución==. ==Te sientes ansioso y descubres que salir a correr un rato te tranquiliza==. Estás mentalmente exhausto debido a un largo día de trabajo y te das cuenta de que jugar videojuegos te relaja. 
 
 (Entendamos que este esfuerzo fue producido por el [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|a2 - SISTEMA 2]] y que conduce lentamente a un estado mental de [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2c1 - AGOTAMIENTO DEL EGO\|a2c1 - AGOTAMIENTO DEL EGO]])
 
@@ -96,3 +96,42 @@ Cuando estamos activamente enfrascados en difíciles razonamientos cognitivos o 
 
 >==Los hábitos son atajos mentales aprendidos gracias a la experiencia==. En cierto sentido, un hábito es simplemente la memorización de los pasos que seguiste previamente para resolver un problema. Siempre que las condiciones sean correctas, puedes hacer uso de esta memoria y aplicar la misma solución de manera automática. ==La principal razón por la cual el cerebro recuerda el pasado es para predecir de mejor manera lo que va a funcionar bien en el futuro.==
 
+>La formación de hábitos es increíblemente útil porque la mente consciente es el cuello de botella del cerebro...
+
+(Mente consiente = [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|a2 - SISTEMA 2]])
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a2-sistema-2/#503e63" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+El Sistema 2 ==centra la atención== en las ==actividades mentales esforzadas que lo demandan==, incluidos los cálculos complejos. ==Las operaciones del Sistema 2 están a menudo asociadas a la experiencia subjetiva== de actuar, elegir y concentrarse. 
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/002-cerebro-digital/c-recursos/02-psicologia/a-libros/01-piensa-rapido-piensa-despacio/a2b-sistema-2-y-su-frecuencia/#5d6792" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+==El Sistema 2 dos posee reservas finitas de atención para invertir en diferentes tareas==. Esto es importante tenerlo en cuenta para evitar problemas al momento de ejecutar alguna; sería bueno saber estimativamente cuanta de esta reserva necesita la tarea en cuestión y acudir con reservas suficientes para lograrla. 
+
+</div></div>
+
+
+El cerebro solamente puede poner atención a un problema a la vez. Como resultado, el cerebro siempre se esfuerza por preservar la atención consciente y destinarla a la tarea que resulta más esencial en un momento determinado.
+
+> ==La mente consciente le pasa a la mente inconsciente las tareas para que las ejecute de manera automática sin hacer uso de la conciencia==. Eso es justamente lo que pasa cuando se forma un hábito. Los hábitos reducen la carga cognitiva y liberan la capacidad mental, lo que permite dedicar la atención consciente a otras tareas
+
+(Mente inconsinete = [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a1 - SISTEMA 1\|a1 - SISTEMA 1]])
+
+## LOS BENEFICIOS DE LOS HÁBITOS
+
+Los hábitos son altamente eficaces para cumplir una meta, pero la gente sigue dudando de sus beneficios. El argumento que esgrimen es parecido a esto: «Los hábitos de la voluntad hacen la vida aburrida. Yo no quiero encasillarme en un estilo de vida que no disfruto. ¿Acaso no es la rutina y la repetición lo que le resta a la vida espontaneidad y dinamismo?». 
+
+>Esto difícilmente es así. Los planteamientos anteriores establecen una falsa dicotomía. Te hacen creer que tienes que elegir entre la construcción de hábitos y la obtención de la libertad. En la realidad ambos conceptos se complementan.  
+
+Los hábitos son autocontrol, el autocontrol es la única libertad de la que podemos tener certeza.
+
+>De hecho, las personas que no tienen sus hábitos bajo control son aquellas que disfrutan de menos libertad. Si no cuentas con buenos hábitos financieros, siempre estarás luchando para conseguir dinero para completar la quincena. Si no tienes buenos hábitos de estudio, siempre vas a sentir que el resto de la clase te deja atrás. Si siempre estás obligado a tomar decisiones acerca de las tareas más básicas (por ejemplo, cuándo debo entrenar, dónde voy para escribir, cuándo pago las cuentas), no te quedará mucho tiempo para disfrutar de tu libertad. Cuando logras simplificar las tareas fundamentales de la vida, puedes crear el espacio mental necesario para el pensamiento libre y la creatividad.  
+>Del mismo modo, cuando tus hábitos se realizan de manera automática porque ya están encriptados en tu cerebro, cuando los aspectos fundamentales de la vida están bajo control, tu mente se libera y tiene oportunidad de concentrarse en nuevos retos y en dominar el siguiente nivel de problemas. Construir hábitos en el presente te permite hacer más en el futuro.
