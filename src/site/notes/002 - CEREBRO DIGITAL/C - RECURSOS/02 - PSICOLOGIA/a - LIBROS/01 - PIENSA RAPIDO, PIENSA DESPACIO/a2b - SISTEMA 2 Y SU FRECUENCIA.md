@@ -12,6 +12,8 @@ El Sistema 2 también tiene su ==velocidad natural==. ==Una velocidad donde se u
 
 ## VELOCIDAD NATURAL
 ==El Sistema 2 dos posee reservas finitas de atención para invertir en diferentes tareas==. Esto es importante tenerlo en cuenta para evitar problemas al momento de ejecutar alguna; sería bueno saber estimativamente cuanta de esta reserva necesita la tarea en cuestión y acudir con reservas suficientes para lograrla.
+{ #5d6792}
+
 
 > Tomamos muchas pequeñas decisiones cuando conducimos, absorbemos alguna información cuando leemos el periódico e intercambiamos cumplidos rutinarios con la esposa o con un colega, ==todo esto con poco esfuerzo y sin tensión alguna. Justo como en un paseo.==
 
