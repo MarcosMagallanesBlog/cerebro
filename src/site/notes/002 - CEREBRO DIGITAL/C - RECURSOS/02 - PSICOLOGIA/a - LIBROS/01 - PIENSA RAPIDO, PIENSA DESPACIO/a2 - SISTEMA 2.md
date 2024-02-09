@@ -6,6 +6,8 @@
 ---
 # SISTEMA 2
 El Sistema 2 ==centra la atención== en las ==actividades mentales esforzadas que lo demandan==, incluidos los cálculos complejos. ==Las operaciones del Sistema 2 están a menudo asociadas a la experiencia subjetiva== de actuar, elegir y concentrarse.
+{ #503e63}
+
 
 ==Las operaciones del Sistema 2 no solo suceden en la mente; también el cuerpo está implicado==. Los músculos se tensan, la presión sanguínea aumenta, y sus pulsaciones aumentan, las pupilas se dilatan (más o menos, dependiendo de la dificultad de la operación)
 
