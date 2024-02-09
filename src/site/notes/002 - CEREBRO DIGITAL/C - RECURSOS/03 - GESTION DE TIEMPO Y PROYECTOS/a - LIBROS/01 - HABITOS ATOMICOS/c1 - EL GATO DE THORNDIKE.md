@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/03-gestion-de-tiempo-y-proyectos/a-libros/01-habitos-atomicos/c1-el-gato-de-thorndike/"}
+---
+
+---
+# EL GATO DE THORNDIKE
+(Extracto del libro "Hábitos Atómicos - James Clear)
+
+En 1898, el psicólogo Edward Thorndike realizó un experimento que sentó las bases que nos ayudan a comprender la manera en que nuestros hábitos se forman y las reglas que gobiernan nuestra conducta. Thorndike estaba interesado en el estudio de la conducta animal, así que comenzó trabajando con gatos.  
+
+El experimento de Thorndike consistía en colocar a los gatos dentro de un dispositivo conocido como caja problema. La caja estaba diseñada de tal manera que los gatos pudieran escapar a través de la puerta mediante un acto sencillo, como jalar el lazo de una cuerda, presionando una palanca o parándose en una plataforma. Por ejemplo, una de las cajas contenía una palanca que, cuando se presionaba, abría la puerta colocada en un extremo de la caja. Una vez que la puerta se abría, el gato podía escapar a través de ella y correr hasta un tazón lleno de comida. La mayoría de los gatos que eran colocados dentro de la caja trataban de escapar tan pronto como estaban dentro. Al principio golpeaban las orillas de la caja con la nariz, trataban de meter las patas por los orificios y movían con las garras cualquier objeto suelto que encontraban. Después de unos minutos de exploración, los gatos lograban oprimir por casualidad la palanca mágica, la puerta se abría y ellos escapaban.  
+
+Thorndike observó y registró la conducta de todos los gatos durante varios intentos. Al principio los animales se movían alrededor del interior de la caja de manera aleatoria, pero tan pronto como lograban oprimir la palanca y la puerta se abría, el proceso de aprendizaje comenzaba. Poco a poco cada gato aprendía a asociar la acción de oprimir la palanca con la recompensa que consistía en salir de la caja y obtener la comida.  
+Después de veinte o treinta intentos, la conducta se volvió tan automática y habitual que el gato lograba escapar en unos cuantos segundos. Por ejemplo, Thorndike anotó lo siguiente: «Al gato número 12 le tomó los siguientes tiempos realizar la acción: 160 segundos, 30 segundos, 90 segundos, 60, 15, 28, 20, 30, 22, 11, 15, 20, 12, 10, 14, 10, 8, 8, 5, 10, 8, 6, 6, 7».  
+Durante los tres primeros intentos, el gato escapó en un promedio de 1.5 minutos. Durante los tres últimos intentos el gato tardó un promedio de 6.3 segundos en escapar. Con la práctica, los gatos cometieron menos errores y sus acciones se volvieron más rápidas y automáticas. En lugar de seguir cometiendo los mismos errores, los gatos comenzaron a llegar directamente a la solución correcta.  
+
+A partir de sus estudios, Thorndike describió el proceso de aprendizaje de la siguiente manera: «Las conductas seguidas de consecuencias satisfactorias tienden a repetirse, las conductas que producen consecuencias desagradables tienden a no repetirse».3 Su trabajo provee el punto de partida perfecto para hablar de cómo los hábitos se forman en nuestra vida. También da respuesta a algunas preguntas fundamentales como: ¿Qué son los  hábitos? ¿Por qué nuestro cerebro se toma la molestia de desarrollar hábitos?
