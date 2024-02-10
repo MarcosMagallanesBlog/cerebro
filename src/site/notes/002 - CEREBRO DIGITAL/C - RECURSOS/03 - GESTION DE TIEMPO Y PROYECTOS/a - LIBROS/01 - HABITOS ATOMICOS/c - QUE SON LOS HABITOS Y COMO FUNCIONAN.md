@@ -135,3 +135,6 @@ Los hábitos son autocontrol, el autocontrol es la única libertad de la que pod
 
 >==De hecho, las personas que no tienen sus hábitos bajo control son aquellas que disfrutan de menos libertad. ==Si no cuentas con buenos hábitos financieros, siempre estarás luchando para conseguir dinero para completar la quincena. Si no tienes buenos hábitos de estudio, siempre vas a sentir que el resto de la clase te deja atrás. Si siempre estás obligado a tomar decisiones acerca de las tareas más básicas (por ejemplo, cuándo debo entrenar, dónde voy para escribir, cuándo pago las cuentas), no te quedará mucho tiempo para disfrutar de tu libertad. ==Cuando logras simplificar las tareas fundamentales de la vida, puedes crear el espacio mental necesario para el pensamiento libre y la creatividad.  ==
 >Del mismo modo, cuando tus hábitos se realizan de manera automática porque ya están encriptados en tu cerebro, cuando los aspectos fundamentales de la vida están bajo control, tu mente se libera y tiene oportunidad de concentrarse en nuevos retos y en dominar el siguiente nivel de problemas. Construir hábitos en el presente te permite hacer más en el futuro.
+
+---
+[[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS\|c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS]]
