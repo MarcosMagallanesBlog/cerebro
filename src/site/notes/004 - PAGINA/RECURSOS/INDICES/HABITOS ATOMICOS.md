@@ -10,18 +10,19 @@
 [[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS\|01 - HABITOS ATOMICOS]]
 
 # APUNTES
-| ARCHIVO                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a - HABITOS ATOMICOS\|a - HABITOS ATOMICOS]]                                         |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1 - EN QUE CONSISTE EL PROGRESO\|a1 - EN QUE CONSISTE EL PROGRESO]]                 |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1a - EL ABISMO DE LA DESILUCION\|a1a - EL ABISMO DE LA DESILUCION]]                 |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1b - MESETA DEL POTENCIAL LATENTE\|a1b - MESETA DEL POTENCIAL LATENTE]]             |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a2 - METAS Y SISTEMAS\|a2 - METAS Y SISTEMAS]]                                       |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a2a - EL GORILLA INVISIBLE^\|a2a - EL GORILLA INVISIBLE^]]                           |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/b - HABITOS E IDENTIDAD\|b - HABITOS E IDENTIDAD]]                                   |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]]                                 |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c - QUE SON LOS HABITOS Y COMO FUNCIONAN\|c - QUE SON LOS HABITOS Y COMO FUNCIONAN]] |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c1 - EL GATO DE THORNDIKE\|c1 - EL GATO DE THORNDIKE]]                               |
+| ARCHIVO                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a - HABITOS ATOMICOS\|a - HABITOS ATOMICOS]]                                                     |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1 - EN QUE CONSISTE EL PROGRESO\|a1 - EN QUE CONSISTE EL PROGRESO]]                             |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1a - EL ABISMO DE LA DESILUCION\|a1a - EL ABISMO DE LA DESILUCION]]                             |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a1b - MESETA DEL POTENCIAL LATENTE\|a1b - MESETA DEL POTENCIAL LATENTE]]                         |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a2 - METAS Y SISTEMAS\|a2 - METAS Y SISTEMAS]]                                                   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/a2a - EL GORILLA INVISIBLE^\|a2a - EL GORILLA INVISIBLE^]]                                       |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/b - HABITOS E IDENTIDAD\|b - HABITOS E IDENTIDAD]]                                               |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]]                                             |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c - QUE SON LOS HABITOS Y COMO FUNCIONAN\|c - QUE SON LOS HABITOS Y COMO FUNCIONAN]]             |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS\|c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS]] |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c1 - EL GATO DE THORNDIKE\|c1 - EL GATO DE THORNDIKE]]                                           |
 
 { .block-language-dataview}
 
