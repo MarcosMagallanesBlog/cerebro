@@ -11,3 +11,8 @@ Cuando nuestro estado es de tensión, ==es más probable que estemos alerta y se
 >la creatividad es memoria asociativa que trabaja excepcionalmente bien.
 
 Esto requiere acceso cómodo al Sistema 1, pues es éste quien hace asociaciones. Ante la tensión, el protagonismo del Sistema 1 se ve disminuido.
+
+Que una tarea sea ejecutada o abandonada dependerá de las reservas de atención que nos queden, puesto que el [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|a2 - SISTEMA 2]] será puesto a prueba, que persista o abandone dependerá de a vitalidad de la tarea y/o de la cantidad de atención que le quede al SISTEMA 2.
+
+---
+[[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/c - ATENCIÓN Y ESFUERZO\|c - ATENCIÓN Y ESFUERZO]]
