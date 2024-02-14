@@ -67,4 +67,4 @@ Nuestros hábitos están programados para alcanzar una recompensa.
 >Si una conducta resulta insuficiente en cualquiera de las cuatro etapas, no se convertirá en un hábito. Si eliminas la señal, tu hábito nunca va a comenzar. Si reduces el anhelo, no encontrarás suficiente motivación para actuar. Si la conducta es demasiado difícil, no serás capaz de realizarla. Y si la recompensa es incapaz de satisfacer tu deseo, entonces no habrá una razón para que la repitas en el futuro. Sin los primeros tres pasos, la conducta no ocurrirá. Sin el cuarto paso, la conducta no se repetirá.
 
 ---
-COMPRENDER [[c2 - EL CICLO DE LOS HABITOS\|c2 - EL CICLO DE LOS HABITOS]] ES FUNDAMENTAL PARA COMPRENDER [[d - COMO CREAR HABITOS\|d - COMO CREAR HABITOS]] y [[e - COMO DESTRUIR HABITOS\|e - COMO DESTRUIR HABITOS]].
+COMPRENDER [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c2 - EL CICLO DE LOS HABITOS\|c2 - EL CICLO DE LOS HABITOS]] ES FUNDAMENTAL PARA COMPRENDER [[d - COMO CREAR HABITOS\|d - COMO CREAR HABITOS]] y [[e - COMO DESTRUIR HABITOS\|e - COMO DESTRUIR HABITOS]].
