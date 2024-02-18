@@ -3,10 +3,11 @@
 ---
 
 
-| ARCHIVO                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[004 - PAGINA/RECURSOS/INDICES/HABITOS ATOMICOS\|HABITOS ATOMICOS]]                             |
-| [[004 - PAGINA/RECURSOS/INDICES/PIENSA RAPIDO, PIENSA DESPACIO\|PIENSA RAPIDO, PIENSA DESPACIO]] |
+| ARCHIVO                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| [[004 - PAGINA/RECURSOS/INDICES/CONCLUSIONES Y REFLEXIONES SOBRE EL TRADING\|CONCLUSIONES Y REFLEXIONES SOBRE EL TRADING]] |
+| [[004 - PAGINA/RECURSOS/INDICES/HABITOS ATOMICOS\|HABITOS ATOMICOS]]                                                       |
+| [[004 - PAGINA/RECURSOS/INDICES/PIENSA RAPIDO, PIENSA DESPACIO\|PIENSA RAPIDO, PIENSA DESPACIO]]                           |
 
 { .block-language-dataview}
 # NOTA
