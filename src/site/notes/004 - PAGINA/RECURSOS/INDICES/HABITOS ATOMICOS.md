@@ -28,6 +28,7 @@
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/d2 - ANHELO\|d2 - ANHELO]]                                                                       |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/d3 - RESPUESTA\|d3 - RESPUESTA]]                                                                 |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/d4 - RECOMPENSA\|d4 - RECOMPENSA]]                                                               |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/e - INTUICION EXPERTA\|e - INTUICION EXPERTA]]                                                   |
 
 { .block-language-dataview}
 
