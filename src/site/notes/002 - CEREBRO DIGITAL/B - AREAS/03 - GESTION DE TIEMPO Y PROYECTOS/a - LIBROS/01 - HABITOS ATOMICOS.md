@@ -47,15 +47,6 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*O4 El hombre que no se veía bien ==El psicólogo Gary Klein una vez me contó una historia acerca de una mujer que habíaasistido a una reunión familiar.1 Había pasado años trabajando como paramédica y, tanpronto como llegó a la fiesta, le dio un vistazo a su suegro y se quedó muy preocupada.—No me gusta cómo te ves —le dijo la mujer a su suegro.Su suegro, que no tenía ningún malestar y se sentía perfectamente bien, respondióbromeando:—A mí tampoco me gusta cómo te ves.—No —insistió la mujer—. Tienes que ir al hospital inmediatamente.Unas horas después el hombre estaba siendo sometido a una cirugía para salvarle lavida después de que las pruebas médicas habían revelado que tenía una arteria mayorbloqueada y que estaba en riesgo inminente de sufrir un ataque cardíaco. Sin la intuiciónde su nuera, podría haber muerto.¿Qué fue lo que la paramédica vio? ¿Cómo fue que predijo el posible ataque cardíaco?Cuando  las  arterias  principales  están  obstruidas,  el  cuerpo  se  concentra  en  enviarsangre a los órganos vitales y la aleja de las zonas menos importantes como son las áreasperiféricas cerca de la capa externa de la piel. El resultado es un cambio en el patrón dedistribución de la sangre en el rostro. Después de varios años de trabajar con personasque padecían de fallas cardíacas, la mujer había desarrollado, sin saberlo, la habilidad dereconocer este patrón a simple vista. Ella no podía explicar qué era lo que había notadoen el rostro de su suegro, pero sabía que algo no andaba bien.== Historias  similares  existen  e*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^2gdh7a8on19\|show annotation]]
->
->
->
->{ #2gdh7a8on19}
-
-
 
 >
 >*o sabía que algo no andaba bien. ==Historias  similares  existen  en  otros  campos.  Por  ejemplo,  los  analistas  militarespueden identificar qué parpadeo en el radar pertenece a un misil enemigo y qué parpadeocorresponde a un avión de su propia flota, a pesar de que ambos estén viajando a lamisma velocidad, volando a la misma altitud y se vean prácticamente iguales en el radaren todos los sentidos.== 2  Durante  la  Guerra  del  Gol*
