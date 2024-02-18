@@ -4,7 +4,7 @@
 
 ---
 # EL GATO DE THORNDIKE
-(Extracto del libro "Hábitos Atómicos - James Clear)
+(Extracto literal del libro "Hábitos Atómicos - James Clear)
 
 En 1898, el psicólogo Edward Thorndike realizó un experimento que sentó las bases que nos ayudan a comprender la manera en que nuestros hábitos se forman y las reglas que gobiernan nuestra conducta. Thorndike estaba interesado en el estudio de la conducta animal, así que comenzó trabajando con gatos.  
 
