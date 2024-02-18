@@ -11,6 +11,8 @@
 
 
 El Sistema 1 ==opera de manera rápida y automática==, **con poco o ningún esfuerzo** y ==sin sensación de control voluntario.==
+{ #a37b5c}
+
 
 Las capacidades del Sistema 1 incluyen ==destrezas innatas== (rasgos evolutivos) que compartimos con otros animales. Nacemos preparados para percibir el mundo que nos rodea, reconocer objetos, orientar la atención, ==[[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a1b - AVERSION A LAS PERDIDAS\|evitar pérdidas]]== y temer a las arañas. 
 
