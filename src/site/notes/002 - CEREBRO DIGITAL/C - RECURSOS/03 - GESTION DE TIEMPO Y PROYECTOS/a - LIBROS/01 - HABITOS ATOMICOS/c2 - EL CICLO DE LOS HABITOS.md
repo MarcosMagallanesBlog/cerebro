@@ -20,6 +20,7 @@ La recompensa satisface el anhelo y queda asociada (interiorizada) la señal que
 El ciclo se divide en dos fases.
 Problema: señal, anhelo.
 Solución: respuesta. recompensa.
+Estos son definidos en: [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS\|c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS]]
 
 ![Pasted image 20240218162136.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240218162136.png)
 
@@ -29,3 +30,7 @@ Solución: respuesta. recompensa.
 
 >La urgencia de actuar para solucionar el problema se apodera de ti sin que tengas que pensar en ello.
 >> rara vez nos percatamos de los hábitos que conducen nuestra vida.
+
+>Antes de que podamos construir nuevos hábitos de manera efectiva, necesitamos tener nuestros hábitos actuales bajo control.
+
+Una de las técnicas fundamentales presentadas por el autor son [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/f- TECNICAS PARA CONTROLAR TUS HABITOS\|f- TECNICAS PARA CONTROLAR TUS HABITOS]].
