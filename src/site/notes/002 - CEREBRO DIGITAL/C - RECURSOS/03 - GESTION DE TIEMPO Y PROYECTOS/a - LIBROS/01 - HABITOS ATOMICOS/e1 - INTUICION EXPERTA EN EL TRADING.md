@@ -49,7 +49,7 @@ El Sistema 1 ==opera de manera rápida y automática==, **con poco o ningún esf
 </div></div>
 
 
-Y el [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|a2 - SISTEMA 2]] (mente consiente) debe filtrar esas intuiciones, para determinar su nivel de validez y obran en consecuencia de ello.
+Y el correcto obrar sería que el [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a2 - SISTEMA 2\|a2 - SISTEMA 2]] (mente consiente) filtre esas intuiciones, para determinar su nivel de válidez y obran en consecuencia de ello.
 
 ---
 [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d1a - ACTIVACION ASOCIATIVA EN EL TRADING\|d1a - ACTIVACION ASOCIATIVA EN EL TRADING]]
