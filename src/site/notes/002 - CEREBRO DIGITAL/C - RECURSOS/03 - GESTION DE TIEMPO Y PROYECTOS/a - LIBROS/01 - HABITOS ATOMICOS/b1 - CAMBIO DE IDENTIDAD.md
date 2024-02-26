@@ -53,3 +53,6 @@ Por supuesto, esto también funciona en sentido opuesto. Cada vez que eliges rea
 >Son el canal a través del cual desarrollas y cultivas las creencias más profundas acerca de ti mismo. De manera estrictamente literal, te conviertes en tus hábitos.
 
 Esta naturaleza de los hábitos tiene coherencia con el [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2b1 - EFECTO FLORIDA\|d2b1 - EFECTO FLORIDA]] del [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/d2 - PRIMING\|d2 - PRIMING]] definidos por Daniel Khaneman. Actuar de acorde a la persona que queremos ser, realmente convencernos de eso, puede condicionar nuestra actitud futura para perpetuar realmente esa persona que queremos ser con la que somos.
+
+## ANTE TODO
+Lo fundamental a la hora de abordar nuestra identidad es conocer la que tenemos actualmente, así como saber si nuestros hábitos son a favor o en contra de lo deseado, una vez comprendidos nuestros hábitos y [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c - QUE SON LOS HABITOS Y COMO FUNCIONAN\|como funcionan los mismos]], estamos en posición de avanzar en favor de nuestros objetivos.
