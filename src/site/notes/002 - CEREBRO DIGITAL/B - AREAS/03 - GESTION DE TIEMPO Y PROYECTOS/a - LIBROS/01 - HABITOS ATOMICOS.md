@@ -48,183 +48,21 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*o sabía que algo no andaba bien. ==Historias  similares  existen  en  otros  campos.  Por  ejemplo,  los  analistas  militarespueden identificar qué parpadeo en el radar pertenece a un misil enemigo y qué parpadeocorresponde a un avión de su propia flota, a pesar de que ambos estén viajando a lamisma velocidad, volando a la misma altitud y se vean prácticamente iguales en el radaren todos los sentidos.== 2  Durante  la  Guerra  del  Gol*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^eisscbeesgh\|show annotation]]
->
->
->
->{ #eisscbeesgh}
 
 
 
->
->*l radaren todos los sentidos.2 ==Durante  la  Guerra  del  Golfo,  el  teniente  comandante  MichaelRiley  salvó  a  toda  una  flota  de  combate  cuando  ordenó  que  se  derribara  un  misilenemigo —a pesar de que se veía exactamente igual que los aviones de la flota en elradar.  El  teniente  tomó  la  decisión  correcta,  pero  incluso  sus  superiores  no  sabíanexplicar cómo lo había hecho== .Hay  curadores  de  museo  que*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^p1u0e05wkih\|show annotation]]
->
->
->
->{ #p1u0e05wkih}
 
 
 
->
->*íanexplicar cómo lo había hecho. ==Hay  curadores  de  museo  que  son  reconocidos  porque  son  capaces  de  distinguir  ladiferencia entre una obra de arte auténtica y una falsificación hecha por un experto== .3 Sin50embargo, no saben explic*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^rrsbfg15rv\|show annotation]]
->
->
->
->{ #rrsbfg15rv}
 
 
 
->
->*n a identificar laobra  falsa. ==Hay  radiólogos  experimentados  que  al  ver  una  ecografía  cerebral  puedenpredecir en qué área del cerebro se producirá un derrame aun antes de que haya algúnsíntoma  evidente  o  signos  visibles  para  el  ojo  que  no  está  entrenado== .4  Incluso  heescuchado anécdot*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^o1j7qxyxsdm\|show annotation]]
->
->
->
->{ #o1j7qxyxsdm}
 
 
 
->
->*mbios en la textura del cabello. ==El  cerebro  humano  es  una  máquina  de  hacer  predicciones== .5  Continuamente  estárevisando*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^7w5o89nysk6\|show annotation]]
->
->
->
->{ #7w5o89nysk6}
 
 
 
->
->*ina  de  hacer  predicciones.5 ==Continuamente  estárevisando el ambiente a su alrededor y analizando la información que se cruza en sucamino. Siempre que experimentas algo de manera repetida —como la paramédica quevio el rostro de un paciente a punto de sufrir un ataque cardíaco o un analista militar queobserva un misil en la pantalla de un radar—, tu cerebro comienza por analizar qué es lomás  importante,  clasifica  los  detalles,  destaca  las  señales  relevantes  y  cataloga  lainformación para usarla en el futuro== .Con  suficiente  práctica,  es*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^uku76ps5i19\|show annotation]]
->
->
->
->{ #uku76ps5i19}
-
-
-
->
->*mación para usarla en el futuro. ==Con  suficiente  práctica,  es  posible  seleccionar  las  señales  que  predicen  ciertosresultados sin pensar conscientemente en ello. De manera automática, el cerebro codificalas lecciones aprendidas por medio de la experiencia== . No siempre podemos explicar qu*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^k75i6q0srs\|show annotation]]
->
->
->
->{ #k75i6q0srs}
-
-
-
->
->*e todos los hábitos que tenemos. ==Solemos subestimar todo lo que nuestro cerebro y nuestro cuerpo pueden hacer sinque intervenga el pensamiento== . Tú no le dices a tu cabello qu*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^t99ij4kiwb\|show annotation]]
->
->
->
->{ #t99ij4kiwb}
-
-
-
->
->*nque intervenga el pensamiento. ==Tú no le dices a tu cabello que crezca ni a tu corazón quelata ni a tus pulmones que respiren ni a tu estómago que digiera. Y, sin embargo, tucuerpo controla todas estas funciones y más con el piloto automático. Tú eres muchomás que tu ser consciente== .Considera  el  hambre,  por  ej*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^w76i9y3c1ds\|show annotation]]
->
->
->
->{ #w76i9y3c1ds}
-
-
-
->
->*fue lo que provocó la sensación. ==Esta es una de las más sorprendentes características de nuestros hábitos: no tienes queestar  consciente  de  la  señal  para  que  el  hábito  comience.  Puedes  advertir  unaoportunidad y comenzar a actuar sin dedicarle un momento de atención consciente alhecho. Esto es lo que hace que los hábitos sean útiles== .Esta característica también hac*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^ar2ga697tlq\|show annotation]]
->
->
->
->{ #ar2ga697tlq}
-
-
-
->
->*muchomás que tu ser consciente. ==Considera  el  hambre,  por  ejemplo.  ¿Cómo  sabes  cuando  tienes  hambre?  Nonecesariamente tienes que ver una galleta en la mesa para darte cuenta de que es hora decomer. El apetito y el hambre están gobernados por el cerebro de manera inconsciente.Tu cuerpo tiene una variedad de circuitos de retroalimentación que gradualmente envíanseñales de alerta cuando es el momento de comer otra vez, al tiempo que siguen la pistade lo que sucede a tu alrededor y dentro de ti. El anhelo puede iniciarse gracias a lashormonas y los químicos que circulan a través de tu cuerpo. De pronto sientes hambre,aunque no estés seguro de qué fue lo que provocó la sensación== .Esta es una de las más sorprend*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^sfw9qhdiozl\|show annotation]]
->
->
->
->{ #sfw9qhdiozl}
-
-
-
->
->*ace que los hábitos sean útiles. ==Esta característica también hace que los hábitos sean peligrosos== . Conforme los hábitosse forman,*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^wd5jtay2gu\|show annotation]]
->
->
->
->{ #wd5jtay2gu}
-
-
-
->
->*o y por qué lo estás haciendo.51 ==Una vez escuché una anécdota acerca de un vendedor de una tienda departamental quehabía sido instruido para que destruyera con unas tijeras las tarjetas de regalo de losclientes una vez que hubieran gastado todo el saldo. En una ocasión, el vendedor atendióa varios clientes que pagaron sucesivamente con tarjetas de regalo. Cuando atendió alsiguiente cliente, el vendedor pasó por la máquina la tarjeta de crédito con la que lepagó, tomó las tijeras y la cortó en dos, totalmente en automático, sin siquiera voltear aver al cliente que lo miraba azorado== .6Otra mujer a la que conocí dur*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^7blf4fxva0k\|show annotation]]
->
->
->
->{ #7blf4fxva0k}
-
-
-
->
->*cliente que lo miraba azorado.6 ==Otra mujer a la que conocí durante mi investigación había sido maestra de jardín deniños que cambió de profesión y había comenzado a trabajar para una corporación. Apesar de que ya estaba trabajando con adultos, sus antiguos hábitos seguían apareciendoy, sin darse cuenta, les preguntaba a sus colegas si se habían lavado las manos despuésde ir al baño== .7 También di con la historia de*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^6ggcdubhhh\|show annotation]]
->
->
->
->{ #6ggcdubhhh}
-
-
-
->
->*cuando veía a un niñocorriendo.8 ==Con el tiempo, las señales que desencadenan nuestros hábitos se vuelven tan comunesque son esencialmente invisibles: las golosinas en el aparador de la cocina, el control deltelevisor junto al sillón, el teléfono en el bolsillo. Nuestras respuestas a estas señalesestán  tan  profundamente  codificadas  en  nuestro  cerebro  que  puede  parecer  que  laurgencia de actuar surge de la nada== . Por esta razón debemos comenza*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^xu9cchjb5c\|show annotation]]
->
->
->
->{ #xu9cchjb5c}
-
-
-
->
->*cia de actuar surge de la nada. ==Por esta razón debemos comenzar el proceso decambio de conductas con plena conciencia.== Antes de que podamos construir n*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^10iuyigfgaq\|show annotation]]
->
->
->
->{ #10iuyigfgaq}
-
-
-
->
->*conductas con plena conciencia. ==Antes de que podamos construir nuevos hábitos de manera efectiva, necesitamos tenernuestros hábitos actuales bajo control== . Esto puede ser más desafiante*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^zcr083v92kg\|show annotation]]
->
->
->
->{ #zcr083v92kg}
-
-
-
->
->*ares inconsciente y automático. ==Si un hábito permanece inconsciente, no puedes esperarcambiarlo  para  mejorar.  Como  el  psicólogo  Carl  G.  Jung  decía:  «Mientras  no  logrestransformar lo inconsciente en consciente, lo inconsciente guiará tu vida y tú lo llamarásdestino».== 9EL REGISTRO DE LOS HÁBITOSEl  s*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^25ruh1sfeui\|show annotation]]
->
->
->
->{ #25ruh1sfeui}
 
 
 
