@@ -6,6 +6,8 @@
 # CAMBIO DE IDENTIDAD
 
 ==El mejor modo de abarcar tus nuevos hábitos, según James Clear, es visualizar y planificar qué clase de persona quieres ser, y luego evaluar si se actúa en función de esa identidad o en contra.==
+{ #33f037}
+
 
 Debemos esclarecer un asunto, la identidad surge de lo que hacemos repetidamente:
 
