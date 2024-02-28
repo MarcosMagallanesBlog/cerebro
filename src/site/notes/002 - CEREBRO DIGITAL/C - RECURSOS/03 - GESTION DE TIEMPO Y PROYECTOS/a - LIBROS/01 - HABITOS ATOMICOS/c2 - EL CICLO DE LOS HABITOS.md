@@ -33,4 +33,4 @@ Estos son definidos en: [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIE
 
 >Antes de que podamos construir nuevos hábitos de manera efectiva, necesitamos tener nuestros hábitos actuales bajo control.
 
-Una de las técnicas fundamentales presentadas por el autor son [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/f- TECNICAS PARA CONTROLAR TUS HABITOS\|f- TECNICAS PARA CONTROLAR TUS HABITOS]].
+Una de las [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/f- TECNICAS PARA CONTROLAR TUS HABITOS\|f- TECNICAS PARA CONTROLAR TUS HABITOS]] fundamentales presentadas por el autor es [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/f1- REGISTRO DE HABITOS\|f1- REGISTRO DE HABITOS]].
