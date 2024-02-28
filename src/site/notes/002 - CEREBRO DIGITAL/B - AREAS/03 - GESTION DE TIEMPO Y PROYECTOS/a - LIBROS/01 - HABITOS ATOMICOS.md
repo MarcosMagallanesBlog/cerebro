@@ -76,53 +76,8 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*ino».9EL REGISTRO DE LOS HÁBITOS ==El  sistema  de  trenes  japonés  es  reconocido  como  uno  de  los  mejores  del  mundo.  Sialguna vez viajas en un tren en Tokio, te darás cuenta de que los conductores tienen unhábito peculiar.Durante el trayecto del tren, los conductores siguen un ritual que consiste en señalardiferentes objetos y decir en voz alta diversas instrucciones. Cuando el tren se acerca auna señal de tránsito, el operador la señala y dice: «la señal está verde». Conforme eltren entra y sale de las estaciones, el operador señala el velocímetro y dice en voz alta lavelocidad exacta que aparece en la pantalla. Cuando es hora de abandonar una estación,el operador señala el pizarrón con los horarios y dice en voz alta la hora. Fuera, en laplataforma, otros empleados realizan acciones similares. Antes de que cada tren salga dela  estación,  los  miembros  del  equipo  de  tierra  señalan  el  borde  de  la  plataforma  ydeclaran:  «¡Todo  despejado!».  Cada  detalle  del  viaje  es  identificado,  señalado  ynombrado en voz alta.*Este  proceso,  conocido  como  Pointing-and-Calling  [señalar  y  nombrar== ],10  es  un52sistema de segurid*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^zuw6oehxowi\|show annotation]]
->
->
->
->{ #zuw6oehxowi}
 
 
-
->
->*eñalar  y  nombrar],10  es  un52 ==sistema de seguridad diseñado para reducir errores. Puede parecer un poco tonto, perofunciona increíblemente bien. El sistema de señalar y nombrar reduce los errores en un85% y evita el 30% de los accidentes.== La Autoridad Metropolitana de T*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^kd74yy242bo\|show annotation]]
->
->
->
->{ #kd74yy242bo}
-
-
-
->
->*ma de transporte subterráneo.11 ==Aunque esta versión consiste únicamente enseñalar los problemas, dos años después de su implementación, los incidentes de trenesque atracaban incorrectamente disminuyeron en un 57 por ciento== .El  sistema  de  señalar  y  no*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^ybm2unmaa5m\|show annotation]]
->
->
->
->{ #ybm2unmaa5m}
-
-
-
->
->*isminuyeron en un 57 por ciento. ==El  sistema  de  señalar  y  nombrar  es  tan  efectivo  porque  convierte  un  hábitoinconsciente  en  consciente.  Debido  a  que  los  conductores  están  obligados  a  usar  susojos, sus manos, su boca y sus oídos, tienen más posibilidades de advertir los problemasantes de que algo salga mal== .Mi esposa hace algo similar. Si*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^uzgmn9xigwf\|show annotation]]
->
->
->
->{ #uzgmn9xigwf}
-
-
-
->
->*mis lentes. Tengo a mi esposo». ==Entre  más  automática  se  vuelve  una  conducta,  hay  menos  probabilidades  de  quepienses en ella de manera consciente== . Y cuando hemos hecho algo mile*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^nuo18nf4z7c\|show annotation]]
->
->
->
->{ #nuo18nf4z7c}
 
 
 
@@ -146,24 +101,6 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*estamos haciendoes lo correcto. ==Muchos de los fracasos de nuestro desempeño se pueden atribuir a la faltade autoconciencia.== Uno de nuestros grandes retos al*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^q0esfbn9j7b\|show annotation]]
->
->
->
->{ #q0esfbn9j7b}
-
-
-
->
->*uir a la faltade autoconciencia. ==Uno de nuestros grandes retos al cambiar nuestros hábitos es mantenernos conscientesde lo que estamos haciendo. Esto nos ayuda a explicar por qué las consecuencias de losmalos  hábitos  pueden  colarse  tan  fácilmente.  Necesitamos  aplicar  en  nuestra  vidacotidiana un sistema de señalar y nombrar. Ese es el origen del Registro de hábitos, elcual es un sencillo ejercicio que puedes usar para estar más consciente de tus conductashabituales. Para crear tu propio registro, haz una lista de tus hábitos diarios. Aquí hay unejemplo de cómo empezar tu lista.== • Despertar• Apagar la alarma• R*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^s4hmx3af3e\|show annotation]]
->
->
->
->{ #s4hmx3af3e}
-
 
 
 >
@@ -175,24 +112,6 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 >{ #wqsjzsewjrj}
 
 
-
->
->*e =• Prepararme una taza de té + ==La marca que le asignas a cada hábito en particular dependerá de tu situación y de tusmetas.== Para  alguien  que  está  trat*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^16h9q2xxm52j\|show annotation]]
->
->
->
->{ #16h9q2xxm52j}
-
-
-
->
->*conducta saludablea largo plazo. ==Si todavía tienes problemas para determinar cómo clasificar un hábito en particular,estas son las preguntas que debes hacerte: «¿Esta conducta me ayuda a convertirme en lapersona que quiero llegar a ser?== ¿Este hábito es un punto a favo*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^4gc9rv7kc43\|show annotation]]
->
->
->
->{ #4gc9rv7kc43}
 
 
 
@@ -206,43 +125,7 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*a de una manera que no te gusta. ==El  primer  paso  para  cambiar  los  malos  hábitos  es  mantenerse  atento  paraidentificarlos.== Si  crees  que  necesitas  ayu*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^vo6gyak07wh\|show annotation]]
->
->
->
->{ #vo6gyak07wh}
 
-
-
->
->*e  atento  paraidentificarlos. ==Si  crees  que  necesitas  ayuda  adicional,  usa  el  sistema  de  señalar  ynombrar en tu propia vida. Di en voz alta la acción que piensas realizar y cuál será elresultado.== Si quieres reducir la cantidad*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^3nqq3ed7txe\|show annotation]]
->
->
->
->{ #3nqq3ed7txe}
-
-
-
->
->*ar una galleta, di en voz alta: ==«Estoy a punto de comeresta galleta, pero no la necesito. Comérmela hará que suba de peso y dañe mi salud»== .Escuchar la descripción de tus*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^g1ztdmpyljs\|show annotation]]
->
->
->
->{ #g1ztdmpyljs}
-
-
-
->
->*e suba de peso y dañe mi salud». ==Escuchar la descripción de tus malos hábitos en voz alta hace que sus consecuenciasparezcan más reales== . Le otorga un peso específico a*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^7v32o2qgn5g\|show annotation]]
->
->
->
->{ #7v32o2qgn5g}
 
 
 
