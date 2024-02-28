@@ -115,15 +115,6 @@ https://www.planetadelibros.com/libro-habitos-atomicos/310441
 
 
 
->
->*seada, por lo regular, sonmalos. ==Conforme completas tu Registro de hábitos, no es necesario que hagas ningún cambio.== La  meta  por  lo  pronto  es  d*
->[[002 - CEREBRO DIGITAL/B - AREAS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS#^eesff29ygpu\|show annotation]]
->
->
->
->{ #eesff29ygpu}
-
-
 
 
 
