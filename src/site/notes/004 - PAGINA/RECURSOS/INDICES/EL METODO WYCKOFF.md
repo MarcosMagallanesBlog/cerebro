@@ -10,9 +10,11 @@
 [[002 - CEREBRO DIGITAL/B - AREAS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF\|02 - EL METODO WYCKOFF]]
 
 # APUNTES
-| ARCHIVO                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/a - JERARQUIA ANALITICA\|a - JERARQUIA ANALITICA]] |
+| ARCHIVO                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/a - JERARQUIA ANALITICA\|a - JERARQUIA ANALITICA]]                           |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/b - LAS TRES LEYES DE WYCKOFF\|b - LAS TRES LEYES DE WYCKOFF]]               |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/c - POOL DE MANIPULACION PROFESIONAL\|c - POOL DE MANIPULACION PROFESIONAL]] |
 
 { .block-language-dataview}
 
