@@ -3,6 +3,7 @@
 ---
 
 ---
+# LAS CUATRO FASES MERCADO SEGUN R WYCKOFF
 Originalmente DOW propuso tres fases de mercado: acumulación, participación y distribución. ==Wyckoff describió cuatro fases:==
 
 1) ==ACUMULACIÓN==
