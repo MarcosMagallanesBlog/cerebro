@@ -5,8 +5,7 @@
 # POOL DE MANIPULACION PROFESIONAL
 
 ## CONCEPTO
->¿Cómo podríamos definir el concepto de pool? Dow (Nelson, 1902) dijo que ==un pool es, básicamente, un profesional o grupo de profesionales que, tras valorar que una acción está demasiado barata (en principio, sus métodos de valoración no son relevantes para nosotros), deciden, de forma más o menos coordinada, empezar a comprar acciones de dicha compañía==. Al mismo tiempo merodean otros profesionales, que al conocer sus técnicas de actuación se unen a ese interés comprador, intensificando así el grado de manipulación sobre el precio del activo.
-{ #42d026}
+>¿Cómo podríamos definir el concepto de pool? Dow (Nelson, 1902) dijo que ==un pool es, básicamente, un profesional o grupo de profesionales que, tras valorar que una acción está demasiado barata (en principio, sus métodos de valoración no son relevantes para nosotros), deciden, de forma más o menos coordinada, empezar a comprar acciones de dicha compañía==. Al mismo tiempo merodean otros profesionales, que al conocer sus técnicas de actuación se unen a ese interés comprador, intensificando así el grado de manipulación sobre el precio del activo.{ #42d026}
 
 
 >El inversor amateur, víctima del pánico que acompaña a los mercados bajistas, y ==alentado por las malas noticias de los medios de comunicación==, se ve impulsado a vender sus activos, con lo que se convierte, sin ser consciente de ello, en la contrapartida del pool profesional, que es quien adquiere poco a poco todos los activos, en una fase que denominada “de acumulación”
