@@ -17,11 +17,12 @@ No podría definir la naturaleza de este fenómeno, pero similar a como los pece
 
 >¿Cómo podríamos definir el concepto de pool? Dow (Nelson, 1902) dijo que ==un pool es, básicamente, un profesional o grupo de profesionales que, tras valorar que una acción está demasiado barata (en principio, sus métodos de valoración no son relevantes para nosotros), deciden, de forma más o menos coordinada, empezar a comprar acciones de dicha compañía==. Al mismo tiempo merodean otros profesionales, que al conocer sus técnicas de actuación se unen a ese interés comprador, intensificando así el grado de manipulación sobre el precio del activo.
 
+
 </div></div>
 
 
 ![Pasted image 20240327192721.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240327192721.png)
 
->Wyckoff decía que el composite man permanece detrás de los escenarios,  manipulando la acción. Si no eres capaz de entender su juego perderás, pero si lo  entiendes podrás ganar mucho dinero.
+>Wyckoff decía que el composite-man permanece detrás de los escenarios, manipulando la acción. Si no eres capaz de entender su juego perderás, pero si lo entiendes podrás ganar mucho dinero.
 
-Esto lo entiendo y aplico como el "análisis de liquidez y contexto".
+Esto lo entiendo y aplico como "análisis de liquidez y contexto". Es un tipo de análisis mayoritariamente subjetivo que está respaldado por la experiencia del operador y su conocimiento del "terreno", es decir, el instrumento financiero operado; los pips que mueve en promedio, el tamaño de las sacadas de liquidez, la distribución normal antes de un retroceso, la profundidad de los mismos, etcétera.
