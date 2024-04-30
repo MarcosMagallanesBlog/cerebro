@@ -11,3 +11,5 @@ Originalmente DOW propuso tres fases de mercado: acumulación, participación y 
 3) ==DISTRIBUCIÓN==
 4) ==MARKING DOWN (Tendencia bajista)==
 ![Pasted image 20240307205129.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240307205129.png)
+
+Estas faces oscilan internamente entre procesos conocidos como [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/d1 - ACUMULACION Y MANIPULACION\|d1 - ACUMULACION Y MANIPULACION]]
