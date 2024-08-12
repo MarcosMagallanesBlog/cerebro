@@ -22,6 +22,10 @@
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/d1 - ACUMULACION Y DISTRIBUCIÓN\|d1 - ACUMULACION Y DISTRIBUCIÓN]]                           |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/d1a - LIVERMORE Y EL ALGODON\|d1a - LIVERMORE Y EL ALGODON]]                                 |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/e - COMPOSITE OPERATOR\|e - COMPOSITE OPERATOR]]                                             |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f - CINCO FASES DE MERCADO DE HANK PRUDEN\|f - CINCO FASES DE MERCADO DE HANK PRUDEN]]       |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f1 - FASE A\|f1 - FASE A]]                                                                   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f1a - VOLUMEN DE PARADA\|f1a - VOLUMEN DE PARADA]]                                           |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f2 - FASE B\|f2 - FASE B]]                                                                   |
 
 { .block-language-dataview}
 
