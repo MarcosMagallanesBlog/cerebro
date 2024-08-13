@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/f4-fase-d/"}
+---
+
+---
+# FASE D
+![Pasted image 20240810165955.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240810165955.png)
+
+>==Sin oferta en el contexto, la demanda sabrá que ya tiene el control de la situación y los precios ahora ya no pueden hacer otra cosa que subir. Simple ley de oferta y demanda==. Sin embargo, ==aún existe un último escollo para el incipiente rally alcista: la resistencia que forma la parte superior del rango lateral. Esa zona es la última esperanza de la oferta, la última barrera que hay que superar para llegar a la conclusión de que la demanda ha ganado la partida de manera definitiva==. ==Si el precio llega a esta zona y se encuentra una oposición demasiado elevada, la demanda tendría que retirarse so pena de poner en peligro su inversión. Pero si detecta que esa oferta apenas tiene entidad (al igual que sucedía en la fase anterior), sabrá que todo su esfuerzo comprador ha tenido su recompensa lo que provocará que el precio rompa “a largo”, saltando con decisión el rango lateral, absorbiendo la poca oferta flotante que quede en el contexto y entrando en una nueva zona de cotización camino de su objetivo.==  
+   ==**Lo ideal es que el salto se produzca con una secuencia de barras alcistas de rango amplio, y cierre en máximos y volumen alto, a medida que penetra el área de resistencia**==. Esa será, sin duda, la mejor de las señales para estar seguros de que la tendencia alcista está en marcha y no tiene vuelta atrás.
+   ==Es habitual que, después del salto, el precio realice un retroceso temporal para apoyarse en la resistencia superada==. De este modo se traza una de las figuras chartistas más conocidas por todos los operadores: el pull-back. Este instante es también decisivo, ya que ==si el precio es incapaz de reentrar en el rango lateral recién superado, eso nos demostrará que la oferta está fuera de juego de manera definitiva, y que el rally alcista tiene todas las papeletas para continuar en desarrollo. Sin embargo, si el precio cae y entra de nuevo al interior del lateral, eso podría ser signo de que la oferta apareció de forma inesperada. ==Esto podría provocar una retirada de la demanda y una nueva excusa a los que se retiraron de la batalla pero apuestan por las caídas
