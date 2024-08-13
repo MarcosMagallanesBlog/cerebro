@@ -26,6 +26,9 @@
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f1 - FASE A\|f1 - FASE A]]                                                                   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f1a - VOLUMEN DE PARADA\|f1a - VOLUMEN DE PARADA]]                                           |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f2 - FASE B\|f2 - FASE B]]                                                                   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f3 - FASE C\|f3 - FASE C]]                                                                   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f4 - FASE D\|f4 - FASE D]]                                                                   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f5 - FASE E\|f5 - FASE E]]                                                                   |
 
 { .block-language-dataview}
 
