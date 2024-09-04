@@ -29,6 +29,12 @@
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f3 - FASE C\|f3 - FASE C]]                                                                   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f4 - FASE D\|f4 - FASE D]]                                                                   |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f5 - FASE E\|f5 - FASE E]]                                                                   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g - POSICIONES PRIMARIAS\|g - POSICIONES PRIMARIAS]]                                         |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g1 - SPRING\|g1 - SPRING]]                                                                   |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g2 - TEST DEL SPRING\|g2 - TEST DEL SPRING]]                                                 |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g3 - SALTO DEL ARROLLO\|g3 - SALTO DEL ARROLLO]]                                             |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g4 - BACK A LA ZONA DEL ARROLLO\|g4 - BACK A LA ZONA DEL ARROLLO]]                           |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g5 - CORRECCION NORMAL EN TENDENCIA ALCISTA\|g5 - CORRECCION NORMAL EN TENDENCIA ALCISTA]]   |
 
 { .block-language-dataview}
 
