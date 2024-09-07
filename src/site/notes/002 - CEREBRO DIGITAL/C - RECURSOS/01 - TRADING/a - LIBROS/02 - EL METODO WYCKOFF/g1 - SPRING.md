@@ -12,7 +12,7 @@ Originalmente se llamaba "Springboard" pero con el tiempo se ha rebautizado como
 
 ![Pasted image 20240827143628.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240827143628.png)
 
-Este hecho sirve para varias cosas:
+## PROPOSITO
 Aparenta qué:
 ==La tendencia bajista continuará. Que el desarrollo alcista está "lejos".==
 
@@ -23,8 +23,8 @@ Realmente:
 
 >Siempre es más deseable que el precio haya realizado un movimiento amplio, con diversos movimientos impulsivos bajistas y sus fases laterales de corrección correspondientes, y con el precio acariciando el objetivo teórico de la fase de distribución llevada a cabo en máximos de mercado. Por esto, y por otras razones que veremos a continuación, hablaremos de diferentes tipos de spring, en función de su potencial alcista.
 
-La calidad del spring está determinada por:
 
+## EL IDEAL
 1. ==La importancia del soporte que esté penetrando==
 > Con respecto a la importancia del soporte, ==aquellas zonas que con anterioridad hayan funcionado como soporte, tendrán a priori mayor relevancia que aquellas zonas que sólo hayan funcionado como resistencia. También serán más relevantes las zonas de soporte que provengan de giros de mercado en dimensiones amplias.== Por ejemplo, un giro de mercado producido en una dimensión diaria será más importante que uno que se produzca en uno de cinco minutos.
 
