@@ -4,7 +4,7 @@
 
 ---
 # POSICIONES PRIMARIAS
-El esquema de Prunden sobre [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f - CINCO FASES DE MERCADO DE HANK PRUDEN\|las cinco frases de mercado]] puede ser muy intuitivo, pero a nivel operativo el libro abarca el enfoque de Graing Schroeder en su sección "el rincón de Greg" del Wyckoff Market Institute.
+==El esquema de Prunden== sobre [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f - CINCO FASES DE MERCADO DE HANK PRUDEN\|las cinco frases de mercado]] puede ser muy intuitivo, pero a nivel operativo el libro abarca el enfoque de Graing Schroeder en su sección "el rincón de Greg" del Wyckoff Market Institute.
 
 Las posiciones primarias son:
 ![Pasted image 20240813083755.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240813083755.png)
@@ -20,5 +20,5 @@ PARA PROYECCIONES BAJISTAS
 [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g7 - UPTRHUST\|g7 - UPTRHUST]]
 [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g8 - TEST DEL UPTHRUST\|g8 - TEST DEL UPTHRUST]]
 [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g9 - DESLIZAMIENTO DEL HIELO\|g9 - DESLIZAMIENTO DEL HIELO]]
-[[g10 - BACK A LA ZONA DEL HIELO\|g10 - BACK A LA ZONA DEL HIELO]]
-[[g10 - CORRECCIÓN NORMAL EN TENDENCIA BAJISTA\|g10 - CORRECCIÓN NORMAL EN TENDENCIA BAJISTA]]
+[[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g10 - BACK A LA ZONA DEL HIELO\|g10 - BACK A LA ZONA DEL HIELO]]
+[[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g10 - CORRECCIÓN NORMAL EN TENDENCIA BAJISTA\|g10 - CORRECCIÓN NORMAL EN TENDENCIA BAJISTA]]
