@@ -40,6 +40,8 @@
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g7 - UPTRHUST\|g7 - UPTRHUST]]                                                               |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g8 - TEST DEL UPTHRUST\|g8 - TEST DEL UPTHRUST]]                                             |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g9 - DESLIZAMIENTO DEL HIELO\|g9 - DESLIZAMIENTO DEL HIELO]]                                 |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/h - SHAKE OUTS\|h - SHAKE OUTS]]                                                             |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/i - LINEA DE MENOR RESISTENCIA\|i - LINEA DE MENOR RESISTENCIA]]                             |
 
 { .block-language-dataview}
 
