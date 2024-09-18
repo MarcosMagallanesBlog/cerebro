@@ -8,9 +8,9 @@
 ==Importante determinar la tendencia y fase de mercado.==
 La línea de menor resistencia es hacia donde se dirige el precio. El precio siempre se moverá hacia donde hay menos presión/resistencia vendedora o compradora.
 
-Operar a favor de esta premisa nos garantiza obtener los mejores movimientos de mercado. Incluso, poder dejar desarrollar una operativa que no estuvo pensada para "correr tanto".
+==Operar a favor de esta premisa nos garantiza obtener los mejores movimientos de mercado==. Incluso, poder dejar desarrollar una operativa que no estuvo pensada para "correr tanto".
 
-Hay que entender que estas tendencias son, en pocas palabras, una idea subjetiva que nos hacemos sobre la predisposición del mercado en un momento dado. El criterio que usaremos para determinarla será totalmente sesgado, por lo que debemos minimizar el error fijando una serie de parámetros lo más objetivamente posible y, necesariamente, testeados.
+Hay que entender que estas tendencias son, en pocas palabras, una idea subjetiva que nos hacemos sobre la predisposición del mercado en un momento dado. ==El criterio que usaremos para determinarla será totalmente sesgado, por lo que debemos minimizar el error fijando una serie de parámetros lo más objetivamente posible y, necesariamente, testeados==.
 
 Las mejores zonas para operar una tendencia serán la línea de demanda, para una tendencia alcista, y, la línea de oferta sobre una tendencia bajista.
 
