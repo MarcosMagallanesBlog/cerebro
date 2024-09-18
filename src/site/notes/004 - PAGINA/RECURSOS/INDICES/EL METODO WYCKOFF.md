@@ -42,6 +42,8 @@
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g9 - DESLIZAMIENTO DEL HIELO\|g9 - DESLIZAMIENTO DEL HIELO]]                                 |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/h - SHAKE OUTS\|h - SHAKE OUTS]]                                                             |
 | [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/i - LINEA DE MENOR RESISTENCIA\|i - LINEA DE MENOR RESISTENCIA]]                             |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/j - FINAL DE LA TENDENCIA\|j - FINAL DE LA TENDENCIA]]                                       |
+| [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/k- FUERZA RELATIVA\|k- FUERZA RELATIVA]]                                                     |
 
 { .block-language-dataview}
 
