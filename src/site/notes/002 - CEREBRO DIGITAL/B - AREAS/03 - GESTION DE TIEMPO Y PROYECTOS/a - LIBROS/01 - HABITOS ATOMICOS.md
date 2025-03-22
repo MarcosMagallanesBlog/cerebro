@@ -9,7 +9,7 @@ tags: #psicologia #productividad #raiz
 # 01 - HABITOS ATOMICOS
 [[002 - CEREBRO DIGITAL/D - BIOGRAFIAS/JAMES CLEAR\|JAMES CLEAR]]
 
-![Pasted image 20240122170708.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240122170708.png)
+![Pasted image 20240122170708.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240122170708.png)
 ## Sinopsis
 A menudo pensamos que para cambiar de vida tenemos que pensar en hacer cambios grandes. Nada más lejos de la realidad. Según el reconocido experto en hábitos James Clear, el cambio real proviene del resultado de cientos de pequeñas decisiones: hacer dos flexiones al día, levantarse cinco minutos antes o hacer una corta llamada telefónica.
 
