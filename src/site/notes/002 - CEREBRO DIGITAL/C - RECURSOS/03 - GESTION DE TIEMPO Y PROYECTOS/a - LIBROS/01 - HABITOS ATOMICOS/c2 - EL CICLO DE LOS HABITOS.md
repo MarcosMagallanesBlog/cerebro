@@ -4,7 +4,7 @@
 
 ---
 # EL CICLO DE LOS HABITOS
-![Pasted image 20240218161512.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240218161512.png)
+![Pasted image 20240218161512.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240218161512.png)
 ==La señal desencadena un anhelo, el anhelo motiva a una respuesta y la respuesta una recompensa==.
 
 La recompensa satisface el anhelo y queda asociada (interiorizada) la señal que desencadena el ciclo.
@@ -22,7 +22,7 @@ Problema: señal, anhelo.
 Solución: respuesta. recompensa.
 Estos son definidos en: [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS\|c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS]]
 
-![Pasted image 20240218162136.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240218162136.png)
+![Pasted image 20240218162136.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240218162136.png)
 
 >==Has realizado esa acción tantas veces que ocurre automáticamente sin que tengas que pensar en ello.==
 { #b70cb3}
