@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/g1-spring/"}
 ---
 
+
 ---
 # SPRING
 Originalmente se llamaba "Springboard" pero con el tiempo se ha rebautizado como "Spring". 
@@ -10,7 +11,7 @@ Originalmente se llamaba "Springboard" pero con el tiempo se ha rebautizado como
  
 ==El spring aparece luego de un fuerte volumen de parada, y penetra el nivel de soporte del volumen previo.==
 
-![Pasted image 20240827143628.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240827143628.png)
+![Pasted image 20240827143628.png](/img/user/img/user/900 - ANEXO/Pasted image 20240827143628.png)
 
 ## PROPOSITO
 Aparenta qué:
