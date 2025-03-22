@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/b1-ley-de-oferta-y-demanda/"}
 ---
 
+
 ---
 # LEY DE OFERTA Y DEMANDA
 ==El precio es el resultado entre demandantes (compradores) y oferentes (vendedores).==
@@ -20,5 +21,5 @@ Esto es un error.
 
 Es decir, el precio subirá si aumenta la demanda por encima de la oferta o porque la oferta se retira, y, el precio caerá si aumenta la oferta por encima de la demanda o porque la demanda se retira.
 
-![Pasted image 20240801233037.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240801233037.png)
+![Pasted image 20240801233037.png](/img/user/img/user/900 - ANEXO/Pasted image 20240801233037.png)
 
