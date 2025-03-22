@@ -21,7 +21,7 @@ No podría definir la naturaleza de este fenómeno, pero similar a como los pece
 </div></div>
 
 
-![Pasted image 20240327192721.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240327192721.png)
+![Pasted image 20240327192721.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240327192721.png)
 
 >Wyckoff decía que el composite-man permanece detrás de los escenarios, manipulando la acción. Si no eres capaz de entender su juego perderás, pero si lo entiendes podrás ganar mucho dinero.
 
