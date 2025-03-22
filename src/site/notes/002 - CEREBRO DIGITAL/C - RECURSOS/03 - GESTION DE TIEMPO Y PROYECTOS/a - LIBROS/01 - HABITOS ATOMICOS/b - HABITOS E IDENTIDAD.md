@@ -14,7 +14,7 @@ tipo: [[002 - CEREBRO DIGITAL/NOTA PERMANENTE\|NOTA PERMANENTE]]
 Los buenos hábitos generalmente (cocinar sano, levantarse temprano, entrenar, estudiar, leer) están bien un par de días, pero se convierten en una molestia a largo plazo.
 
 ## Las tres capas del cambio de conducta
-![Pasted image 20240203201754.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240203201754.png)
+![Pasted image 20240203201754.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240203201754.png)
 Nuestro primer error suele ser intentar cambiar lo que no debemos cambiar. Hay varios niveles donde el cambio de hábitos se ejecuta, como se detalla anteriormente.
 
 >==La primera capa incluye cambiar tus resultados==. Este nivel se relaciona con el cambio de los resultados: perder peso, publicar un libro, ganar un campeonato. La mayoría de las metas que te propones lograr están asociadas con este nivel de cambio.
@@ -28,9 +28,9 @@ Nuestro primer error suele ser intentar cambiar lo que no debemos cambiar. Hay v
 En este sentido los hábitos se pueden intentar abordar de dos formas (la más efectiva suele ser [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]])
 
 ### HABITOS BASADOS EN RESULTADOS
-![Pasted image 20240203202214.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240203202214.png)
+![Pasted image 20240203202214.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240203202214.png)
 ### ==HÁBITOS BASADOS EN IDENTIDAD==
-![Pasted image 20240203202236.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240203202236.png)
+![Pasted image 20240203202236.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240203202236.png)
 
 La mayoría de personas comienza hábitos basándose en qué quiere alcanzar. ==La alternativa apropiada es plantear hábitos basándonos en quién queremos ser. Buscando acentuar el [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/b1 - CAMBIO DE IDENTIDAD\|b1 - CAMBIO DE IDENTIDAD]] correcto que impulse nuestros comportamientos deseados y repela los indeseados.==
 
