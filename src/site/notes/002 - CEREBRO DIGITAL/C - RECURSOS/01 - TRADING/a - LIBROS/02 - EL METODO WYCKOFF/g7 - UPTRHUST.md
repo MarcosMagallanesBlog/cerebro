@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/g7-uptrhust/"}
 ---
 
+
 ---
 # UPTRHUST
 
 >La primera oportunidad bajista la llamamos upthrust y es la homóloga del  pero en techos de mercado...
 
-![Pasted image 20240905152047.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240905152047.png)
+![Pasted image 20240905152047.png](/img/user/img/user/900 - ANEXO/Pasted image 20240905152047.png)
 
 ## PROPÓSITO
 1. Servir de anzuelo para aquella demanda flotante que aún confía en el potencial alcista del mercado, sin ser consciente de la que le espera.  
