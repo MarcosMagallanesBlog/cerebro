@@ -22,7 +22,7 @@ El indicador tiene dos extremos.
 >==La facilidad es un signo de que las cosas van bien; no hay riesgos, no hay novedades== importantes, no hace falta reconducir la atención o emplear esfuerzo. La tensión indica que existe un problema que requerirá mayor movilización del Sistema 2.
 
 ## CAUSAS DE LA FACILIDAD COGNITIVA
-![Pasted image 20240116195903.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240116195903.png)
+![Pasted image 20240116195903.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240116195903.png)
 
 >==En un estado de facilidad cognitiva es probable que nos encontremos de buen humor, nos guste lo que vemos, creamos lo que oímos, confiemos en nuestras intuiciones==<sup>1</sup> y sintamos que la situación actual es cómoda y familiar. También es probable que nuestros pensamientos sean relativamente informales y superficiales. ==Pero cuando nuestro estado es de tensión, es más probable que estemos alerta==<sup>2</sup> y seamos suspicaces, que ==dediquemos más esfuerzos a lo que estamos haciendo==, nos sintamos menos cómodos y cometamos menos errores, pero ==también que seamos menos intuitivos y menos creativos de lo normal==<sup>3</sup>.
 
