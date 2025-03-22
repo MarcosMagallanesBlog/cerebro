@@ -5,7 +5,7 @@
 ---
 # MESETA DE POTENCIAL LATENTE
 
-![Pasted image 20240125163852.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240125163852.png)
+![Pasted image 20240125163852.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240125163852.png)
 
 >==Cuando al fin logras ir más allá de la meseta del potencial latente, la gente considera que el hecho es un éxito conseguido de la noche a la mañana==. El común de ==la gente solo percibe los eventos más llamativos y no se detiene a ver todo el trabajo y el esfuerzo que tienen detrás==. Pero tú sabes que todo ==el trabajo que has invertido durante mucho tiempo, cuando parecía que no estabas haciendo ningún progreso, es lo que realmente hizo posible el cambio==.
 
