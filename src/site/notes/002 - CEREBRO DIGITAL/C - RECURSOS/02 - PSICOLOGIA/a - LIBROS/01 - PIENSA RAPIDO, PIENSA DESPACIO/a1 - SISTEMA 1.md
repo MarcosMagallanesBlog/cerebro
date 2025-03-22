@@ -46,7 +46,7 @@ La limitación más grande del S1 es su automaticidad y actividad constante, per
 
 Esto nos vuelve susceptibles de cometer grandes errores de juicio, tales como [[002 - CEREBRO DIGITAL/C - RECURSOS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO/a1a - ILUSION DE MULLER LYER\|la famosa ilusión de Müller-Lyer]]
 ## EJEMPLO DE OPERACIÓN DEL SISTMA 1
-![Pasted image 20231213162250.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020231213162250.png)
+![Pasted image 20231213162250.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020231213162250.png)
 
 Esto es un ejemplo de lo que se conoce como pensamiento intuitivo, tan pronto como notamos que el pelo de ella es negro, ==inmediatamente== tenemos la ==intuición== de que ella está enojada. De forma automática, sin esfuerzo alguno, habrá tenido una premonición de lo que ella hará.
 
