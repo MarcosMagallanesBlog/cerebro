@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/j-final-de-la-tendencia/"}
 ---
 
+
 ---
 # FINAL DE LA TENDENCIA
 Generalmente podemos saber que se ha roto la tendencia cuando se vulnera la estructura de la tendencia, rompiéndose.
 También, puede ser un buen indicio el rompimiento de la directriz de la tendencia. Ya sea la línea de demanda, para alcistas, o de oferta, para bajistas.
 
-![Pasted image 20240911130242.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240911130242.png)
+![Pasted image 20240911130242.png](/img/user/img/user/900 - ANEXO/Pasted image 20240911130242.png)
 
 Lo ideal son roturas con decisión. Volumen creciente y barras de cuerpo ancho, cerrando en mínimos.
 
