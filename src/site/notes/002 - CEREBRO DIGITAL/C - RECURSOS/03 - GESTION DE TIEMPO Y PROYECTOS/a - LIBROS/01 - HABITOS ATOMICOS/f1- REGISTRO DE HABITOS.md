@@ -26,7 +26,7 @@ Muchas de nuestras conductas (sobre todo las indeseadas) están firmemente arrai
 
 > Uno de nuestros grandes retos al cambiar nuestros hábitos es mantenernos conscientes de lo que estamos haciendo. Esto nos ayuda a explicar por qué las consecuencias de los malos hábitos pueden colarse tan fácilmente. Necesitamos aplicar en nuestra vida cotidiana un sistema de señalar y nombrar. Ese es el origen del Registro de hábitos, el cual es un sencillo ejercicio que puedes usar para estar más consciente de tus conductas habituales. Para crear tu propio registro, haz una lista de tus hábitos diarios. Aquí hay un ejemplo de cómo empezar tu lista.
 
-![Pasted image 20240228174459.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240228174459.png)
+![Pasted image 20240228174459.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240228174459.png)
 
 Una vez registrado todo, de forma objetiva, es decir, hazlo como si fueras un mero observador de tu vida, sin sentir vergüenza por aquellos hábitos que no deseas. El primer paso es aceptarlo, procede a calificarlos de la siguiente forma:
 
@@ -34,7 +34,7 @@ Una vez registrado todo, de forma objetiva, es decir, hazlo como si fueras un me
 -. Aquellos hábitos que restan para convertirte en lo que deseas.
 =. Aquellos hábitos sin impacto o indiferentes en el resultado.
 
-![Pasted image 20240228174737.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240228174737.png)
+![Pasted image 20240228174737.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240228174737.png)
 
 Claramente esta ponderación es netamente subjetiva, puesto que cada cual evaluará según sus objetivos a los mismos.
 
