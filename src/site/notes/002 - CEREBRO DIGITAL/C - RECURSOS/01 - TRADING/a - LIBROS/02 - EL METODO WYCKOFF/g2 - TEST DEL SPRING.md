@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/g2-test-del-spring/"}
 ---
 
+
 ---
 # TEST DEL SPRING
 Representa la mejor de las posiciones primarias de compra. La razón: ahora tenemos [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f1a - VOLUMEN DE PARADA\|f1a - VOLUMEN DE PARADA]] y el [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g1 - SPRING\|g1 - SPRING]]. Grandes indicios de acumulación.
@@ -16,7 +17,7 @@ Representa la mejor de las posiciones primarias de compra. La razón: ahora tene
 
 También sería ideal que este "Test" no se lleve el mínimo del Spring.
 
-![Pasted image 20240828120118.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240828120118.png)
+![Pasted image 20240828120118.png](/img/user/img/user/900 - ANEXO/Pasted image 20240828120118.png)
 
 
 > Hay tres elementos que nos darán una pista para poder determinar si el test  
@@ -27,4 +28,4 @@ puede estar fallando o no:
 
 >(... ) ==Lo primero será prestar atención a la zona del 50% del impulso previo==; lo ==segundo, al nivel de soporte que produjo el spring==; y lo ==tercero, al nivel de soporte que define el volumen de parada previo==. Hay también un cuarto elemento importante: ==tener controladas las áreas de precio donde se han producido incrementos del volumen==. Hablamos sobre todo de gestos de volumen significativo que se pueden producir en el mismo spring y que denotan el interés de la demanda por seguir acumulando posiciones.
 
-![Pasted image 20240828122057.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240828122057.png)
+![Pasted image 20240828122057.png](/img/user/img/user/900 - ANEXO/Pasted image 20240828122057.png)
