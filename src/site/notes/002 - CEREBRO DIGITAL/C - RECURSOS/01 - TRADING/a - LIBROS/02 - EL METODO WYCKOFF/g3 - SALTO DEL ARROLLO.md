@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/g3-salto-del-arrollo/"}
 ---
 
+
 ---
 # SALTO DEL ARROLLO
 > El término “salto del arroyo” (Jump across the creek) fue invención de Robert Evans.
@@ -17,7 +18,7 @@ Se utiliza la metáfora de Boy-Scout que debe cruzar un arroyo. Para esto "toma 
 
 Todas las rupturas de soportes y resistencias deben ser con "decisión". 
 
-![Pasted image 20240902182129.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240902182129.png)
+![Pasted image 20240902182129.png](/img/user/img/user/900 - ANEXO/Pasted image 20240902182129.png)
 
 El salto no suele tomarse como un tipo de entrada por dos cosas.
 Es fácil entrar de manera precipitada, por miedo a perderse el movimiento; o entrar demasiado tarde, por lentos y miedosos a ser expulsados antes de tiempo.
