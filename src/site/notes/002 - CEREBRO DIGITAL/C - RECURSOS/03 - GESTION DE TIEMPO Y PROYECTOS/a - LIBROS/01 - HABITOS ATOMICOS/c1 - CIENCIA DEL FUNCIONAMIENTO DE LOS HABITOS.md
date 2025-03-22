@@ -12,7 +12,7 @@ Las partes fundamentales de un hábito son:
 3) Respuesta
 4) Recompensa
 
-![Pasted image 20240210173319.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240210173319.png)
+![Pasted image 20240210173319.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240210173319.png)
 
 >Este patrón de cuatro pasos es la columna vertebral de cada hábito.
 
@@ -54,7 +54,7 @@ Nuestros ancestros, cada vez que encontraban una señal que efectivamente les ll
 
 Nuestros hábitos están programados para alcanzar una recompensa.
 
-![Pasted image 20240211191414.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240211191414.png)
+![Pasted image 20240211191414.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240211191414.png)
 
 >El anhelo consiste en desear obtener la recompensa. La respuesta consiste en obtener la  recompensa. Perseguimos las recompensas porque nos sirven para dos propósitos: 1) nos satisfacen y 2) nos enseñan.
 
