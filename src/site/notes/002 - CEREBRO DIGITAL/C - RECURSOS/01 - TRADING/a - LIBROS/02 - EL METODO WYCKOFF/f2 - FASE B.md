@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/f2-fase-b/"}
 ---
 
+
 ---
 # FASE B
 
@@ -10,7 +11,7 @@
 >Esa penetración sutil del nivel de soporte tiene además una triple función:
 
 
-![Pasted image 20240810165955.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240810165955.png)
+![Pasted image 20240810165955.png](/img/user/img/user/900 - ANEXO/Pasted image 20240810165955.png)
 
 1. ==Expulsar del mercado a la poca oferta que aún pueda estar interesada en el lado corto==, ya que, al ver la ruptura de la zona de soporte, precipitarán sus entradas inconscientes de que ya es la demanda la que tiene el control del mercado.  
 2. ==Expulsar del mercado haciendo saltar los stops de aquellos operadores que supieron anticipar los primeros síntomas de acumulación pero que precipitaron su entrada.  ==
