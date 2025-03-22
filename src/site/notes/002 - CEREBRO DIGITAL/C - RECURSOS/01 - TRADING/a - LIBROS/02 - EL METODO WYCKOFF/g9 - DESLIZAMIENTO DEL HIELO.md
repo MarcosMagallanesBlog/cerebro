@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/g9-deslizamiento-del-hielo/"}
 ---
 
+
 ---
 # DESLIZAMIENTO DEL HIELO
 
@@ -11,6 +12,6 @@
 No se suele utilizar como zona de entrada porque generalmente se entra tarde o pronto.
 Por ser conservadores o miedosos, es una zona difícil de aprovechar.
 
-![Pasted image 20240906212537.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240906212537.png)
+![Pasted image 20240906212537.png](/img/user/img/user/900 - ANEXO/Pasted image 20240906212537.png)
  
  > Para que sean saludables e intencionadas, ==deberían producirse con barras de rango amplio, cierre en mínimos y volumen creciente==. En la medida en que no veamos este patrón a medida que el precio penetra el soporte, deberemos sospechar de la verdadera intención de la oferta por absorber a la demanda flotante para forzar precios más bajos, aunque bien es cierto que en ocasiones podríamos ver rupturas sin mucho volumen, lo que no tiene por qué implicar falta de intención por parte de la oferta, sino que la demanda es extraordinariamente baja, y la caída, inevitable.
