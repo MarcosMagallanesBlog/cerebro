@@ -6,7 +6,7 @@
 
 ---
 ## JAMES CLEAR
-![Pasted image 20240122171320.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240122171320.png)
+![Pasted image 20240122171320.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240122171320.png)
 #### (1986/1/22 - Unknown)
 
 El autor James Clear, nacido y criado en Hamilton, Ohio, es un empresario cuyo trabajo se centra en formar a la gente para que adquiera hábitos de larga duración, conocimiento que queda reflejado en su libro de autoayuda Hábitos atómicos.  
