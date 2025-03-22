@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/g-posiciones-primarias/"}
 ---
 
+
 ---
 # POSICIONES PRIMARIAS
 ==El esquema de Prunden== sobre [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/f - CINCO FASES DE MERCADO DE HANK PRUDEN\|las cinco frases de mercado]] puede ser muy intuitivo, pero a nivel operativo el libro abarca el enfoque de Graing Schroeder en su sección "el rincón de Greg" del Wyckoff Market Institute.
 
 Las posiciones primarias son:
-![Pasted image 20240813083755.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240813083755.png)
+![Pasted image 20240813083755.png](/img/user/img/user/900 - ANEXO/Pasted image 20240813083755.png)
 
 PARA PORYECCIONES ALCISTAS
 [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/g1 - SPRING\|g1 - SPRING]]
