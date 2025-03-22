@@ -6,7 +6,7 @@
 
 ---
 ## Daniel Kahneman
-![Daniel-Kahneman.jpg](/img/user/900%20-%20ANEXO/Daniel-Kahneman.jpg)
+![Daniel-Kahneman.jpg](/img/user/img/user/900%20-%20ANEXO/Daniel-Kahneman.jpg)
 #### (1934/03/05 - Unknown)
 
 ## Psicólogo estadounidense-israelí
