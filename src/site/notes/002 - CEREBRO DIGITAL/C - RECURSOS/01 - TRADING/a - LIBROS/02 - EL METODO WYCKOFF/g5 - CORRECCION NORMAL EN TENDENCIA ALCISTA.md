@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/g5-correccion-normal-en-tendencia-alcista/"}
 ---
 
+
 ---
 # CORRECCION NORMAL EN TENDENCIA ALCISTA
 
@@ -16,5 +17,5 @@ Hay una serie de cuestiones a destacar para determinar la calidad del desarrollo
 
 ==Si los nuevos impulsos no consiguen hacer nuevos máximos es probable de que sea un indicio de debilidad de la tendencia.==
 
-![Pasted image 20240904130444.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240904130444.png)
+![Pasted image 20240904130444.png](/img/user/img/user/900 - ANEXO/Pasted image 20240904130444.png)
 
