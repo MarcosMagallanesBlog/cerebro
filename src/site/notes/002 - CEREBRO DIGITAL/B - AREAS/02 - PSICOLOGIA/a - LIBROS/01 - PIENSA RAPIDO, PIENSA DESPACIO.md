@@ -9,7 +9,7 @@ tags: #psicologia #raiz
 # 01 - PIENSA RAPIDO, PIENSA DESPACIO
 [[002 - CEREBRO DIGITAL/D - BIOGRAFIAS/DANIEL KAHNEMAN\|DANIEL KAHNEMAN]]
 
-![Pasted image 20231211232346.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020231211232346.png)
+![Pasted image 20231211232346.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020231211232346.png)
 ## Sinopsis
 **Un apasionante recorrido por el funcionamiento de la mente de la mano del padre de la psicología conductista y premio Nobel de Economía en 2002: Daniel Kahneman.**
 
@@ -500,4 +500,64 @@ https://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1
 >
 >
 >{ #4nx5ph11lqi}
+
+
+
+>
+>*ede hacer.JUZGANDO LA NORMALIDAD ==La función principal del Sistema 1 es mantener y actualizar un modelo de nuestromundo personal que representa lo que en él es normal.== El modelo está construidocon as*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^9auojjw5nhh\|show annotation]]
+>
+>
+>
+>{ #9auojjw5nhh}
+
+
+
+>
+>*resenta lo que en él es normal. ==El modelo está construidocon asociaciones que vinculan ideas sobre circunstancias, aconteceres, accionesy  consecuencias  que  concurren  con  alguna  regularidad,  unas  veces  al  mismotiempo  y  otras  en  un  intervalo  relativamente  corto.  Una  vez  formados  yreforzados estos vínculos, el patrón de ideas asociadas representa la estructura delos  aconteceres  de  nuestras  vidas,  y  esta  determina  nuestra  interpretación  delpresente y nuestras expectativas para el futuro.== Un aspecto esencial de nuestra v*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^6qgv16wzcc5\|show annotation]]
+>
+>
+>
+>{ #6qgv16wzcc5}
+
+
+
+>
+>*ras expectativas para el futuro. ==Un aspecto esencial de nuestra vida mental es la capacidad para la sorpresa,y la sorpresa misma es el indicador más sensible de nuestro modo de entender elmundo  y  de  lo  que  de  él  esperamos.  Hay  dos  clases  principales  de  sorpresa== .Algunas  expectativas  son  act*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^qwtxj6plktl\|show annotation]]
+>
+>
+>
+>{ #qwtxj6plktl}
+
+
+
+>
+>*amos  oír  una  voz  familiar. ==Nossorprende  que  algo  activamente  esperado  no  suceda== .  Pero  hay  una  categoríamuy*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^mltmmjenlsi\|show annotation]]
+>
+>
+>
+>{ #mltmmjenlsi}
+
+
+
+>
+>*vamente  esperado  no  suceda. ==Pero  hay  una  categoría== muy extensa de eventos que pasiv*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^e72ec4rpxbr\|show annotation]]
+>
+>
+>
+>{ #e72ec4rpxbr}
+
+
+
+>
+>*ceda.  Pero  hay  una  categoría ==muy extensa de eventos que pasivamente esperamos que puedan ocurrir; no losesperamos  propiamente,  pero  no  nos  sorprenden  cuando  ocurren.  Sonacontecimientos normales en una situación determinada, aunque no lo suficienteprobables para ser esperados activamente== .Una  simple  casualidad  puede*
+>[[002 - CEREBRO DIGITAL/B - AREAS/02 - PSICOLOGIA/a - LIBROS/01 - PIENSA RAPIDO, PIENSA DESPACIO#^yfb465r375d\|show annotation]]
+>
+>
+>
+>{ #yfb465r375d}
 
