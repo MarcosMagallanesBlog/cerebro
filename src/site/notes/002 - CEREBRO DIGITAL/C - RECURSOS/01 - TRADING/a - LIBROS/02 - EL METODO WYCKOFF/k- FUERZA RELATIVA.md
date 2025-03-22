@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/k-fuerza-relativa/"}
 ---
 
+
 ---
 # FUERZA RELATIVA
 
