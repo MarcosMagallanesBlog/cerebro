@@ -19,7 +19,7 @@ Es decir: movimientos fuertes, soportes y resistencias, etc..
 Ejemplo:
 EURODOLAR - Noticias al alza en contexto realmente caro. Todos los compradores desinformados ante las noticias sirven de contrapartida al Profesional que aprovecha para liquidar sus posiciones compradas anteriormente en precios más reducidos. Cuando absorben todas las compras y la oferta (ventas) es colosal en comparación con la demanda (compras) que quedan, el precio se desploma.
 
-![Pasted image 20240229172501.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240229172501.png)
+![Pasted image 20240229172501.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240229172501.png)
 
 >>  Las campañas alcistas se inician después de que finalice con éxito la campaña bajista, que ==empezará cuando los precios estén bajos y cuando el público tenga un claro sentimiento bajista. En ese momento, todas las noticias tendrán un claro sesgo bajista==. 
 >>Estos hombres actúan bajo el principio de que el momento de comprar es justo cuando los precios están bajos, y que el momento de vender es cuando los precios están altos. Los profesionales compran en las épocas malas y venden cuando todo parece estar bien. Las campañas alcistas se inician en la oscuridad y finalizan en la gloria.  
