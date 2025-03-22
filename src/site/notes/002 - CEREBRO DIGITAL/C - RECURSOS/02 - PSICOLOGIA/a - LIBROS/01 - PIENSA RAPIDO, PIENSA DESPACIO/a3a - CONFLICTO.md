@@ -9,7 +9,7 @@
 # CONFLICTO (RELACIÓN SISTEMA 1 - SISTEMA 2)
 
 ## EJERCICIO
-![Pasted image 20231214181900.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020231214181900.png)
+![Pasted image 20231214181900.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020231214181900.png)
 
 Estamos casi seguros de poder decir las palabras correctas en ambas tareas. También notamos que hay partes de la tarea que son más sencillas que otras. 
 
