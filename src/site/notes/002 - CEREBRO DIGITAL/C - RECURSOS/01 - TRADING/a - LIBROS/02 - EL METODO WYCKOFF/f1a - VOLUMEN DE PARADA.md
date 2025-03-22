@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/f1a-volumen-de-parada/"}
 ---
 
+
 ---
 # VOLUMEN DE PARADA
 >==Es uno de los gestos más significativos que nos ayudan a detectar la acción del dinero profesional==. Se expresa mediante un movimiento bajista del precio muy violento que, paradójicamente, ==esconde justo lo contrario de lo que aparenta==: en vez de implicar una clara intención bajista, que es lo que le parece al neófito, representa una clara señal de que el profesional está comprando de forma muy intensa.
