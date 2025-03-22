@@ -9,10 +9,10 @@
 Definida la [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS\|c1 - CIENCIA DEL FUNCIONAMIENTO DE LOS HABITOS]] y precisamente el [[002 - CEREBRO DIGITAL/C - RECURSOS/03 - GESTION DE TIEMPO Y PROYECTOS/a - LIBROS/01 - HABITOS ATOMICOS/c2 - EL CICLO DE LOS HABITOS\|c2 - EL CICLO DE LOS HABITOS]], el autor establece cuatro leyes para el cambio de conducta.
 
 ## COMO CREAR UN HÁBITO
-![Pasted image 20240218164205.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240218164205.png)
+![Pasted image 20240218164205.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240218164205.png)
 
 ## COMO DESTRUIR UN HABITO
-![Pasted image 20240218164228.png](/img/user/900%20-%20ANEXO/Pasted%20image%2020240218164228.png)
+![Pasted image 20240218164228.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020240218164228.png)
 
 ## CONCLUSIÓN
 > Como podrás darte cuenta pronto, las Cuatro Leyes del Cambio de Conducta se aplican prácticamente a todas las áreas
