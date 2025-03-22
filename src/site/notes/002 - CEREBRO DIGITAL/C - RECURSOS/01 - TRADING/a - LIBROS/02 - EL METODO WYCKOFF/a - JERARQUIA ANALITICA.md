@@ -2,12 +2,15 @@
 {"dg-publish":true,"permalink":"/002-cerebro-digital/c-recursos/01-trading/a-libros/02-el-metodo-wyckoff/a-jerarquia-analitica/"}
 ---
 
+tipo: [[002 - CEREBRO DIGITAL/NOTA PERMANENTE\|NOTA PERMANENTE]]
 
 ---
 # JERARQUIA ANALITICA
 ==Wyckoff proponía estudiar el mercado de temporalidades altas a bajas, y sostenía que las primeras reinaban sobre las segundas.==
 
 >Para ello realizaba un análisis multidimensional que abarcaba tres áreas de observación: ==la tendencia general del mercado, la tendencia de la industria del activo bajo análisis y la tendencia empresarial de la propia compañía==.
+
+Así mismo apoyaba sus análisis en una serie de [[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF/b - LAS TRES LEYES DE WYCKOFF\|leyes inviolables que rigen el mercado]].
 
 >Dentro de la tendencia del mercado, prestaba atención a: 
 >==1. La tendencia en el largo plazo. 
@@ -35,3 +38,6 @@
 De esta forma se disponía a conocer "el terreno" donde iba a competir con los demás operadores para obtener beneficios.
 
 Muy similar al aspecto analítico que en arte de la guerra se presenta como "[[002 - CEREBRO DIGITAL/C - RECURSOS/01 - TRADING/d - OTROS/c - EL ARTE DE LA GUERRA - EL TERRENO\|c - EL ARTE DE LA GUERRA - EL TERRENO]]".
+
+---
+[[002 - CEREBRO DIGITAL/B - AREAS/01 - TRADING/a - LIBROS/02 - EL METODO WYCKOFF\|02 - EL METODO WYCKOFF]]
