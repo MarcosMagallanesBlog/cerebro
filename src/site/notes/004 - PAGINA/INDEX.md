@@ -9,6 +9,7 @@
 | [[004 - PAGINA/RECURSOS/INDICES/EL METODO WYCKOFF\|EL METODO WYCKOFF]]                                                     |
 | [[004 - PAGINA/RECURSOS/INDICES/HABITOS ATOMICOS\|HABITOS ATOMICOS]]                                                       |
 | [[004 - PAGINA/RECURSOS/INDICES/PIENSA RAPIDO, PIENSA DESPACIO\|PIENSA RAPIDO, PIENSA DESPACIO]]                           |
+| [[004 - PAGINA/RECURSOS/INDICES/RUPE PARA PROVEDORES\|RUPE PARA PROVEDORES]]                                               |
 
 { .block-language-dataview}
 # NOTA
