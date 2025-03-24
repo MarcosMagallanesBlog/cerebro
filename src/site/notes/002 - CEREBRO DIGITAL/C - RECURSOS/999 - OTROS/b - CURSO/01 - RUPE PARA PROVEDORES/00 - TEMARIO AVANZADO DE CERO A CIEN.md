@@ -24,19 +24,19 @@
     
     - Regula los procedimientos de contratación del Estado.
         
-    - Enlace: TOCAF - IMPO
+    - https://www.impo.com.uy/bases/tocaf2012/150-2012
         
 - **Decreto N° 150/012**
     
     - Reglamento del TOCAF sobre contrataciones del Estado.
         
-    - Enlace: Decreto 150/012 - IMPO
+    - https://www.impo.com.uy/bases/decretos/150-2012
         
 - **Ley N° 19.355 - Presupuesto Nacional**
     
     - Contiene regulaciones sobre contrataciones públicas y régimen de pagos.
         
-    - Enlace: Ley 19.355 - IMPO
+    - https://www.impo.com.uy/bases/leyes/19355-2015
         
 
 🔹 **Materiales recomendados**:  
