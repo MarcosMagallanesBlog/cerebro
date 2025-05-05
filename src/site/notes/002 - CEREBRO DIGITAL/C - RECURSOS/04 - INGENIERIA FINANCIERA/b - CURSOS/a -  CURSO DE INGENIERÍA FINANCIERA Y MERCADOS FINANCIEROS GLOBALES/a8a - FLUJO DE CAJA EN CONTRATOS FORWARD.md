@@ -21,7 +21,7 @@
 
 # Funcionamiento de los Contratos Forward
 
-## 📈 Gráfica: Compra Forward (Posición Larga)
+## Gráfica: Compra Forward (Posición Larga)
 
 - **Ejes:**
   - X: Tipo de cambio final (Soles/USD)
@@ -36,7 +36,7 @@
 
 ---
 
-## 📉 Gráfica: Venta Forward (Posición Corta)
+## Gráfica: Venta Forward (Posición Corta)
 
 - **Ejes:**
   - X: Tipo de cambio final (Soles/USD)
@@ -50,10 +50,6 @@
 ![Pasted image 20250423220240.png](/img/user/img/user/900%20-%20ANEXO/Pasted%20image%2020250423220240.png)
 
 ---
-
-## Insights clave
-
 - Se denomina **posición larga** al contrato de compra forward: se espera recibir el activo (divisas).
 - Se denomina **posición corta** al contrato de venta forward: se espera entregar el activo.
 - Las gráficas son **líneas rectas** que cruzan el eje horizontal en el punto del precio pactado.
-
