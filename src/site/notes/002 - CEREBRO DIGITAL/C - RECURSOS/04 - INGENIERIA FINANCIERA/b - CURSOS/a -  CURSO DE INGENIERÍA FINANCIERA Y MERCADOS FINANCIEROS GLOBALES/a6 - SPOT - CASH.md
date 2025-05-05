@@ -6,19 +6,16 @@ Perfecto, ahora te desarrollo cada nota Zettelkasten en más detalle, conservand
 
 ---
 
-### Usos del mercado de derivados
+### ==Usos del mercado de derivados==
 
-**Idea central:**  
-Los mercados derivados se utilizan con fines de **cobertura de riesgo** o **especulación financiera**.
+**Idea central:** 
+Los mercados derivados se utilizan con fines de **==cobertura de riesgo==** (ejemplo; [[002 - CEREBRO DIGITAL/C - RECURSOS/04 - INGENIERIA FINANCIERA/b - CURSOS/a -  CURSO DE INGENIERÍA FINANCIERA Y MERCADOS FINANCIEROS GLOBALES/a8b -FOROWARDS COMO COBERTURA DE RIESGO CAMBIARIO\|COBERTURA FOROWARD]] o **==especulación financiera==**.
 - La **cobertura** (hedging) permite reducir o eliminar el riesgo de variaciones en el tipo de cambio. Ejemplo: una empresa que importará productos en dólares puede fijar hoy el tipo de cambio futuro para evitar sorpresas.
 - La **especulación** consiste en anticipar (apostar) movimientos del mercado para obtener ganancias. Por ejemplo: comprar dólares a futuro esperando que suban de precio.
 - Ambas estrategias se utilizan con contratos como **forwards**, **futuros** y **opciones**.
 
-
-
-
 - ### Mercados centralizados vs descentralizados
-La principal diferencia entre futuros y otros derivados como el Forward u opciones es si se negocian en un **mercado centralizado (bolsa)** o **descentralizado (OTC)**.
+==La principal diferencia entre futuros y otros derivados como el Forward u opciones es si se negocian en un **mercado centralizado (bolsa)** o **descentralizado (OTC)**.==
 - **Mercados centralizados**:
     - Ej.: futuros de moneda.
     - Se negocian en bolsas (ej. CME, Eurex).
