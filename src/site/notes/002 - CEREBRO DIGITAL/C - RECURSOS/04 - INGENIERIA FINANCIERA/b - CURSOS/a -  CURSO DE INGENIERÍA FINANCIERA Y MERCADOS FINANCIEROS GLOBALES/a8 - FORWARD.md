@@ -22,5 +22,6 @@ Explicación ampliada:
     - Forward a 1 año: USD/PEN = 2.86 → se pacta pagar 2.86 soles por dólar en 1 año.
 - Ambos precios expresan lo mismo (precio de una moneda en términos de otra), pero se aplican en distintos **momentos temporales**.
 - El Forward puede incluir una "prima" o "descuento" respecto al spot, dependiendo de tasas de interés u otros factores económicos.
-
+---
 [[002 - CEREBRO DIGITAL/C - RECURSOS/04 - INGENIERIA FINANCIERA/b - CURSOS/a -  CURSO DE INGENIERÍA FINANCIERA Y MERCADOS FINANCIEROS GLOBALES/a8a - FLUJO DE CAJA EN CONTRATOS FORWARD\|a8a - FLUJO DE CAJA EN CONTRATOS FORWARD]]
+[[002 - CEREBRO DIGITAL/C - RECURSOS/04 - INGENIERIA FINANCIERA/b - CURSOS/a -  CURSO DE INGENIERÍA FINANCIERA Y MERCADOS FINANCIEROS GLOBALES/a8b -FOROWARDS COMO COBERTURA DE RIESGO CAMBIARIO\|a8b -FOROWARDS COMO COBERTURA DE RIESGO CAMBIARIO]]
