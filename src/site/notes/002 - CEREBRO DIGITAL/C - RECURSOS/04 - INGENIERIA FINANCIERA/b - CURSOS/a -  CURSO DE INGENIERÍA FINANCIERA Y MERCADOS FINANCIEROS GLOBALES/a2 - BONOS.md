@@ -8,7 +8,7 @@ El emisor vende el bono y recibe dinero, comprometiéndose a devolverlo en el fu
 
 > Es una forma de préstamo donde el inversor actúa como prestamista.
 
-
+[[002 - CEREBRO DIGITAL/C - RECURSOS/04 - INGENIERIA FINANCIERA/b - CURSOS/a -  CURSO DE INGENIERÍA FINANCIERA Y MERCADOS FINANCIEROS GLOBALES/a2f - COMO DETERMINAR EL VALOR DE UN BONO\|a2f - COMO DETERMINAR EL VALOR DE UN BONO]]
 ## Agentes económicos en el mercado de bonos
 
 Existen dos agentes en el mercado de bonos:
